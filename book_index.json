@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "gutenberg_id": 1342,
+    "text_sample": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "embedding": [0.1, -0.2, 0.3, 0.4, -0.5]
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Crime",
+    "gutenberg_id": 2852,
+    "text_sample": "Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night...",
+    "embedding": [0.2, 0.1, -0.3, 0.5, 0.0]
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "gutenberg_id": 6130,
+    "text_sample": "In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell...",
+    "embedding": [-0.1, 0.4, 0.2, -0.3, 0.6]
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure",
+    "gutenberg_id": 120,
+    "text_sample": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars...",
+    "embedding": [0.3, -0.1, 0.0, 0.2, -0.4]
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Drama",
+    "gutenberg_id": 64317,
+    "text_sample": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.",
+    "embedding": [0.0, 0.2, -0.1, 0.3, 0.5]
+  }
+]
