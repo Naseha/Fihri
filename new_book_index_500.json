@@ -6461,7 +6461,6 @@
     "genre": "Thriller",
     "gutenberg_id": 2335
   },
-  [
   {
     "title": "A Story of the Days to Come",
     "author": "Wells, H. G. (Herbert George)",
@@ -9078,4 +9077,4872 @@
     "genre": "Thriller",
     "gutenberg_id": 2404
   }
+[
+  {
+    "title": "A Story of the Days to Come",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 2335
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 36
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "author": "Buchan, John",
+    "genre": "Thriller",
+    "gutenberg_id": 558
+  },
+  {
+    "title": "The Secret Agent: A Simple Tale",
+    "author": "Conrad, Joseph",
+    "genre": "Thriller",
+    "gutenberg_id": 974
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Thriller",
+    "gutenberg_id": 1695
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "author": "Hope, Anthony",
+    "genre": "Thriller",
+    "gutenberg_id": 95
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Collins, Wilkie",
+    "genre": "Thriller",
+    "gutenberg_id": 143
+  },
+  {
+    "title": "The Moonstone",
+    "author": "Collins, Wilkie",
+    "genre": "Thriller",
+    "gutenberg_id": 155
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 2852
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1661
+  },
+  {
+    "title": "The Sign of the Four",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 2097
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 244
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Christie, Agatha",
+    "genre": "Thriller",
+    "gutenberg_id": 863
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Christie, Agatha",
+    "genre": "Thriller",
+    "gutenberg_id": 1155
+  },
+  {
+    "title": "The Innocents Abroad",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 3176
+  },
+  {
+    "title": "Roughing It",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 3177
+  },
+  {
+    "title": "Life on the Mississippi",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 245
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 1837
+  },
+  {
+    "title": "The American Claimant",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 102
+  },
+  {
+    "title": "Personal Recollections of Joan of Arc",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 2834
+  },
+  {
+    "title": "Following the Equator: A Journey Around the World",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 2895
+  },
+  {
+    "title": "The Gilded Age: A Tale of Today",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 3178
+  },
+  {
+    "title": "A Tramp Abroad",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 119
+  },
+  {
+    "title": "The Tragedy of Pudd'nhead Wilson",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 82
+  },
+  {
+    "title": "Tom Sawyer Abroad",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 91
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "author": "Twain, Mark",
+    "genre": "Thriller",
+    "gutenberg_id": 93
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 215
+  },
+  {
+    "title": "White Fang",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 910
+  },
+  {
+    "title": "The Sea-Wolf",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 421
+  },
+  {
+    "title": "Martin Eden",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1057
+  },
+  {
+    "title": "The Iron Heel",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1164
+  },
+  {
+    "title": "The Valley of the Moon",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1398
+  },
+  {
+    "title": "The Star Rover",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1157
+  },
+  {
+    "title": "The Little Lady of the Big House",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 3073
+  },
+  {
+    "title": "Jerry of the Islands",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1289
+  },
+  {
+    "title": "Michael, Brother of Jerry",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1290
+  },
+  {
+    "title": "The Cruise of the Dazzler",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1226
+  },
+  {
+    "title": "A Daughter of the Snows",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1133
+  },
+  {
+    "title": "The Son of the Wolf",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 214
+  },
+  {
+    "title": "The God of His Fathers: Tales of the Klondyke",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1134
+  },
+  {
+    "title": "Children of the Frost",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1135
+  },
+  {
+    "title": "The Faith of Men",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1136
+  },
+  {
+    "title": "Love of Life, and Other Stories",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1137
+  },
+  {
+    "title": "Lost Face",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1138
+  },
+  {
+    "title": "South Sea Tales",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1139
+  },
+  {
+    "title": "When God Laughs, and Other Stories",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1140
+  },
+  {
+    "title": "The House of Pride, and Other Tales of Hawaii",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1141
+  },
+  {
+    "title": "Smoke Bellew",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1142
+  },
+  {
+    "title": "The Turtles of Tasman",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1143
+  },
+  {
+    "title": "The Red One",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1144
+  },
+  {
+    "title": "On the Makaloa Mat",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1145
+  },
+  {
+    "title": "The Human Drift",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1146
+  },
+  {
+    "title": "The Cruise of the Snark",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1147
+  },
+  {
+    "title": "John Barleycorn",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1148
+  },
+  {
+    "title": "The People of the Abyss",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1149
+  },
+  {
+    "title": "The Road",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1150
+  },
+  {
+    "title": "The Kempton-Wace Letters",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1151
+  },
+  {
+    "title": "The War of the Classes",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1152
+  },
+  {
+    "title": "Revolution, and Other Essays",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1153
+  },
+  {
+    "title": "The Acorn-Planter: A California Forest Play",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1154
+  },
+  {
+    "title": "The Scarlet Plague",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1156
+  },
+  {
+    "title": "The Mutiny of the Elsinore",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1158
+  },
+  {
+    "title": "Before Adam",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1159
+  },
+  {
+    "title": "Adventure",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1160
+  },
+  {
+    "title": "The Game",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1161
+  },
+  {
+    "title": "A Son of the Sun",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1162
+  },
+  {
+    "title": "The Abysmal Brute",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1163
+  },
+  {
+    "title": "Hearts of Three",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1165
+  },
+  {
+    "title": "The Assassination Bureau, Ltd.",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1166
+  },
+  {
+    "title": "The Night-Born",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1167
+  },
+  {
+    "title": "The Strength of the Strong",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1168
+  },
+  {
+    "title": "Tales of the Fish Patrol",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1169
+  },
+  {
+    "title": "Dutch Courage, and Other Stories",
+    "author": "London, Jack",
+    "genre": "Thriller",
+    "gutenberg_id": 1170
+  },
+  {
+    "title": "The Red Feathers: A Story of Remarkable Adventures When the World Was Young",
+    "author": "Roberts, Theodore Goodridge",
+    "genre": "Thriller",
+    "gutenberg_id": 1171
+  },
+  {
+    "title": "The Raid on the Termites",
+    "author": "Brill, Paul",
+    "genre": "Thriller",
+    "gutenberg_id": 1172
+  },
+  {
+    "title": "The Moon Maid",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Thriller",
+    "gutenberg_id": 1173
+  },
+  {
+    "title": "The Land That Time Forgot",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Thriller",
+    "gutenberg_id": 1174
+  },
+  {
+    "title": "The People That Time Forgot",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Thriller",
+    "gutenberg_id": 1175
+  },
+  {
+    "title": "Out of Time's Abyss",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Thriller",
+    "gutenberg_id": 1176
+  },
+  {
+    "title": "The Lost World",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 139
+  },
+  {
+    "title": "The Poison Belt",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 329
+  },
+  {
+    "title": "The Country of the Blind, and Other Stories",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1187
+  },
+  {
+    "title": "The Door in the Wall, and Other Stories",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 456
+  },
+  {
+    "title": "The Stolen Bacillus, and Other Incidents",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1186
+  },
+  {
+    "title": "Tales of Space and Time",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1185
+  },
+  {
+    "title": "Twelve Stories and a Dream",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1184
+  },
+  {
+    "title": "The Plattner Story, and Others",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1183
+  },
+  {
+    "title": "The Obliterated Man",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1182
+  },
+  {
+    "title": "The Empire of the Ants",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1181
+  },
+  {
+    "title": "The Crystal Egg",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1180
+  },
+  {
+    "title": "The Man with a Nose",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1179
+  },
+  {
+    "title": "A Deal in Ostriches",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1190
+  },
+  {
+    "title": "The Rajah's Treasure",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1191
+  },
+  {
+    "title": "The Flying Man",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1192
+  },
+  {
+    "title": "The Diamond Maker",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1193
+  },
+  {
+    "title": "Aepyornis Island",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1194
+  },
+  {
+    "title": "The Remarkable Case of Davidson's Eyes",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1195
+  },
+  {
+    "title": "The Lord of the Dynamos",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1196
+  },
+  {
+    "title": "The Hammerpond Park Burglary",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1197
+  },
+  {
+    "title": "The Jilting of Jane",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1198
+  },
+  {
+    "title": "The Cone",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1199
+  },
+  {
+    "title": "The Flowering of the Strange Orchid",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1200
+  },
+  {
+    "title": "The Sea Raiders",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1201
+  },
+  {
+    "title": "The Purple Pileus",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1202
+  },
+  {
+    "title": "The Moth",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1203
+  },
+  {
+    "title": "The Treasure in the Forest",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1204
+  },
+  {
+    "title": "Under the Knife",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1205
+  },
+  {
+    "title": "The Reconciliation",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1206
+  },
+  {
+    "title": "Jimmy Goggles the God",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1207
+  },
+  {
+    "title": "The Magic Shop",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1208
+  },
+  {
+    "title": "The Valley of Spiders",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1209
+  },
+  {
+    "title": "The Truth About Pyecraft",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1210
+  },
+  {
+    "title": "Mr. Skelmersdale in Fairyland",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1211
+  },
+  {
+    "title": "The Inexperienced Ghost",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1212
+  },
+  {
+    "title": "The New Accelerator",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1213
+  },
+  {
+    "title": "The Stolen Body",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1214
+  },
+  {
+    "title": "Mr. Brisher's Treasure",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1215
+  },
+  {
+    "title": "The Man Who Could Work Miracles",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1216
+  },
+  {
+    "title": "Filmer",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1217
+  },
+  {
+    "title": "The Dream of Armageddon",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1218
+  },
+  {
+    "title": "The Land Ironclads",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1219
+  },
+  {
+    "title": "The Coming of the Bashi-Bazouks",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1220
+  },
+  {
+    "title": "My First Aeroplane",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1221
+  },
+  {
+    "title": "Little Mother up the Mörderberg",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1222
+  },
+  {
+    "title": "The Grisly Folk",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1223
+  },
+  {
+    "title": "The Last Three Files",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1224
+  },
+  {
+    "title": "A Catastrophe",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1225
+  },
+  {
+    "title": "The Argonauts of the Air",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1227
+  },
+  {
+    "title": "The Story of the Late Mr. Elvesham",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1228
+  },
+  {
+    "title": "In the Abyss",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1229
+  },
+  {
+    "title": "The Apple",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1230
+  },
+  {
+    "title": "Under the Microscope",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1231
+  },
+  {
+    "title": "The Sea-Raiders",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1233
+  },
+  {
+    "title": "The Triumphs of a Taxidermist",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1234
+  },
+  {
+    "title": "A Deal in Ostriches",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1235
+  },
+  {
+    "title": "The Rajah's Treasure",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1236
+  },
+  {
+    "title": "The Temptation of Harringay",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1237
+  },
+  {
+    "title": "The Flying Man",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1238
+  },
+  {
+    "title": "The Moth",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1239
+  },
+  {
+    "title": "The Cataleptic",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Thriller",
+    "gutenberg_id": 1240
+  },
+  {
+    "title": "The Crimson Blind",
+    "author": "White, Fred M. (Fred Merrick)",
+    "genre": "Thriller",
+    "gutenberg_id": 1241
+  },
+  {
+    "title": "The Man with the Black Feather",
+    "author": "Leroux, Gaston",
+    "genre": "Thriller",
+    "gutenberg_id": 1242
+  },
+  {
+    "title": "The Silent Bullet",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1243
+  },
+  {
+    "title": "The Poisoned Pen",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1244
+  },
+  {
+    "title": "The Dream Doctor",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1245
+  },
+  {
+    "title": "The Exploits of Elaine",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1246
+  },
+  {
+    "title": "The Romance of Elaine",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1247
+  },
+  {
+    "title": "The Triumph of Elaine",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1248
+  },
+  {
+    "title": "The Treasure-Train",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1249
+  },
+  {
+    "title": "The Social Gangster",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1250
+  },
+  {
+    "title": "The Gold of the Gods",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1251
+  },
+  {
+    "title": "The War Terror",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1252
+  },
+  {
+    "title": "The Ear in the Wall",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1253
+  },
+  {
+    "title": "The Adventuress",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1254
+  },
+  {
+    "title": "The Film Mystery",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1255
+  },
+  {
+    "title": "The Soul Scar: A Craig Kennedy Scientific Mystery Novel",
+    "author": "Reeve, Arthur B. (Arthur Benjamin)",
+    "genre": "Thriller",
+    "gutenberg_id": 1256
+  },
+  {
+    "title": "The Diamond Master",
+    "author": "Futrelle, Jacques",
+    "genre": "Thriller",
+    "gutenberg_id": 1257
+  },
+  {
+    "title": "The Problem of Cell 13",
+    "author": "Futrelle, Jacques",
+    "genre": "Thriller",
+    "gutenberg_id": 1258
+  },
+  {
+    "title": "The Thinking Machine",
+    "author": "Futrelle, Jacques",
+    "genre": "Thriller",
+    "gutenberg_id": 1259
+  },
+  {
+    "title": "The Chase of the Golden Plate",
+    "author": "Futrelle, Jacques",
+    "genre": "Thriller",
+    "gutenberg_id": 1261
+  },
+  {
+    "title": "The House of the Whispering Pines",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1262
+  },
+  {
+    "title": "The Leavenworth Case",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1263
+  },
+  {
+    "title": "A Strange Disappearance",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1264
+  },
+  {
+    "title": "The Circular Study",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1265
+  },
+  {
+    "title": "The Filigree Ball",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1266
+  },
+  {
+    "title": "The Amethyst Box",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1267
+  },
+  {
+    "title": "The Woman in the Alcove",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1268
+  },
+  {
+    "title": "The Mayor's Wife",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 1269
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1270
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1271
+  },
+  {
+    "title": "The Blithedale Romance",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1272
+  },
+  {
+    "title": "The Marble Faun; Or, The Romance of Monte Beni, Volume 1.",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1273
+  },
+  {
+    "title": "The Marble Faun; Or, The Romance of Monte Beni, Volume 2.",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1274
+  },
+  {
+    "title": "Twice-Told Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1275
+  },
+  {
+    "title": "The Great Stone Face, and Other Tales of the White Mountains",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1276
+  },
+  {
+    "title": "Mosses from an Old Manse, and Other Stories",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1277
+  },
+  {
+    "title": "The Snow Image, and Other Twice-Told Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1278
+  },
+  {
+    "title": "A Wonder Book for Girls and Boys",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1279
+  },
+  {
+    "title": "Tanglewood Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1280
+  },
+  {
+    "title": "Grandfather's Chair",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1281
+  },
+  {
+    "title": "Biographical Stories",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1282
+  },
+  {
+    "title": "Sketches and Studies",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1283
+  },
+  {
+    "title": "Our Old Home: A Series of English Sketches",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1284
+  },
+  {
+    "title": "Passages from the American Notebooks",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1285
+  },
+  {
+    "title": "Passages from the French and Italian Note-Books",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1286
+  },
+  {
+    "title": "The Dolliver Romance",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1287
+  },
+  {
+    "title": "Septimius Felton, or, the Elixir of Life",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1288
+  },
+  {
+    "title": "Fanshawe",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1291
+  },
+  {
+    "title": "The Ancestral Footstep",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1292
+  },
+  {
+    "title": "Doctor Grimshawe's Secret — a Romance",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Thriller",
+    "gutenberg_id": 1293
+  },
+  {
+    "title": "The Ghost Ship",
+    "author": "Middleton, Richard",
+    "genre": "Thriller",
+    "gutenberg_id": 1294
+  },
+  {
+    "title": "The Gray Plague",
+    "author": "MacLaren, I. M.",
+    "genre": "Thriller",
+    "gutenberg_id": 1295
+  },
+  {
+    "title": "The Thing from the Lake",
+    "author": "Ingram, Eleanor M. (Eleanor Marie)",
+    "genre": "Thriller",
+    "gutenberg_id": 1296
+  },
+  {
+    "title": "The Port of Missing Men",
+    "author": "Nicholson, Meredith",
+    "genre": "Thriller",
+    "gutenberg_id": 1297
+  },
+  {
+    "title": "The Green Flag, and Other Stories of War and Sport",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1662
+  },
+  {
+    "title": "The Last Galley; Impressions and Tales",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1663
+  },
+  {
+    "title": "The Captain of the Polestar, and Other Tales",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1665
+  },
+  {
+    "title": "Round the Red Lamp: Being Facts and Fancies of Medical Life",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1666
+  },
+  {
+    "title": "The Dealings of Captain Sharkey, and Other Tales of Pirates",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1667
+  },
+  {
+    "title": "The Great Keinplatz Experiment and Other Tales of Twilight and the Unseen",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1668
+  },
+  {
+    "title": "The Man from Archangel, and Other Tales of Adventure",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1669
+  },
+  {
+    "title": "The Exploits of Brigadier Gerard",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1670
+  },
+  {
+    "title": "The Adventures of Gerard",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1671
+  },
+  {
+    "title": "Rodney Stone",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1672
+  },
+  {
+    "title": "Sir Nigel",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1673
+  },
+  {
+    "title": "The White Company",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1674
+  },
+  {
+    "title": "The Refugees",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1675
+  },
+  {
+    "title": "Uncle Bernac: A Memory of the Empire",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1676
+  },
+  {
+    "title": "The Great Shadow and Other Napoleonic Tales",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1677
+  },
+  {
+    "title": "A Duet, with an Occasional Chorus",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1678
+  },
+  {
+    "title": "The Stark Munro Letters",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1679
+  },
+  {
+    "title": "The Firm of Girdlestone",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1680
+  },
+  {
+    "title": "The Doings of Raffles Haw",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1681
+  },
+  {
+    "title": "Beyond the City",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1682
+  },
+  {
+    "title": "The Parasite",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1683
+  },
+  {
+    "title": "The Mystery of Cloomber",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1684
+  },
+  {
+    "title": "Micah Clarke",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1685
+  },
+  {
+    "title": "The Tragedy of the Korosko",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1686
+  },
+  {
+    "title": "Songs of Action",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1687
+  },
+  {
+    "title": "Songs of the Road",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1688
+  },
+  {
+    "title": "The Guards Came Through, and Other Poems",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1689
+  },
+  {
+    "title": "The Great Boer War",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1690
+  },
+  {
+    "title": "The War in South Africa, Its Cause and Conduct",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1691
+  },
+  {
+    "title": "A History of the Great War (Volume 1): The British Campaign in France and Flanders",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1692
+  },
+  {
+    "title": "The British Campaign in France and Flanders, 1914",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1693
+  },
+  {
+    "title": "The British Campaign in France and Flanders, 1915",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1694
+  },
+  {
+    "title": "The British Campaign in France and Flanders, 1916",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1696
+  },
+  {
+    "title": "The British Campaign in France and Flanders, 1917",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1697
+  },
+  {
+    "title": "A Visit to Three Fronts: June 1916",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1698
+  },
+  {
+    "title": "The New Revelation",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1699
+  },
+  {
+    "title": "The Vital Message",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1700
+  },
+  {
+    "title": "The Coming of the Fairies",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1701
+  },
+  {
+    "title": "Through the Magic Door",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1702
+  },
+  {
+    "title": "The Crime of the Congo",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1703
+  },
+  {
+    "title": "The Case of Oscar Slater",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1704
+  },
+  {
+    "title": "The History of Spiritualism, Vol. I",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1705
+  },
+  {
+    "title": "The History of Spiritualism, Vol. II",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1706
+  },
+  {
+    "title": "My Friend the Murderer",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1707
+  },
+  {
+    "title": "The German War",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1708
+  },
+  {
+    "title": "A Desert Drama: Being the Tragedy of the Korosko",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 1709
+  },
+  {
+    "title": "The Story of Ab: A Tale of the Time of the Cave Man",
+    "author": "Waterloo, Stanley",
+    "genre": "Thriller",
+    "gutenberg_id": 1710
+  },
+  {
+    "title": "The Man Who Rocked the Earth",
+    "author": "Train, Arthur Cheney",
+    "genre": "Thriller",
+    "gutenberg_id": 1711
+  },
+  {
+    "title": "The Blind Man's Eyes",
+    "author": "MacHarg, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2210
+  },
+  {
+    "title": "The Achievements of Luther Trant",
+    "author": "Balmer, Edwin",
+    "genre": "Thriller",
+    "gutenberg_id": 2211
+  },
+  {
+    "title": "The Film of Fear",
+    "author": "Fredericks, Arnold",
+    "genre": "Thriller",
+    "gutenberg_id": 2212
+  },
+  {
+    "title": "The Abandoned Room",
+    "author": "Camp, Wadsworth",
+    "genre": "Thriller",
+    "gutenberg_id": 2213
+  },
+  {
+    "title": "The Fire-Gods: A Tale of the Congo",
+    "author": "Gilson, Charles",
+    "genre": "Thriller",
+    "gutenberg_id": 2214
+  },
+  {
+    "title": "The Red-Haired Man",
+    "author": "MacVicar, H. G.",
+    "genre": "Thriller",
+    "gutenberg_id": 2215
+  },
+  {
+    "title": "The Shrieking Pit",
+    "author": "Rees, Arthur J. (Arthur John)",
+    "genre": "Thriller",
+    "gutenberg_id": 2216
+  },
+  {
+    "title": "The Hand in the Dark",
+    "author": "Rees, Arthur J. (Arthur John)",
+    "genre": "Thriller",
+    "gutenberg_id": 2217
+  },
+  {
+    "title": "The Diamond Pin",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2218
+  },
+  {
+    "title": "The Curved Blades",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2219
+  },
+  {
+    "title": "The Room with the Tassels",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2220
+  },
+  {
+    "title": "The Mark of Cain",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2221
+  },
+  {
+    "title": "Vicky Van",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2222
+  },
+  {
+    "title": "Anybody But Anne",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2223
+  },
+  {
+    "title": "The Maxwell Mystery",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2224
+  },
+  {
+    "title": "A Chain of Evidence",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2225
+  },
+  {
+    "title": "The White Alley",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2226
+  },
+  {
+    "title": "The Gold Bag",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2227
+  },
+  {
+    "title": "The Mystery of the Sycamore",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2228
+  },
+  {
+    "title": "The Disappearance of Kimball Webb",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2229
+  },
+  {
+    "title": "The Bronze Hand",
+    "author": "Wells, Carolyn",
+    "genre": "Thriller",
+    "gutenberg_id": 2230
+  },
+  {
+    "title": "The Golden Slipper, and Other Problems for Violet Strange",
+    "author": "Green, Anna Katharine",
+    "genre": "Thriller",
+    "gutenberg_id": 2231
+  },
+  {
+    "title": "The Golden Triangle: The Return of Arsène Lupin",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2232
+  },
+  {
+    "title": "The Secret of Sarek",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2233
+  },
+  {
+    "title": "The Teeth of the Tiger",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2234
+  },
+  {
+    "title": "The Hollow Needle; Further Adventures of Arsène Lupin",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2235
+  },
+  {
+    "title": "The Crystal Stopper",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2236
+  },
+  {
+    "title": "The Confessions of Arsène Lupin",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2237
+  },
+  {
+    "title": "The Blonde Lady: Being a Record of the Duel of Wits between Arsène Lupin and the English Detective",
+    "author": "LeBlanc, Maurice",
+    "genre": "Thriller",
+    "gutenberg_id": 2238
+  },
+  {
+    "title": "The Bomb-Makers",
+    "author": "Le Queux, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2239
+  },
+  {
+    "title": "The Zeppelin Destroyer: Being Some Chapters of Secret History",
+    "author": "Le Queux, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2240
+  },
+  {
+    "title": "The Stretton Street Affair",
+    "author": "Le Queux, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2241
+  },
+  {
+    "title": "The Doctor of Pimlico: Being the Disclosure of a Great Crime",
+    "author": "Le Queux, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2242
+  },
+  {
+    "title": "The Four Faces: A Mystery",
+    "author": "Le Queux, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2243
+  },
+  {
+    "title": "The Intriguers",
+    "author": "Le Queux, William",
+    "genre": "Thriller",
+    "gutenberg_id": 2244
+  },
+  {
+    "title": "The Secret of the Moor",
+    "author": "Dering, Edward Heneage",
+    "genre": "Thriller",
+    "gutenberg_id": 2245
+  },
+  {
+    "title": "The Traitors",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2246
+  },
+  {
+    "title": "The Great Secret",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2247
+  },
+  {
+    "title": "The Wicked Marquis",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2248
+  },
+  {
+    "title": "The Pawns Count",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2249
+  },
+  {
+    "title": "The Double Traitor",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2250
+  },
+  {
+    "title": "The Kingdom of the Blind",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2251
+  },
+  {
+    "title": "The Zeppelin's Passenger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2252
+  },
+  {
+    "title": "The Box with Broken Seals",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2253
+  },
+  {
+    "title": "The Great Impersonation",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2254
+  },
+  {
+    "title": "The Profiteers",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2255
+  },
+  {
+    "title": "The Devil's Paw",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2256
+  },
+  {
+    "title": "The Yellow Crayon",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2257
+  },
+  {
+    "title": "The Avenger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2258
+  },
+  {
+    "title": "A Prince of Sinners",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2259
+  },
+  {
+    "title": "Anna the Adventuress",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2260
+  },
+  {
+    "title": "A Maker of History",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2261
+  },
+  {
+    "title": "The Malefactor",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2262
+  },
+  {
+    "title": "The Betrayal",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2263
+  },
+  {
+    "title": "The Long Arm of Mannister",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2264
+  },
+  {
+    "title": "The Governors",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2265
+  },
+  {
+    "title": "The Moving Finger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2266
+  },
+  {
+    "title": "The Lost Ambassador; Or, The Search for the Missing Delora",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2267
+  },
+  {
+    "title": "The Lighted Way",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2268
+  },
+  {
+    "title": "The Tempting of Tavernake",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2269
+  },
+  {
+    "title": "The Vanished Messenger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2270
+  },
+  {
+    "title": "The Way of These Women",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2271
+  },
+  {
+    "title": "The Double Life of Mr. Alfred Burton",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2272
+  },
+  {
+    "title": "Mr. Grex of Monte Carlo",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2273
+  },
+  {
+    "title": "The Black Box",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2274
+  },
+  {
+    "title": "The Hillman",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2275
+  },
+  {
+    "title": "The Cinema Murder",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2276
+  },
+  {
+    "title": "The Great Prince Shan",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2277
+  },
+  {
+    "title": "The Evil Shepherd",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2278
+  },
+  {
+    "title": "The Wrath to Come",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2279
+  },
+  {
+    "title": "The Golden Beast",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2280
+  },
+  {
+    "title": "Prodigals of Monte Carlo",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2281
+  },
+  {
+    "title": "Harvey Garrard's Crime",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2282
+  },
+  {
+    "title": "The Terrible Hobby of Sir Joseph Londe, Bart.",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2283
+  },
+  {
+    "title": "The Honourable Algernon Knox, Detective",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2284
+  },
+  {
+    "title": "Nicholas Goade, Detective",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "genre": "Thriller",
+    "gutenberg_id": 2285
+  },
+  {
+    "title": "The Channings",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2286
+  },
+  {
+    "title": "Verner's Pride",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2287
+  },
+  {
+    "title": "The Red Court Farm: A Novel (Vol. 1 of 2)",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2288
+  },
+  {
+    "title": "The Red Court Farm: A Novel (Vol. 2 of 2)",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2289
+  },
+  {
+    "title": "Elster's Folly: A Novel",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2290
+  },
+  {
+    "title": "St. Martin's Eve",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2291
+  },
+  {
+    "title": "Mildred Arkell: A Novel",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2292
+  },
+  {
+    "title": "The Master of Greylands",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2293
+  },
+  {
+    "title": "Within the Maze",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2294
+  },
+  {
+    "title": "Dene Hollow",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2295
+  },
+  {
+    "title": "The Shadow of Ashlydyat",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2296
+  },
+  {
+    "title": "Lord Oakburn's Daughters",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2297
+  },
+  {
+    "title": "Roland Yorke",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2298
+  },
+  {
+    "title": "George Canterbury's Will",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2299
+  },
+  {
+    "title": "A Life's Secret: A Story",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2300
+  },
+  {
+    "title": "The House of Halliwell",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2301
+  },
+  {
+    "title": "Pomeroy Abbey",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2302
+  },
+  {
+    "title": "Court Netherleigh: A Novel",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2303
+  },
+  {
+    "title": "The Story of Charles Strange: A Novel",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2304
+  },
+  {
+    "title": "The Unholy Wish, and Other Stories",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2305
+  },
+  {
+    "title": "Ashley, and Other Stories",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2306
+  },
+  {
+    "title": "Johnny Ludlow, First Series",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2307
+  },
+  {
+    "title": "Johnny Ludlow, Second Series",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2308
+  },
+  {
+    "title": "Johnny Ludlow, Third Series",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2309
+  },
+  {
+    "title": "Johnny Ludlow, Fourth Series",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2310
+  },
+  {
+    "title": "Johnny Ludlow, Fifth Series",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2311
+  },
+  {
+    "title": "Johnny Ludlow, Sixth Series",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2312
+  },
+  {
+    "title": "Parkwater, and Other Stories",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2313
+  },
+  {
+    "title": "The Lost Chronicles of a Summer Home",
+    "author": "Wood, Henry, Mrs.",
+    "genre": "Thriller",
+    "gutenberg_id": 2314
+  },
+  {
+    "title": "The Mystery of a Hansom Cab",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2315
+  },
+  {
+    "title": "The Green Mummy",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2316
+  },
+  {
+    "title": "The Secret Passage",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2317
+  },
+  {
+    "title": "The Amethyst Cross",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2318
+  },
+  {
+    "title": "The Golden Wang-ho: A Story of Adventure and Mystery in the China of To-day",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2319
+  },
+  {
+    "title": "The Bishop's Secret",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2320
+  },
+  {
+    "title": "The Crimson Cryptogram: A Detective Story",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2321
+  },
+  {
+    "title": "The Girl from Malta",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2322
+  },
+  {
+    "title": "The Silent House",
+    "author": "Hume, Fergus",
+    "genre": "Thriller",
+    "gutenberg_id": 2323
+  },
+  {
+    "title": "The Secret of the Night",
+    "author": "Leroux, Gaston",
+    "genre": "Thriller",
+    "gutenberg_id": 2324
+  },
+  {
+    "title": "The Mystery of the Yellow Room",
+    "author": "Leroux, Gaston",
+    "genre": "Thriller",
+    "gutenberg_id": 2325
+  },
+  {
+    "title": "The Phantom of the Opera",
+    "author": "Leroux, Gaston",
+    "genre": "Thriller",
+    "gutenberg_id": 175
+  },
+  {
+    "title": "The Sleuth of St. James's Square",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2326
+  },
+  {
+    "title": "The Nameless Thing",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2327
+  },
+  {
+    "title": "The Gilded Chair",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2328
+  },
+  {
+    "title": "The Mystery at the Blue Villa",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2329
+  },
+  {
+    "title": "The Sleuth of St. James's Square",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2330
+  },
+  {
+    "title": "The Problem of the Stolen Rubens",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2331
+  },
+  {
+    "title": "The Man in the Green Hat",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2332
+  },
+  {
+    "title": "The Wrong Hand",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2333
+  },
+  {
+    "title": "The Angel of the Terror",
+    "author": "Post, Melville Davisson",
+    "genre": "Thriller",
+    "gutenberg_id": 2334
+  },
+  {
+    "title": "The Little House",
+    "author": "Conkling, Hilda",
+    "genre": "Thriller",
+    "gutenberg_id": 2336
+  },
+  {
+    "title": "The Man Who Knew",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2337
+  },
+  {
+    "title": "The Secret House",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2338
+  },
+  {
+    "title": "The Clue of the Twisted Candle",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2339
+  },
+  {
+    "title": "The Green Rust",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2340
+  },
+  {
+    "title": "Jack O' Judgment",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2341
+  },
+  {
+    "title": "The Angel of Terror",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2342
+  },
+  {
+    "title": "The Crimson Circle",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2343
+  },
+  {
+    "title": "The Valley of Ghosts",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2345
+  },
+  {
+    "title": "The Law of the Four Just Men",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2346
+  },
+  {
+    "title": "The Daffodil Mystery",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2347
+  },
+  {
+    "title": "The Clue of the Silver Key",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2348
+  },
+  {
+    "title": "The Man Who Bought London",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2349
+  },
+  {
+    "title": "The Book of All-Power",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2350
+  },
+  {
+    "title": "The Door with Seven Locks",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2351
+  },
+  {
+    "title": "The Joker",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2352
+  },
+  {
+    "title": "The Squeaker",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2353
+  },
+  {
+    "title": "The Twister",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2354
+  },
+  {
+    "title": "The Clue of the New Pin",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2355
+  },
+  {
+    "title": "The India-Rubber Men",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2356
+  },
+  {
+    "title": "The Black Abbot",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2357
+  },
+  {
+    "title": "The Day of Uniting",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2358
+  },
+  {
+    "title": "The Forger",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2359
+  },
+  {
+    "title": "The Three Oak Mystery",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2360
+  },
+  {
+    "title": "The Man from Morocco",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2361
+  },
+  {
+    "title": "The Million Dollar Story",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2362
+  },
+  {
+    "title": "The Other Man",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2363
+  },
+  {
+    "title": "The Double",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2364
+  },
+  {
+    "title": "A King by Night",
+    "author": "Wallace, Edgar",
+    "genre": "Thriller",
+    "gutenberg_id": 2365
+  },
+  {
+    "title": "The Valley of the Squinting Windows",
+    "author": "MacNamara, Brinsley",
+    "genre": "Thriller",
+    "gutenberg_id": 2366
+  },
+  {
+    "title": "The Woman of the Iron Bracelets",
+    "author": "Barrett, Frank",
+    "genre": "Thriller",
+    "gutenberg_id": 2367
+  },
+  {
+    "title": "The Sign of the Spider",
+    "author": "Mitford, Bertram",
+    "genre": "Thriller",
+    "gutenberg_id": 2368
+  },
+  {
+    "title": "The Gun-Brand",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2369
+  },
+  {
+    "title": "The Gold Girl",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2370
+  },
+  {
+    "title": "Connie Morgan in the Lumber Camps",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2371
+  },
+  {
+    "title": "Connie Morgan in the Fur Country",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2372
+  },
+  {
+    "title": "Connie Morgan With the Mounted",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2373
+  },
+  {
+    "title": "The Promise: A Tale of the Great Northwest",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2374
+  },
+  {
+    "title": "The Texan: A Story of the Cattle Country",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2375
+  },
+  {
+    "title": "The Challenge of the North",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2376
+  },
+  {
+    "title": "The Law of the Woods",
+    "author": "Hendryx, James B. (James Beardsley)",
+    "genre": "Thriller",
+    "gutenberg_id": 2377
+  },
+  {
+    "title": "The Lone Star Ranger: A Romance of the Border",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2378
+  },
+  {
+    "title": "The Last of the Plainsmen",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2379
+  },
+  {
+    "title": "The Last Trail",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2380
+  },
+  {
+    "title": "The Border Legion",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2381
+  },
+  {
+    "title": "The Mysterious Rider",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2382
+  },
+  {
+    "title": "To the Last Man",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2383
+  },
+  {
+    "title": "The Day of the Beast",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2384
+  },
+  {
+    "title": "The Call of the Canyon",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2385
+  },
+  {
+    "title": "The Thundering Herd",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2386
+  },
+  {
+    "title": "The Vanishing American",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2387
+  },
+  {
+    "title": "Under the Tonto Rim",
+    "author": "Grey, Zane",
+    "genre": "Thriller",
+    "gutenberg_id": 2388
+  },
+  {
+    "title": "The Water-Goat, and Other Troubles",
+    "author": "Butler, Ellis Parker",
+    "genre": "Thriller",
+    "gutenberg_id": 2389
+  },
+  {
+    "title": "Philo Gubb, Correspondence-School Detective",
+    "author": "Butler, Ellis Parker",
+    "genre": "Thriller",
+    "gutenberg_id": 2390
+  },
+  {
+    "title": "The Great Steel Strike and Its Lessons",
+    "author": "Foster, William Z.",
+    "genre": "Thriller",
+    "gutenberg_id": 2391
+  },
+  {
+    "title": "A Man and His Money",
+    "author": "Kimball, F. P.",
+    "genre": "Thriller",
+    "gutenberg_id": 2392
+  },
+  {
+    "title": "The Secret of Lonesome Cove",
+    "author": "Adams, Samuel Hopkins",
+    "genre": "Thriller",
+    "gutenberg_id": 2393
+  },
+  {
+    "title": "The Unspeakable Perk",
+    "author": "Adams, Samuel Hopkins",
+    "genre": "Thriller",
+    "gutenberg_id": 2394
+  },
+  {
+    "title": "The Clarion",
+    "author": "Adams, Samuel Hopkins",
+    "genre": "Thriller",
+    "gutenberg_id": 2395
+  },
+  {
+    "title": "Common Cause: A Novel of the War in America",
+    "author": "Adams, Samuel Hopkins",
+    "genre": "Thriller",
+    "gutenberg_id": 2396
+  },
+  {
+    "title": "Success: A Novel",
+    "author": "Adams, Samuel Hopkins",
+    "genre": "Thriller",
+    "gutenberg_id": 2397
+  },
+  {
+    "title": "The Beggar's Opera",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2398
+  },
+  {
+    "title": "Polly: An Opera, being the second part of the Beggar's Opera",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2399
+  },
+  {
+    "title": "The Shepherd's Week. In Six Pastorals",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2400
+  },
+  {
+    "title": "Trivia, or, the Art of Walking the Streets of London",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2401
+  },
+  {
+    "title": "The Present State of Wit (1711) In a Letter to a Friend in the Country",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2402
+  },
+  {
+    "title": "The Fan: A Poem, in Three Books",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2403
+  },
+  {
+    "title": "Fables of John Gay (Somewhat Altered)",
+    "author": "Gay, John",
+    "genre": "Thriller",
+    "gutenberg_id": 2404
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 2852
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 1661
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Collins, Wilkie",
+    "genre": "Crime",
+    "gutenberg_id": 583
+  },
+  {
+    "title": "The Secret Agent: A Simple Tale",
+    "author": "Conrad, Joseph",
+    "genre": "Crime",
+    "gutenberg_id": 7342
+  },
+  {
+    "title": "Dracula",
+    "author": "Stoker, Bram",
+    "genre": "Crime",
+    "gutenberg_id": 345
+  },
+  {
+    "title": "The Great Boer War",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 346
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 347
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 348
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 349
+  },
+  {
+    "title": "The Innocence of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 2554
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20232
+  },
+  {
+    "title": "The Man Who Knew Too Much",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 1748
+  },
+  {
+    "title": "The Paradoxes of Mr. Pond",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 1749
+  },
+  {
+    "title": "The Club of Queer Trades",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 2005
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20231
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20230
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20229
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20228
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20227
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20226
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20225
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20224
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20223
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20222
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20221
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20220
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20219
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20218
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20217
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20216
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20215
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20214
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20213
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20212
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20211
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20210
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20209
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20208
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20207
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20206
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20205
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20204
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20203
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20202
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20201
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20200
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20199
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20198
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20197
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20196
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20195
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20194
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20193
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20192
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20191
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20190
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20189
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20188
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20187
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20186
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20185
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20184
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20183
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20182
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20181
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20180
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20179
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20178
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20177
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20176
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20175
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20174
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20173
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20172
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20171
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20170
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20169
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20168
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20167
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20166
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20165
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20164
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20163
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20162
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20161
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20160
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20159
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20158
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20157
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20156
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20155
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20154
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20153
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20152
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20151
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20150
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20149
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20148
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20147
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20146
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20145
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20144
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20143
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20142
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20141
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20140
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20139
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20138
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20020
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20019
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20018
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20017
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20016
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20015
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20014
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20013
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20012
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20011
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20010
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20036
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20035
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20034
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20033
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20032
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20031
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20030
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20029
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20028
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20027
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20026
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20025
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20024
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20023
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20022
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20021
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20008
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20007
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20006
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20005
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19948
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19947
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19946
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19945
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19944
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19943
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20004
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20003
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20002
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20001
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20000
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19999
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19998
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19997
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19996
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19995
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19994
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19993
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19992
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19991
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19990
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19989
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19988
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19987
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19986
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19985
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19984
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19983
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19982
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19981
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19980
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19979
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19978
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19977
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19976
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19975
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19974
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19973
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19972
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19971
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19970
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19969
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19968
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19967
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19966
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19965
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19964
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19963
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19962
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19961
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19960
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19959
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19958
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19957
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19956
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19955
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19954
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19953
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19952
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19951
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19950
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19942
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19941
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19940
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19939
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19938
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19852
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19851
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19850
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19849
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19848
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19847
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19846
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19845
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19844
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19843
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19842
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19841
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19840
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19839
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19838
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19936
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19935
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19934
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19933
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19932
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19931
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19930
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19929
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19928
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19927
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19926
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19925
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19924
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19923
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19922
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19921
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19920
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19919
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19918
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19917
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19916
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19915
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19914
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19913
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19912
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19911
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19910
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19909
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19908
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19907
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19906
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19905
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19904
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19903
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19902
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19901
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19900
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19899
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19898
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19897
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19896
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19895
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19894
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19893
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19892
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19891
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19890
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19889
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19888
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19887
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19886
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19885
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19884
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19883
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19882
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19836
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19835
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19834
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19833
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19832
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19831
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19830
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19829
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19828
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19827
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19826
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19825
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19824
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19823
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19822
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19821
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19820
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19819
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19818
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19817
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19816
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19815
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19814
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19813
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19812
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19811
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19810
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19809
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19808
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19807
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19806
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19805
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19804
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19803
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19802
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19801
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19800
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19799
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19798
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19797
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19796
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19795
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19794
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19793
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19792
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19791
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19790
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19789
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19788
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19787
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19786
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19785
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19784
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19783
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19782
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19781
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19780
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19779
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19778
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19777
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19776
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19775
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19774
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19773
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19772
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19771
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19770
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19769
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19768
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19767
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19766
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19765
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19764
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19763
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19762
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19761
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19760
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19759
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19758
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19757
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19756
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19755
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19754
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19753
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19752
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19751
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19750
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19749
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19748
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19747
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19746
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19745
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19744
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19743
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19742
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19741
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19740
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19739
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19738
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 19737
+  }
 ]
+
