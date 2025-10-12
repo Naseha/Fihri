@@ -6346,8 +6346,297 @@
   "author": "Lord Dunsany",
   "genre": "Fantasy",
   "gutenberg_id": 22563
+},
+{
+  "title": "The Fourth Book of Jorkens",
+  "author": "Lord Dunsany",
+  "genre": "Fantasy",
+  "gutenberg_id": 22563
+},
+{
+  "title": "The Last Book of Jorkens",
+  "author": "Lord Dunsany",
+  "genre": "Fantasy",
+  "gutenberg_id": 22564
+},
+{
+  "title": "The Jorkens Stories",
+  "author": "Lord Dunsany",
+  "genre": "Fantasy",
+  "gutenberg_id": 22565
+},
+{
+  "title": "The Strange Journeys of Colonel Polders",
+  "author": "Lord Dunsany",
+  "genre": "Fantasy",
+  "gutenberg_id": 22566
+},
+{
+  "title": "The King of the Golden River",
+  "author": "John Ruskin",
+  "genre": "Fantasy",
+  "gutenberg_id": 20419
+},
+{
+  "title": "The Water-Babies: A Fairy Tale for a Land-Baby",
+  "author": "Charles Kingsley",
+  "genre": "Fantasy",
+  "gutenberg_id": 1018
+},
+{
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "genre": "Fantasy",
+  "gutenberg_id": 20235
+},
+{
+  "title": "The Blue Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Red Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Green Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Yellow Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Pink Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Grey Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Violet Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Crimson Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Brown Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Orange Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Lilac Fairy Book",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 503
+},
+{
+  "title": "The Arabian Nights",
+  "author": "Anonymous",
+  "genre": "Fantasy",
+  "gutenberg_id": 5667
+},
+{
+  "title": "The Thousand and One Nights",
+  "author": "Anonymous",
+  "genre": "Fantasy",
+  "gutenberg_id": 608
+},
+{
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "genre": "Fantasy",
+  "gutenberg_id": 236
+},
+{
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "genre": "Fantasy",
+  "gutenberg_id": 2785
+},
+{
+  "title": "Puck of Pook's Hill",
+  "author": "Rudyard Kipling",
+  "genre": "Fantasy",
+  "gutenberg_id": 557
+},
+{
+  "title": "Rewards and Fairies",
+  "author": "Rudyard Kipling",
+  "genre": "Fantasy",
+  "gutenberg_id": 30254
+},
+{
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "genre": "Fantasy",
+  "gutenberg_id": 27805
+},
+{
+  "title": "The Reluctant Dragon",
+  "author": "Kenneth Grahame",
+  "genre": "Fantasy",
+  "gutenberg_id": 20203
+},
+{
+  "title": "The Golden Age",
+  "author": "Kenneth Grahame",
+  "genre": "Fantasy",
+  "gutenberg_id": 30254
+},
+{
+  "title": "Dream Days",
+  "author": "Kenneth Grahame",
+  "genre": "Fantasy",
+  "gutenberg_id": 30255
+},
+{
+  "title": "Peter Pan",
+  "author": "J. M. Barrie",
+  "genre": "Fantasy",
+  "gutenberg_id": 16
+},
+{
+  "title": "The Little White Bird",
+  "author": "J. M. Barrie",
+  "genre": "Fantasy",
+  "gutenberg_id": 1376
+},
+{
+  "title": "Peter and Wendy",
+  "author": "J. M. Barrie",
+  "genre": "Fantasy",
+  "gutenberg_id": 26654
+},
+{
+  "title": "The Magic Fishbone",
+  "author": "Charles Dickens",
+  "genre": "Fantasy",
+  "gutenberg_id": 1460
+},
+{
+  "title": "The Rose and the Ring",
+  "author": "William Makepeace Thackeray",
+  "genre": "Fantasy",
+  "gutenberg_id": 897
+},
+{
+  "title": "The Light Princess",
+  "author": "George MacDonald",
+  "genre": "Fantasy",
+  "gutenberg_id": 1213
+},
+{
+  "title": "The Shadows",
+  "author": "George MacDonald",
+  "genre": "Fantasy",
+  "gutenberg_id": 1215
+},
+{
+  "title": "The Giant's Heart",
+  "author": "George MacDonald",
+  "genre": "Fantasy",
+  "gutenberg_id": 1216
+},
+{
+  "title": "Cross Purposes",
+  "author": "George MacDonald",
+  "genre": "Fantasy",
+  "gutenberg_id": 1217
+},
+{
+  "title": "The Carasoyn",
+  "author": "George MacDonald",
+  "genre": "Fantasy",
+  "gutenberg_id": 1218
+},
+{
+  "title": "The Shadows and Other Fairy Tales",
+  "author": "George MacDonald",
+  "genre": "Fantasy",
+  "gutenberg_id": 1219
+},
+{
+  "title": "The Magic World",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 12120
+},
+{
+  "title": "The Railway Children",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 20158
+},
+{
+  "title": "The House of Arden",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22595
+},
+{
+  "title": "Harding's Luck",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22594
+},
+{
+  "title": "The Magic Nut",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22593
+},
+{
+  "title": "The Aunt and Amabel",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22592
+},
+{
+  "title": "The Deliverers of Their Country",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22591
+},
+{
+  "title": "The Cat-hood of Maurice",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22590
+},
+{
+  "title": "The Mixed Mine",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22589
 }
 ]  
+
 
 
 
