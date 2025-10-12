@@ -2692,7 +2692,49 @@
     "author": "Shirley, James",
     "genre": "Drama",
     "gutenberg_id": 1599
-  }
+  },
+  {
+    "title": "The Captain of the 'Pole-Star'",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 2220
+  },
+  {
+    "title": "The Terror of Blue John Gap",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 2221
+  },
+  {
+    "title": "The Ring of Thoth",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 2222
+  },
+  {
+    "title": "The Los Amigos Fiasco",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Thriller",
+    "gutenberg_id": 2223
+  },
+  {
+    "title": "The Bravo of Venice: A Romance",
+    "author": "Lewis, M. G. (Matthew Gregory)",
+    "genre": "Thriller",
+    "gutenberg_id": 2224
+  },
+  {
+    "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+    "author": "Poe, Edgar Allan",
+    "genre": "Thriller",
+    "gutenberg_id": 2225
+  },
+  {
+    "title": "The Journal of Julius Rodman",
+    "author": "Poe, Edgar Allan",
+    "genre": "Thriller",
+    "gutenberg_id": 2226
+  },
   {
     "title": "The Count of Monte Cristo, Illustrated",
     "author": "Dumas, Alexandre",
@@ -4896,6 +4938,7 @@
     "gutenberg_id": 20184
   }
 ]  
+
 
 
 
