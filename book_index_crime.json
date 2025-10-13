@@ -1,0 +1,374 @@
+[
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 2852
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 1661
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Collins, Wilkie",
+    "genre": "Crime",
+    "gutenberg_id": 583
+  },
+  {
+    "title": "The Secret Agent: A Simple Tale",
+    "author": "Conrad, Joseph",
+    "genre": "Crime",
+    "gutenberg_id": 7342
+  },
+  {
+    "title": "Dracula",
+    "author": "Stoker, Bram",
+    "genre": "Crime",
+    "gutenberg_id": 345
+  },
+  {
+    "title": "The Great Boer War",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 346
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 347
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 348
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Crime",
+    "gutenberg_id": 349
+  },
+  {
+    "title": "The Innocence of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 2554
+  },
+  {
+    "title": "The Wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20232
+  },
+  {
+    "title": "The Man Who Knew Too Much",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 1748
+  },
+  {
+    "title": "The Paradoxes of Mr. Pond",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 1749
+  },
+  {
+    "title": "The Club of Queer Trades",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 2005
+  },
+  {
+    "title": "The Incredulity of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20231
+  },
+  {
+    "title": "The Secret of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20230
+  },
+  {
+    "title": "The Scandal of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20229
+  },
+  {
+    "title": "The Flying Inn",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20228
+  },
+  {
+    "title": "The Trees of Pride",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20227
+  },
+  {
+    "title": "The Man Who Was Thursday: A Nightmare",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20226
+  },
+  {
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20225
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20224
+  },
+  {
+    "title": "Magic",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20223
+  },
+  {
+    "title": "The Victorian Age in Literature",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20222
+  },
+  {
+    "title": "A Short History of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20221
+  },
+  {
+    "title": "The Crimes of England",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20220
+  },
+  {
+    "title": "The New Jerusalem",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20219
+  },
+  {
+    "title": "What I Saw in America",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20218
+  },
+  {
+    "title": "Heretics",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20217
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20216
+  },
+  {
+    "title": "The Everlasting Man",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20215
+  },
+  {
+    "title": "What's Wrong with the World",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20214
+  },
+  {
+    "title": "Eugenics and Other Evils",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20213
+  },
+  {
+    "title": "All Things Considered",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20212
+  },
+  {
+    "title": "Tremendous Trifles",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20211
+  },
+  {
+    "title": "Alarms and Discursions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20210
+  },
+  {
+    "title": "A Miscellany of Men",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20209
+  },
+  {
+    "title": "The Uses of Diversity: A Book of Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20208
+  },
+  {
+    "title": "Fancies Versus Fads",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20207
+  },
+  {
+    "title": "The Defendant",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20206
+  },
+  {
+    "title": "A Chesterton Calendar",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20205
+  },
+  {
+    "title": "Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20204
+  },
+  {
+    "title": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20203
+  },
+  {
+    "title": "George Bernard Shaw",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20202
+  },
+  {
+    "title": "Robert Browning",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20201
+  },
+  {
+    "title": "The Appetite of Tyranny: Including Letters to an Old Garibaldian",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20200
+  },
+  {
+    "title": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20199
+  },
+  {
+    "title": "Wine, Water, and Song",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20198
+  },
+  {
+    "title": "The Wild Knight and Other Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20197
+  },
+  {
+    "title": "Poems",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20196
+  },
+  {
+    "title": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20195
+  },
+  {
+    "title": "G. F. Watts",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20194
+  },
+  {
+    "title": "Thomas Carlyle",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20193
+  },
+  {
+    "title": "Lord Kitchener",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20192
+  },
+  {
+    "title": "The Barbarism of Berlin",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20191
+  },
+  {
+    "title": "Culture and the Coming Peril",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20190
+  },
+  {
+    "title": "The Superstition of Divorce",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20189
+  },
+  {
+    "title": "Irish Impressions",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20188
+  },
+  {
+    "title": "The End of the Armistice",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20187
+  },
+  {
+    "title": "The Ball and the Cross",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20186
+  },
+  {
+    "title": "Manalive",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20185
+  },
+  {
+    "title": "The Return of Don Quixote",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "genre": "Crime",
+    "gutenberg_id": 20184
+  }
+]
