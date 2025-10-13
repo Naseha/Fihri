@@ -1402,5 +1402,563 @@
     "author": "Hans Christian Andersen",
     "genre": "Fantasy",
     "gutenberg_id": 22417
-  }
+  },
+  {
+  "title": "Le Morte d'Arthur: Volume 1",
+  "author": "Malory, Thomas",
+  "genre": "Fantasy",
+  "gutenberg_id": 1251
+},
+{
+  "title": "Le Morte d'Arthur: Volume 2",
+  "author": "Malory, Thomas",
+  "genre": "Fantasy",
+  "gutenberg_id": 1252
+},
+{
+  "title": "The Story of the Volsungs",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 18328
+},
+{
+  "title": "News from Nowhere",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3261
+},
+{
+  "title": "The House of the Wolfings",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 2885
+},
+{
+  "title": "The Well at the World's End",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3050
+},
+{
+  "title": "The Wood Beyond the World",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3051
+},
+{
+  "title": "The Water of the Wondrous Isles",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3052
+},
+{
+  "title": "The Sundering Flood",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3053
+},
+{
+  "title": "The Roots of the Mountains",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3054
+},
+{
+  "title": "The Story of Grettir the Strong",
+  "author": "Eiríkr Magnússon and William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 347
+},
+{
+  "title": "The Mabinogion",
+  "author": "Lady Charlotte Guest",
+  "genre": "Fantasy",
+  "gutenberg_id": 515
+},
+{
+  "title": "The House on the Borderland",
+  "author": "Hodgson, William Hope",
+  "genre": "Fantasy",
+  "gutenberg_id": 10002
+},
+{
+  "title": "The Night Land",
+  "author": "Hodgson, William Hope",
+  "genre": "Fantasy",
+  "gutenberg_id": 963
+},
+{
+  "title": "The Boats of the 'Glen Carrig'",
+  "author": "Hodgson, William Hope",
+  "genre": "Fantasy",
+  "gutenberg_id": 10832
+},
+{
+  "title": "Carnacki, the Ghost Finder",
+  "author": "Hodgson, William Hope",
+  "genre": "Fantasy",
+  "gutenberg_id": 10831
+},
+{
+  "title": "The Ghost Pirates",
+  "author": "Hodgson, William Hope",
+  "genre": "Fantasy",
+  "gutenberg_id": 10830
+},
+{
+  "title": "The Lost Continent",
+  "author": "Hodgson, William Hope",
+  "genre": "Fantasy",
+  "gutenberg_id": 10829
+},
+{
+  "title": "The Story of the Glittering Plain",
+  "author": "William Morris",
+  "genre": "Fantasy",
+  "gutenberg_id": 3055
+},
+{
+  "title": "The Golden Age",
+  "author": "Kenneth Grahame",
+  "genre": "Fantasy",
+  "gutenberg_id": 2786
+},
+{
+  "title": "Dream Days",
+  "author": "Kenneth Grahame",
+  "genre": "Fantasy",
+  "gutenberg_id": 2787
+},
+{
+  "title": "The Story of the Amulet",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22555
+},
+{
+  "title": "The Magic World",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 12120
+},
+{
+  "title": "The Book of Beasts",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22591
+},
+{
+  "title": "The Aunt and Amabel",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22592
+},
+{
+  "title": "The Mixed Mine",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22589
+},
+{
+  "title": "The Cat-hood of Maurice",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22590
+},
+{
+  "title": "The Deliverers of Their Country",
+  "author": "E. Nesbit",
+  "genre": "Fantasy",
+  "gutenberg_id": 22591
+},
+{
+  "title": "The Princess Nobody",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 22588
+},
+{
+  "title": "Prince Prigio",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 22587
+},
+{
+  "title": "Prince Ricardo of Pantouflia",
+  "author": "Andrew Lang",
+  "genre": "Fantasy",
+  "gutenberg_id": 22586
+},
+{
+  "title": "The Book of Fairy Poetry",
+  "author": "Owen, Dora",
+  "genre": "Fantasy",
+  "gutenberg_id": 22577
+},
+{
+  "title": "Fairy Tales Every Child Should Know",
+  "author": "Mabie, Hamilton Wright",
+  "genre": "Fantasy",
+  "gutenberg_id": 22575
+},
+{
+  "title": "Fairy Tales from Brazil",
+  "author": "Eells, Elsie Spicer",
+  "genre": "Fantasy",
+  "gutenberg_id": 22573
+},
+{
+  "title": "Fairy Tales from South Africa",
+  "author": "Bourhill, Mrs. E. J. and Drake, Mrs. J. B.",
+  "genre": "Fantasy",
+  "gutenberg_id": 22574
+},
+{
+  "title": "Fairy Tales from the German Forests",
+  "author": "Arndt, Margaret",
+  "genre": "Fantasy",
+  "gutenberg_id": 22572
+},
+{
+  "title": "Fairy Tales from the Far North",
+  "author": "Asbjørnsen, Peter Christen",
+  "genre": "Fantasy",
+  "gutenberg_id": 22571
+},
+{
+  "title": "Fairy Tales from India",
+  "author": "Jacobs, Joseph",
+  "genre": "Fantasy",
+  "gutenberg_id": 22568
+},
+{
+  "title": "Fairy Tales from Japan",
+  "author": "Ozaki, Yei Theodora",
+  "genre": "Fantasy",
+  "gutenberg_id": 22566
+},
+{
+  "title": "The Talking Thrush and Other Tales from India",
+  "author": "Crooke, W.",
+  "genre": "Fantasy",
+  "gutenberg_id": 22542
+},
+{
+  "title": "The Fairy Book",
+  "author": "Craik, Dinah Maria Mulock",
+  "genre": "Fantasy",
+  "gutenberg_id": 22530
+},
+{
+  "title": "The Fairy Tales of Charles Perrault",
+  "author": "Perrault, Charles",
+  "genre": "Fantasy",
+  "gutenberg_id": 22529
+},
+{
+  "title": "The Fairy Tales of the Brothers Grimm",
+  "author": "Grimm, Jacob and Wilhelm",
+  "genre": "Fantasy",
+  "gutenberg_id": 22528
+},
+{
+  "title": "The Fairy Tales of Hans Christian Andersen",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22527
+},
+{
+  "title": "The Fairy Tales of Oscar Wilde",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22526
+},
+{
+  "title": "The Happy Prince and Other Tales",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22525
+},
+{
+  "title": "A House of Pomegranates",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22524
+},
+{
+  "title": "The Selfish Giant",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22523
+},
+{
+  "title": "The Nightingale and the Rose",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22522
+},
+{
+  "title": "The Devoted Friend",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22521
+},
+{
+  "title": "The Remarkable Rocket",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22520
+},
+{
+  "title": "The Young King",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22519
+},
+{
+  "title": "The Birthday of the Infanta",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22518
+},
+{
+  "title": "The Fisherman and His Soul",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22517
+},
+{
+  "title": "The Star-Child",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 22516
+},
+{
+  "title": "The Canterville Ghost",
+  "author": "Wilde, Oscar",
+  "genre": "Fantasy",
+  "gutenberg_id": 14522
+},
+{
+  "title": "The Ghost-Ship and Other Stories",
+  "author": "Middleton, Richard",
+  "genre": "Fantasy",
+  "gutenberg_id": 22514
+},
+{
+  "title": "The Magic Walking Stick",
+  "author": "Buchan, John",
+  "genre": "Fantasy",
+  "gutenberg_id": 22513
+},
+{
+  "title": "The Magic Skin",
+  "author": "Balzac, Honoré de",
+  "genre": "Fantasy",
+  "gutenberg_id": 22512
+},
+{
+  "title": "The Magic Ring",
+  "author": "Fouqué, Friedrich de la Motte",
+  "genre": "Fantasy",
+  "gutenberg_id": 22509
+},
+{
+  "title": "The Magic Mirror and Other Tales",
+  "author": "Various",
+  "genre": "Fantasy",
+  "gutenberg_id": 22508
+},
+{
+  "title": "The Magic Nuts",
+  "author": "Molesworth, Mrs.",
+  "genre": "Fantasy",
+  "gutenberg_id": 22507
+},
+{
+  "title": "The Magic Forest",
+  "author": "White, Stewart Edward",
+  "genre": "Fantasy",
+  "gutenberg_id": 22504
+},
+{
+  "title": "The Magic Island",
+  "author": "Seabrook, William",
+  "genre": "Fantasy",
+  "gutenberg_id": 22503
+},
+{
+  "title": "The Magical Monarch of Mo",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22501
+},
+{
+  "title": "Queen Zixi of Ix",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22500
+},
+{
+  "title": "The Sea Fairies",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22499
+},
+{
+  "title": "Sky Island",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22498
+},
+{
+  "title": "John Dough and the Cherub",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22497
+},
+{
+  "title": "Dot and Tot of Merryland",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22496
+},
+{
+  "title": "The Master Key: An Electrical Fairy Tale",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22495
+},
+{
+  "title": "American Fairy Tales",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22494
+},
+{
+  "title": "The Life and Adventures of Santa Claus",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22493
+},
+{
+  "title": "The Woggle-Bug Book",
+  "author": "Baum, L. Frank",
+  "genre": "Fantasy",
+  "gutenberg_id": 22490
+},
+{
+  "title": "The Little Lame Prince",
+  "author": "Craik, Dinah Maria Mulock",
+  "genre": "Fantasy",
+  "gutenberg_id": 22486
+},
+{
+  "title": "The Princess and the Pea",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22485
+},
+{
+  "title": "The Snow Queen",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22484
+},
+{
+  "title": "The Wild Swans",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22483
+},
+{
+  "title": "The Nightingale",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22482
+},
+{
+  "title": "The Little Mermaid",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22481
+},
+{
+  "title": "The Steadfast Tin Soldier",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22480
+},
+{
+  "title": "Thumbelina",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22479
+},
+{
+  "title": "The Emperor's New Clothes",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22478
+},
+{
+  "title": "The Red Shoes",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22477
+},
+{
+  "title": "The Swineherd",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22476
+},
+{
+  "title": "The Tinderbox",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22475
+},
+{
+  "title": "The Flying Trunk",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22474
+},
+{
+  "title": "The Garden of Paradise",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22473
+},
+{
+  "title": "The Teapot",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22472
+},
+{
+  "title": "The Ugly Duckling",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22471
+},
+{
+  "title": "The Bell",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22470
+},
+{
+  "title": "The Old House",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22469
+},
+{
+  "title": "The Shepherdess and the Chimney Sweep",
+  "author": "Andersen, Hans Christian",
+  "genre": "Fantasy",
+  "gutenberg_id": 22468
+}
 ]
