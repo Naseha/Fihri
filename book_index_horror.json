@@ -1,0 +1,1436 @@
+[
+  {
+    "title": "Dracula",
+    "author": "Stoker, Bram",
+    "genre": "Horror",
+    "gutenberg_id": 345
+  },
+  {
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "author": "Shelley, Mary Wollstonecraft",
+    "genre": "Horror",
+    "gutenberg_id": 84
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Horror",
+    "gutenberg_id": 43
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Wilde, Oscar",
+    "genre": "Horror",
+    "gutenberg_id": 174
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "James, Henry",
+    "genre": "Horror",
+    "gutenberg_id": 209
+  },
+  {
+    "title": "The Call of Cthulhu",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 50133
+  },
+  {
+    "title": "The Fall of the House of Usher",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 932
+  },
+  {
+    "title": "The Masque of the Red Death",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 1064
+  },
+  {
+    "title": "The Pit and the Pendulum",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2148
+  },
+  {
+    "title": "The Tell-Tale Heart",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 1063
+  },
+  {
+    "title": "The Black Cat",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 1062
+  },
+  {
+    "title": "The Murders in the Rue Morgue",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2147
+  },
+  {
+    "title": "The Cask of Amontillado",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 1061
+  },
+  {
+    "title": "The King in Yellow",
+    "author": "Chambers, Robert W.",
+    "genre": "Horror",
+    "gutenberg_id": 849
+  },
+  {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Irving, Washington",
+    "genre": "Horror",
+    "gutenberg_id": 41
+  },
+  {
+    "title": "The Monkey's Paw",
+    "author": "Jacobs, W. W. (William Wymark)",
+    "genre": "Horror",
+    "gutenberg_id": 12122
+  },
+  {
+    "title": "The Great God Pan",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3570
+  },
+  {
+    "title": "The Willows",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11438
+  },
+  {
+    "title": "The Wendigo",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11425
+  },
+  {
+    "title": "The House on the Borderland",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 10002
+  },
+  {
+    "title": "The Boats of the 'Glen Carrig'",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 1095
+  },
+  {
+    "title": "The Ghost Pirates",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 10948
+  },
+  {
+    "title": "The Night Land",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 10662
+  },
+  {
+    "title": "Dracula's Guest",
+    "author": "Stoker, Bram",
+    "genre": "Horror",
+    "gutenberg_id": 10150
+  },
+  {
+    "title": "The Jewel of Seven Stars",
+    "author": "Stoker, Bram",
+    "genre": "Horror",
+    "gutenberg_id": 2341
+  },
+  {
+    "title": "The Lair of the White Worm",
+    "author": "Stoker, Bram",
+    "genre": "Horror",
+    "gutenberg_id": 1188
+  },
+  {
+    "title": "The Vampyre; a Tale",
+    "author": "Polidori, John William",
+    "genre": "Horror",
+    "gutenberg_id": 6130
+  },
+  {
+    "title": "Carmilla",
+    "author": "Le Fanu, J. Sheridan",
+    "genre": "Horror",
+    "gutenberg_id": 10007
+  },
+  {
+    "title": "Green Tea",
+    "author": "Le Fanu, J. Sheridan",
+    "genre": "Horror",
+    "gutenberg_id": 2320
+  },
+  {
+    "title": "The House by the Church-yard",
+    "author": "Le Fanu, J. Sheridan",
+    "genre": "Horror",
+    "gutenberg_id": 5459
+  },
+  {
+    "title": "Uncle Silas: A Tale of Bartram-Haugh",
+    "author": "Le Fanu, J. Sheridan",
+    "genre": "Horror",
+    "gutenberg_id": 5449
+  },
+  {
+    "title": "The Yellow Wallpaper",
+    "author": "Gilman, Charlotte Perkins",
+    "genre": "Horror",
+    "gutenberg_id": 1952
+  },
+  {
+    "title": "The Rats in the Walls",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2307
+  },
+  {
+    "title": "The Shadow Over Innsmouth",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 50135
+  },
+  {
+    "title": "The Dunwich Horror",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 50138
+  },
+  {
+    "title": "The Colour Out of Space",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 3825
+  },
+  {
+    "title": "The Whisperer in Darkness",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 34600
+  },
+  {
+    "title": "At the Mountains of Madness",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 34602
+  },
+  {
+    "title": "The Statement of Randolph Carter",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2306
+  },
+  {
+    "title": "The Shunned House",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2308
+  },
+  {
+    "title": "The Lurking Fear",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2309
+  },
+  {
+    "title": "The Dreams in the Witch House",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2310
+  },
+  {
+    "title": "The Haunter of the Dark",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2311
+  },
+  {
+    "title": "The Thing on the Doorstep",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2312
+  },
+  {
+    "title": "The Music of Erich Zann",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2313
+  },
+  {
+    "title": "Herbert West: Reanimator",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2314
+  },
+  {
+    "title": "The Nameless City",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2315
+  },
+  {
+    "title": "The Festival",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2316
+  },
+  {
+    "title": "Pickman's Model",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2317
+  },
+  {
+    "title": "The Outsider",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2318
+  },
+  {
+    "title": "The Hound",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2319
+  },
+  {
+    "title": "The Horla",
+    "author": "Maupassant, Guy de",
+    "genre": "Horror",
+    "gutenberg_id": 3034
+  },
+  {
+    "title": "Ghost Stories of an Antiquary",
+    "author": "James, M. R. (Montague Rhodes)",
+    "genre": "Horror",
+    "gutenberg_id": 8486
+  },
+  {
+    "title": "More Ghost Stories",
+    "author": "James, M. R. (Montague Rhodes)",
+    "genre": "Horror",
+    "gutenberg_id": 1145
+  },
+  {
+    "title": "A Thin Ghost and Others",
+    "author": "James, M. R. (Montague Rhodes)",
+    "genre": "Horror",
+    "gutenberg_id": 1373
+  },
+  {
+    "title": "The Three Impostors",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3571
+  },
+  {
+    "title": "The Hill of Dreams",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3572
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Horror",
+    "gutenberg_id": 77
+  },
+  {
+    "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2148
+  },
+  {
+    "title": "Ligeia",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2149
+  },
+  {
+    "title": "The Premature Burial",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2150
+  },
+  {
+    "title": "The Oblong Box",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2151
+  },
+  {
+    "title": "The Facts in the Case of M. Valdemar",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2152
+  },
+  {
+    "title": "Berenice",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2153
+  },
+  {
+    "title": "The Imp of the Perverse",
+    "author": "Poe, Edgar Allan",
+    "genre": "Horror",
+    "gutenberg_id": 2154
+  },
+  {
+    "title": "The Island of Doctor Moreau",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Horror",
+    "gutenberg_id": 159
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Horror",
+    "gutenberg_id": 5230
+  },
+  {
+    "title": "The Monk",
+    "author": "Lewis, M. G. (Matthew Gregory)",
+    "genre": "Horror",
+    "gutenberg_id": 1288
+  },
+  {
+    "title": "The Mysteries of Udolpho",
+    "author": "Radcliffe, Ann",
+    "genre": "Horror",
+    "gutenberg_id": 3268
+  },
+  {
+    "title": "The Italian",
+    "author": "Radcliffe, Ann",
+    "genre": "Horror",
+    "gutenberg_id": 7119
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Walpole, Horace",
+    "genre": "Horror",
+    "gutenberg_id": 696
+  },
+  {
+    "title": "Melmoth the Wanderer",
+    "author": "Maturin, Charles Robert",
+    "genre": "Horror",
+    "gutenberg_id": 1293
+  },
+  {
+    "title": "Zastrozzi",
+    "author": "Shelley, Percy Bysshe",
+    "genre": "Horror",
+    "gutenberg_id": 1290
+  },
+  {
+    "title": "St. Irvyne; or, The Rosicrucian",
+    "author": "Shelley, Percy Bysshe",
+    "genre": "Horror",
+    "gutenberg_id": 1291
+  },
+  {
+    "title": "The Beetle",
+    "author": "Marsh, Richard",
+    "genre": "Horror",
+    "gutenberg_id": 20232
+  },
+  {
+    "title": "The Beetle Horde",
+    "author": "Rousseau, Victor",
+    "genre": "Horror",
+    "gutenberg_id": 20233
+  },
+  {
+    "title": "The House of the Vampire",
+    "author": "Viereck, George Sylvester",
+    "genre": "Horror",
+    "gutenberg_id": 20234
+  },
+  {
+    "title": "The Damned Thing",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20235
+  },
+  {
+    "title": "An Occurrence at Owl Creek Bridge",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 375
+  },
+  {
+    "title": "The Death of Halpin Frayser",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20236
+  },
+  {
+    "title": "The Moonlit Road",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20237
+  },
+  {
+    "title": "The Boarded Window",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20238
+  },
+  {
+    "title": "A Watcher by the Dead",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20239
+  },
+  {
+    "title": "The Man and the Snake",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20240
+  },
+  {
+    "title": "John Mortonson's Funeral",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20241
+  },
+  {
+    "title": "The Secret of Macarger's Gulch",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20242
+  },
+  {
+    "title": "The Inhabitant of Carcosa",
+    "author": "Bierce, Ambrose",
+    "genre": "Horror",
+    "gutenberg_id": 20243
+  },
+  {
+    "title": "The Door in the Wall and Other Stories",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 456
+  },
+  {
+    "title": "The Red Room",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23112
+  },
+  {
+    "title": "The Cone",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23113
+  },
+  {
+    "title": "The Flowering of the Strange Orchid",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23114
+  },
+  {
+    "title": "The Sea Raiders",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23115
+  },
+  {
+    "title": "The Valley of Spiders",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23116
+  },
+  {
+    "title": "The Plattner Story",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23117
+  },
+  {
+    "title": "The Inexperienced Ghost",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23118
+  },
+  {
+    "title": "The Stolen Body",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23119
+  },
+  {
+    "title": "Pollock and the Porroh Man",
+    "author": "Wells, H. G.",
+    "genre": "Horror",
+    "gutenberg_id": 23120
+  },
+  {
+    "title": "The Empty House",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2572
+  },
+  {
+    "title": "A Haunted Island",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2573
+  },
+  {
+    "title": "John Silence, Physician Extraordinary",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2574
+  },
+  {
+    "title": "The Listener and Other Stories",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2575
+  },
+  {
+    "title": "The Lost Valley and Other Stories",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2576
+  },
+  {
+    "title": "The Dance of Death and Other Stories",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2577
+  },
+  {
+    "title": "The Man Whom the Trees Loved",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2578
+  },
+  {
+    "title": "The Centaur",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2579
+  },
+  {
+    "title": "The Human Chord",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2580
+  },
+  {
+    "title": "Julius LeVallon",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2581
+  },
+  {
+    "title": "The Bright Messenger",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2582
+  },
+  {
+    "title": "The Garden of Survival",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2583
+  },
+  {
+    "title": "The Promise of Air",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 2584
+  },
+  {
+    "title": "The Terror of the Water-Tank",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2601
+  },
+  {
+    "title": "The Thing in the Weeds",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2602
+  },
+  {
+    "title": "The Voice in the Night",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2603
+  },
+  {
+    "title": "The Derelict",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2604
+  },
+  {
+    "title": "The Stone Ship",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2605
+  },
+  {
+    "title": "From the Tideless Sea",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2606
+  },
+  {
+    "title": "The Mystery of the Derelict",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2607
+  },
+  {
+    "title": "The Finding of the 'Graiken'",
+    "author": "Hodgson, William Hope",
+    "genre": "Horror",
+    "gutenberg_id": 2608
+  },
+  {
+    "title": "The House of the Nightmare",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2650
+  },
+  {
+    "title": "Lukundoo",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2651
+  },
+  {
+    "title": "The Song of the Sirens",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2652
+  },
+  {
+    "title": "The Snout",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2653
+  },
+  {
+    "title": "The Man Who Lived in a Shoe",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2654
+  },
+  {
+    "title": "The Case of the Registered Letter",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2655
+  },
+  {
+    "title": "The Occultation of Orion",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2656
+  },
+  {
+    "title": "The Doom of the House of Acclon",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2657
+  },
+  {
+    "title": "The Message on the Slate",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2658
+  },
+  {
+    "title": "The Flambeau",
+    "author": "White, Edward Lucas",
+    "genre": "Horror",
+    "gutenberg_id": 2659
+  },
+  {
+    "title": "The Bottle Imp",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Horror",
+    "gutenberg_id": 1618
+  },
+  {
+    "title": "The Body Snatcher",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Horror",
+    "gutenberg_id": 1619
+  },
+  {
+    "title": "Markheim",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Horror",
+    "gutenberg_id": 1620
+  },
+  {
+    "title": "Olalla",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Horror",
+    "gutenberg_id": 1621
+  },
+  {
+    "title": "Thrawn Janet",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Horror",
+    "gutenberg_id": 1622
+  },
+  {
+    "title": "The Upper Berth",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1851
+  },
+  {
+    "title": "The Screaming Skull",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1852
+  },
+  {
+    "title": "Man Overboard!",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1853
+  },
+  {
+    "title": "For the Blood Is the Life",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1854
+  },
+  {
+    "title": "The Dead Smile",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1855
+  },
+  {
+    "title": "The Doll's Ghost",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1856
+  },
+  {
+    "title": "The King's Messenger",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1857
+  },
+  {
+    "title": "The Witch of Prague",
+    "author": "Crawford, F. Marion",
+    "genre": "Horror",
+    "gutenberg_id": 1858
+  },
+  {
+    "title": "Cecilia de Noël",
+    "author": "Lanoe, Falconer",
+    "genre": "Horror",
+    "gutenberg_id": 2045
+  },
+  {
+    "title": "The Lost Stradivarius",
+    "author": "Falkner, J. Meade",
+    "genre": "Horror",
+    "gutenberg_id": 2056
+  },
+  {
+    "title": "The Nebuly Coat",
+    "author": "Falkner, J. Meade",
+    "genre": "Horror",
+    "gutenberg_id": 2057
+  },
+  {
+    "title": "Moonfleet",
+    "author": "Falkner, J. Meade",
+    "genre": "Horror",
+    "gutenberg_id": 2058
+  },
+  {
+    "title": "The Private Memoirs and Confessions of a Justified Sinner",
+    "author": "Hogg, James",
+    "genre": "Horror",
+    "gutenberg_id": 878
+  },
+  {
+    "title": "Wieland; or, The Transformation",
+    "author": "Brown, Charles Brockden",
+    "genre": "Horror",
+    "gutenberg_id": 997
+  },
+  {
+    "title": "Ormond",
+    "author": "Brown, Charles Brockden",
+    "genre": "Horror",
+    "gutenberg_id": 998
+  },
+  {
+    "title": "Arthur Mervyn",
+    "author": "Brown, Charles Brockden",
+    "genre": "Horror",
+    "gutenberg_id": 999
+  },
+  {
+    "title": "Edgar Huntly",
+    "author": "Brown, Charles Brockden",
+    "genre": "Horror",
+    "gutenberg_id": 1000
+  },
+  {
+    "title": "Clara Howard",
+    "author": "Brown, Charles Brockden",
+    "genre": "Horror",
+    "gutenberg_id": 1001
+  },
+  {
+    "title": "Jane Talbot",
+    "author": "Brown, Charles Brockden",
+    "genre": "Horror",
+    "gutenberg_id": 1002
+  },
+  {
+    "title": "The Woman of the Wood",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Horror",
+    "gutenberg_id": 2101
+  },
+  {
+    "title": "The People of the Pit",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Horror",
+    "gutenberg_id": 2102
+  },
+  {
+    "title": "Through the Dragon Glass",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Horror",
+    "gutenberg_id": 2103
+  },
+  {
+    "title": "Three Lines of Old French",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Horror",
+    "gutenberg_id": 2104
+  },
+  {
+    "title": "The Dwellers in the Mirage",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Horror",
+    "gutenberg_id": 2105
+  },
+  {
+    "title": "The Face in the Abyss",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Horror",
+    "gutenberg_id": 2106
+  },
+  {
+    "title": "The Moon-Bog",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2320
+  },
+  {
+    "title": "The Evil Clergyman",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2321
+  },
+  {
+    "title": "The Horror at Red Hook",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2322
+  },
+  {
+    "title": "The Unnamable",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2323
+  },
+  {
+    "title": "The Tomb",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2324
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2325
+  },
+  {
+    "title": "The Terrible Old Man",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2326
+  },
+  {
+    "title": "The Temple",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2327
+  },
+  {
+    "title": "The Other Gods",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2328
+  },
+  {
+    "title": "The Quest of Iranon",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2329
+  },
+  {
+    "title": "The Cats of Ulthar",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2330
+  },
+  {
+    "title": "The Doom That Came to Sarnath",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 2331
+  },
+  {
+    "title": "The Dream-Quest of Unknown Kadath",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 1014
+  },
+  {
+    "title": "The Silver Key",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 1015
+  },
+  {
+    "title": "Through the Gates of the Silver Key",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 1016
+  },
+  {
+    "title": "The Case of Charles Dexter Ward",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 34601
+  },
+  {
+    "title": "The Mound",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 34603
+  },
+  {
+    "title": "The Shadow out of Time",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Horror",
+    "gutenberg_id": 34604
+  },
+  {
+    "title": "The Diary of a Madman",
+    "author": "Gogol, Nikolai",
+    "genre": "Horror",
+    "gutenberg_id": 1279
+  },
+  {
+    "title": "Viy",
+    "author": "Gogol, Nikolai",
+    "genre": "Horror",
+    "gutenberg_id": 1280
+  },
+  {
+    "title": "The Nose",
+    "author": "Gogol, Nikolai",
+    "genre": "Horror",
+    "gutenberg_id": 1281
+  },
+  {
+    "title": "The Overcoat",
+    "author": "Gogol, Nikolai",
+    "genre": "Horror",
+    "gutenberg_id": 1282
+  },
+  {
+    "title": "The Queen of Spades",
+    "author": "Pushkin, Alexander",
+    "genre": "Horror",
+    "gutenberg_id": 1301
+  },
+  {
+    "title": "The Sandman",
+    "author": "Hoffmann, E. T. A.",
+    "genre": "Horror",
+    "gutenberg_id": 1401
+  },
+  {
+    "title": "The Devil's Elixirs",
+    "author": "Hoffmann, E. T. A.",
+    "genre": "Horror",
+    "gutenberg_id": 1402
+  },
+  {
+    "title": "The Phantom of the Opera",
+    "author": "Leroux, Gaston",
+    "genre": "Horror",
+    "gutenberg_id": 175
+  },
+  {
+    "title": "The Woman in Black",
+    "author": "Anonymous",
+    "genre": "Horror",
+    "gutenberg_id": 1501
+  },
+  {
+    "title": "The Mysteries of London",
+    "author": "Reynolds, George W. M.",
+    "genre": "Horror",
+    "gutenberg_id": 1601
+  },
+  {
+    "title": "Wagner, the Wehr-Wolf",
+    "author": "Reynolds, George W. M.",
+    "genre": "Horror",
+    "gutenberg_id": 1602
+  },
+  {
+    "title": "The Necromancer",
+    "author": "Kahlert, Karl Friedrich",
+    "genre": "Horror",
+    "gutenberg_id": 1701
+  },
+  {
+    "title": "The Devil's Motor: A Fantasy",
+    "author": "Corelli, Marie",
+    "genre": "Horror",
+    "gutenberg_id": 1801
+  },
+  {
+    "title": "The Sorrows of Satan",
+    "author": "Corelli, Marie",
+    "genre": "Horror",
+    "gutenberg_id": 1802
+  },
+  {
+    "title": "Wormwood: A Drama of Paris",
+    "author": "Corelli, Marie",
+    "genre": "Horror",
+    "gutenberg_id": 1803
+  },
+  {
+    "title": "The Green Flag",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1901
+  },
+  {
+    "title": "The Ring of Thoth",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1902
+  },
+  {
+    "title": "The Captain of the Polestar",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1903
+  },
+  {
+    "title": "The Horror of the Heights",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1904
+  },
+  {
+    "title": "The Terror of Blue John Gap",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1905
+  },
+  {
+    "title": "The Brazilian Cat",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1906
+  },
+  {
+    "title": "The New Catacomb",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1907
+  },
+  {
+    "title": "The Case of Lady Sannox",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1908
+  },
+  {
+    "title": "The Brown Hand",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1909
+  },
+  {
+    "title": "The Fiend of the Cooperage",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1910
+  },
+  {
+    "title": "The Beetle-Hunter",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1911
+  },
+  {
+    "title": "The Man with the Watches",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1912
+  },
+  {
+    "title": "The Lost Special",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1913
+  },
+  {
+    "title": "The Jew's Breastplate",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1914
+  },
+  {
+    "title": "The Black Doctor",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1915
+  },
+  {
+    "title": "The Club-Footed Grocer",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1916
+  },
+  {
+    "title": "The Sealed Room",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1917
+  },
+  {
+    "title": "A Physiologist's Wife",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 1918
+  },
+  {
+    "title": "The Parasite",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 2215
+  },
+  {
+    "title": "The Lift",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 2219
+  },
+  {
+    "title": "The Mystery of the Cloomber",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 2214
+  },
+  {
+    "title": "The Terror",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3573
+  },
+  {
+    "title": "The White People",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3574
+  },
+  {
+    "title": "The Bowmen",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3575
+  },
+  {
+    "title": "The Secret Glory",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3576
+  },
+  {
+    "title": "Far Off Things",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3577
+  },
+  {
+    "title": "The Ornaments in Jade",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3578
+  },
+  {
+    "title": "The Canning Wonder",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3579
+  },
+  {
+    "title": "The Children of the Pool",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3580
+  },
+  {
+    "title": "The Green Round",
+    "author": "Machen, Arthur",
+    "genre": "Horror",
+    "gutenberg_id": 3581
+  },
+  {
+    "title": "The Wolf Leader",
+    "author": "Dumas, Alexandre",
+    "genre": "Horror",
+    "gutenberg_id": 2773
+  },
+  {
+    "title": "The Man with the Iron Mask",
+    "author": "Dumas, Alexandre",
+    "genre": "Horror",
+    "gutenberg_id": 2759
+  },
+  {
+    "title": "The Horrors of the Heights",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Horror",
+    "gutenberg_id": 2218
+  },
+  {
+    "title": "The Were-Wolf",
+    "author": "Housman, Clemence",
+    "genre": "Horror",
+    "gutenberg_id": 2183
+  },
+  {
+    "title": "The Wendigo",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11425
+  },
+  {
+    "title": "The Listener",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11426
+  },
+  {
+    "title": "The Willows",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11438
+  },
+  {
+    "title": "The Insanity of Jones",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11427
+  },
+  {
+    "title": "The Man Who Found Out",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11428
+  },
+  {
+    "title": "The Glamour of the Snow",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11429
+  },
+  {
+    "title": "Sand",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11430
+  },
+  {
+    "title": "The Damned",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11431
+  },
+  {
+    "title": "A Victim of Higher Space",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11432
+  },
+  {
+    "title": "The Wendigo",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11433
+  },
+  {
+    "title": "The Other Wing",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11434
+  },
+  {
+    "title": "The Tradition",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11435
+  },
+  {
+    "title": "The House of the Past",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11436
+  },
+  {
+    "title": "The Terror of the Machine",
+    "author": "Blackwood, Algernon",
+    "genre": "Horror",
+    "gutenberg_id": 11437
+  }
+]
