@@ -1960,5 +1960,468 @@
   "author": "Andersen, Hans Christian",
   "genre": "Fantasy",
   "gutenberg_id": 22468
-}
+},
+{
+    "title": "The Well at the World's End",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 99
+  },
+  {
+    "title": "The Wood Beyond the World",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 699
+  },
+  {
+    "title": "The Story of the Glittering Plain",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 700
+  },
+  {
+    "title": "The Water of the Wondrous Isles",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 701
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 62
+  },
+  {
+    "title": "The Gods of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 64
+  },
+  {
+    "title": "The Warlord of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 68
+  },
+  {
+    "title": "Thuvia, Maid of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 20
+  },
+  {
+    "title": "The Chessmen of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 21
+  },
+  {
+    "title": "At the Earth's Core",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 560
+  },
+  {
+    "title": "Pellucidar",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 561
+  },
+  {
+    "title": "The Moon Pool",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Fantasy",
+    "gutenberg_id": 1242
+  },
+  {
+    "title": "The Ship of Ishtar",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Fantasy",
+    "gutenberg_id": 1058
+  },
+  {
+    "title": "The Metal Monster",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Fantasy",
+    "gutenberg_id": 2244
+  },
+  {
+    "title": "King Solomon's Mines",
+    "author": "Haggard, H. Rider",
+    "genre": "Fantasy",
+    "gutenberg_id": 2166
+  },
+  {
+    "title": "She",
+    "author": "Haggard, H. Rider",
+    "genre": "Fantasy",
+    "gutenberg_id": 3155
+  },
+  {
+    "title": "Allan Quatermain",
+    "author": "Haggard, H. Rider",
+    "genre": "Fantasy",
+    "gutenberg_id": 2711
+  },
+  {
+    "title": "The People of the Mist",
+    "author": "Haggard, H. Rider",
+    "genre": "Fantasy",
+    "gutenberg_id": 2715
+  },
+  {
+    "title": "The World's Desire",
+    "author": "Haggard, H. Rider and Lang, Andrew",
+    "genre": "Fantasy",
+    "gutenberg_id": 2719
+  },
+  {
+    "title": "Ayesha, the Return of She",
+    "author": "Haggard, H. Rider",
+    "genre": "Fantasy",
+    "gutenberg_id": 3156
+  },
+  {
+    "title": "The Merry Adventures of Robin Hood",
+    "author": "Pyle, Howard",
+    "genre": "Fantasy",
+    "gutenberg_id": 901
+  },
+  {
+    "title": "The Story of King Arthur and His Knights",
+    "author": "Pyle, Howard",
+    "genre": "Fantasy",
+    "gutenberg_id": 2248
+  },
+  {
+    "title": "The Story of the Champions of the Round Table",
+    "author": "Pyle, Howard",
+    "genre": "Fantasy",
+    "gutenberg_id": 659
+  },
+  {
+    "title": "The Story of Sir Launcelot and His Companions",
+    "author": "Pyle, Howard",
+    "genre": "Fantasy",
+    "gutenberg_id": 660
+  },
+  {
+    "title": "The Story of the Grail and the Passing of Arthur",
+    "author": "Pyle, Howard",
+    "genre": "Fantasy",
+    "gutenberg_id": 661
+  },
+  {
+    "title": "The Mabinogion",
+    "author": "Guest, Charlotte",
+    "genre": "Fantasy",
+    "gutenberg_id": 5160
+  },
+  {
+    "title": "The High History of the Holy Graal",
+    "author": "Anonymous",
+    "genre": "Fantasy",
+    "gutenberg_id": 3816
+  },
+  {
+    "title": "Jurgen: A Comedy of Justice",
+    "author": "Cabell, James Branch",
+    "genre": "Fantasy",
+    "gutenberg_id": 886
+  },
+  {
+    "title": "The Cream of the Jest",
+    "author": "Cabell, James Branch",
+    "genre": "Fantasy",
+    "gutenberg_id": 875
+  },
+  {
+    "title": "Figures of Earth",
+    "author": "Cabell, James Branch",
+    "genre": "Fantasy",
+    "gutenberg_id": 894
+  },
+  {
+    "title": "The House on the Borderland",
+    "author": "Hodgson, William Hope",
+    "genre": "Fantasy",
+    "gutenberg_id": 10002
+  },
+  {
+    "title": "The Night Land",
+    "author": "Hodgson, William Hope",
+    "genre": "Fantasy",
+    "gutenberg_id": 10662
+  },
+  {
+    "title": "The Boats of the 'Glen Carrig'",
+    "author": "Hodgson, William Hope",
+    "genre": "Fantasy",
+    "gutenberg_id": 1095
+  },
+  {
+    "title": "The Ghost Pirates",
+    "author": "Hodgson, William Hope",
+    "genre": "Fantasy",
+    "gutenberg_id": 10948
+  },
+  {
+    "title": "The Shaving of Shagpat",
+    "author": "Meredith, George",
+    "genre": "Fantasy",
+    "gutenberg_id": 1558
+  },
+  {
+    "title": "The Casting Away of Mrs. Lecks and Mrs. Aleshine",
+    "author": "Stockton, Frank R.",
+    "genre": "Fantasy",
+    "gutenberg_id": 10940
+  },
+  {
+    "title": "The Griffin and the Minor Canon",
+    "author": "Stockton, Frank R.",
+    "genre": "Fantasy",
+    "gutenberg_id": 26649
+  },
+  {
+    "title": "The Bee-Man of Orn and Other Fanciful Tales",
+    "author": "Stockton, Frank R.",
+    "genre": "Fantasy",
+    "gutenberg_id": 1589
+  },
+  {
+    "title": "A Voyage to Arcturus",
+    "author": "Lindsay, David",
+    "genre": "Fantasy",
+    "gutenberg_id": 1329
+  },
+  {
+    "title": "The Worm Ouroboros",
+    "author": "Eddison, E. R.",
+    "genre": "Fantasy",
+    "gutenberg_id": 1326
+  },
+  {
+    "title": "Lilith",
+    "author": "MacDonald, George",
+    "genre": "Fantasy",
+    "gutenberg_id": 326
+  },
+  {
+    "title": "The Carved Cupboard",
+    "author": "Le Fanu, J. Sheridan",
+    "genre": "Fantasy",
+    "gutenberg_id": 4831
+  },
+  {
+    "title": "Green Tea",
+    "author": "Le Fanu, J. Sheridan",
+    "genre": "Fantasy",
+    "gutenberg_id": 2320
+  },
+  {
+    "title": "The Story of the Volsungs (Volsunga Saga)",
+    "author": "Morris, William and Magnusson, Eirikr",
+    "genre": "Fantasy",
+    "gutenberg_id": 1152
+  },
+  {
+    "title": "The Roots of the Mountains",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 1891
+  },
+  {
+    "title": "Child Christopher and Goldilind the Fair",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 1892
+  },
+  {
+    "title": "The Hollow Land",
+    "author": "Morris, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 1893
+  },
+  {
+    "title": "The Golden Fleece and The Heroes Who Lived Before Achilles",
+    "author": "Colum, Padraic",
+    "genre": "Fantasy",
+    "gutenberg_id": 6460
+  },
+  {
+    "title": "The Children of Odin",
+    "author": "Colum, Padraic",
+    "genre": "Fantasy",
+    "gutenberg_id": 23533
+  },
+  {
+    "title": "The King of Ireland's Son",
+    "author": "Colum, Padraic",
+    "genre": "Fantasy",
+    "gutenberg_id": 23412
+  },
+  {
+    "title": "A Wonder Book for Girls & Boys",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Fantasy",
+    "gutenberg_id": 321
+  },
+  {
+    "title": "Tanglewood Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Fantasy",
+    "gutenberg_id": 1678
+  },
+  {
+    "title": "The Gods of the North",
+    "author": "Oehlenschläger, Adam",
+    "genre": "Fantasy",
+    "gutenberg_id": 25413
+  },
+  {
+    "title": "Kalevala: The Land of the Heroes",
+    "author": "Lönnrot, Elias",
+    "genre": "Fantasy",
+    "gutenberg_id": 5186
+  },
+  {
+    "title": "The Faerie Queene",
+    "author": "Spenser, Edmund",
+    "genre": "Fantasy",
+    "gutenberg_id": 15272
+  },
+  {
+    "title": "Beowulf: An Anglo-Saxon Epic Poem",
+    "author": "Anonymous",
+    "genre": "Fantasy",
+    "gutenberg_id": 16328
+  },
+  {
+    "title": "The Blue Lagoon: A Romance",
+    "author": "Stacpoole, H. De Vere",
+    "genre": "Fantasy",
+    "gutenberg_id": 1039
+  },
+  {
+    "title": "The Lost Continent",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 1040
+  },
+  {
+    "title": "The Land That Time Forgot",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 1041
+  },
+  {
+    "title": "The People That Time Forgot",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 1042
+  },
+  {
+    "title": "Out of Time's Abyss",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Fantasy",
+    "gutenberg_id": 1043
+  },
+  {
+    "title": "The Lost World",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Fantasy",
+    "gutenberg_id": 139
+  },
+  {
+    "title": "The Poison Belt",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Fantasy",
+    "gutenberg_id": 140
+  },
+  {
+    "title": "The Land of Mist",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Fantasy",
+    "gutenberg_id": 1668
+  },
+  {
+    "title": "A Journey to the Center of the Earth",
+    "author": "Verne, Jules",
+    "genre": "Fantasy",
+    "gutenberg_id": 18857
+  },
+  {
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Verne, Jules",
+    "genre": "Fantasy",
+    "gutenberg_id": 164
+  },
+  {
+    "title": "The Mysterious Island",
+    "author": "Verne, Jules",
+    "genre": "Fantasy",
+    "gutenberg_id": 1268
+  },
+  {
+    "title": "Vathek",
+    "author": "Beckford, William",
+    "genre": "Fantasy",
+    "gutenberg_id": 2344
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Walpole, Horace",
+    "genre": "Fantasy",
+    "gutenberg_id": 696
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Swift, Jonathan",
+    "genre": "Fantasy",
+    "gutenberg_id": 829
+  },
+  {
+    "title": "The Coming Race",
+    "author": "Bulwer-Lytton, Edward",
+    "genre": "Fantasy",
+    "gutenberg_id": 1951
+  },
+  {
+    "title": "The Water-Witch",
+    "author": "Cooper, James Fenimore",
+    "genre": "Fantasy",
+    "gutenberg_id": 1232
+  },
+  {
+    "title": "The King of the Cats",
+    "author": "Baring-Gould, S.",
+    "genre": "Fantasy",
+    "gutenberg_id": 19124
+  },
+  {
+    "title": "The Saga of Grettir the Strong",
+    "author": "Anonymous",
+    "genre": "Fantasy",
+    "gutenberg_id": 1011
+  },
+  {
+    "title": "The Saga of Olaf Tryggvason",
+    "author": "Oddr Snorrason",
+    "genre": "Fantasy",
+    "gutenberg_id": 12022
+  },
+  {
+    "title": "The Heimskringla: Or, The Chronicle of the Kings of Norway",
+    "author": "Snorri Sturluson",
+    "genre": "Fantasy",
+    "gutenberg_id": 596
+  },
+  {
+    "title": "The Boy Apprenticed to an Enchanter",
+    "author": "Colum, Padraic",
+    "genre": "Fantasy",
+    "gutenberg_id": 27387
+  }
 ]
+
