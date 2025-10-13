@@ -1,0 +1,2024 @@
+[
+  {
+    "title": "Othello, the Moor of Venice",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1521
+  },
+  {
+    "title": "Hamlet, Prince of Denmark",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1513
+  },
+  {
+    "title": "The Merchant of Venice",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1533
+  },
+  {
+    "title": "Macbeth",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1530
+  },
+  {
+    "title": "The Taming of the Shrew",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1522
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1524
+  },
+  {
+    "title": "The Comedy of Errors",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1525
+  },
+  {
+    "title": "Twelfth Night; Or, What You Will",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1526
+  },
+  {
+    "title": "The Tempest",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1527
+  },
+  {
+    "title": "As You Like It",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1528
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1500
+  },
+  {
+    "title": "King Henry V",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1501
+  },
+  {
+    "title": "King Richard III",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1502
+  },
+  {
+    "title": "King Lear",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1503
+  },
+  {
+    "title": "Julius Caesar",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1504
+  },
+  {
+    "title": "The Merry Wives of Windsor",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1505
+  },
+  {
+    "title": "Antony and Cleopatra",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1506
+  },
+  {
+    "title": "Much Ado about Nothing",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1507
+  },
+  {
+    "title": "The Winter's Tale",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1508
+  },
+  {
+    "title": "The Two Gentlemen of Verona",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1509
+  },
+  {
+    "title": "Book 48818",
+    "author": "Unknown",
+    "genre": "Drama",
+    "gutenberg_id": 48818
+  },
+  {
+    "title": "Book 3044",
+    "author": "Unknown",
+    "genre": "Drama",
+    "gutenberg_id": 3044
+  },
+  {
+    "title": "The Life of the Spider",
+    "author": "Fabre, Jean-Henri",
+    "genre": "Drama",
+    "gutenberg_id": 872
+  },
+  {
+    "title": "The Coverley Papers",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 695
+  },
+  {
+    "title": "Book 484",
+    "author": "Unknown",
+    "genre": "Drama",
+    "gutenberg_id": 484
+  },
+  {
+    "title": "The Letters of Queen Victoria, Vol 2 (of 3), 1844-1853",
+    "author": "Queen of Great Britain Victoria",
+    "genre": "Drama",
+    "gutenberg_id": 398
+  },
+  {
+    "title": "Book 376",
+    "author": "Unknown",
+    "genre": "Drama",
+    "gutenberg_id": 376
+  },
+  {
+    "title": "The Journal of Sir Walter Scott",
+    "author": "Scott, Walter",
+    "genre": "Drama",
+    "gutenberg_id": 356
+  },
+  {
+    "title": "A Lady's Life in the Rocky Mountains",
+    "author": "Bird, Isabella L. (Isabella Lucy)",
+    "genre": "Drama",
+    "gutenberg_id": 351
+  },
+  {
+    "title": "The Voyage of the Beagle",
+    "author": "Darwin, Charles",
+    "genre": "Drama",
+    "gutenberg_id": 350
+  },
+  {
+    "title": "Dracula",
+    "author": "Stoker, Bram",
+    "genre": "Drama",
+    "gutenberg_id": 345
+  },
+  {
+    "title": "The Ballad of Reading Gaol",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 301
+  },
+  {
+    "title": "The Hunting of the Snark",
+    "author": "Carroll, Lewis",
+    "genre": "Drama",
+    "gutenberg_id": 291
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Dickens, Charles",
+    "genre": "Drama",
+    "gutenberg_id": 277
+  },
+  {
+    "title": "A Child's Garden of Verses",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Drama",
+    "gutenberg_id": 261
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Dickens, Charles",
+    "genre": "Drama",
+    "gutenberg_id": 258
+  },
+  {
+    "title": "The Adventures of Ferdinand Count Fathom — Complete",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Drama",
+    "gutenberg_id": 256
+  },
+  {
+    "title": "The Expedition of Humphry Clinker",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Drama",
+    "gutenberg_id": 255
+  },
+  {
+    "title": "Essays of Michel de Montaigne — Complete",
+    "author": "Montaigne, Michel de",
+    "genre": "Drama",
+    "gutenberg_id": 252
+  },
+  {
+    "title": "The History of Tom Jones, a Foundling",
+    "author": "Fielding, Henry",
+    "genre": "Drama",
+    "gutenberg_id": 251
+  },
+  {
+    "title": "The Adventures of Roderick Random",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Drama",
+    "gutenberg_id": 241
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court, Complete",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 225
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 220
+  },
+  {
+    "title": "The Secret Sharer",
+    "author": "Conrad, Joseph",
+    "genre": "Drama",
+    "gutenberg_id": 218
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Dumas, Alexandre",
+    "genre": "Drama",
+    "gutenberg_id": 1618
+  },
+  {
+    "title": "Book 388",
+    "author": "Unknown",
+    "genre": "Drama",
+    "gutenberg_id": 388
+  },
+  {
+    "title": "The King in Yellow",
+    "author": "Chambers, Robert W. (Robert William)",
+    "genre": "Drama",
+    "gutenberg_id": 264
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 202
+  },
+  {
+    "title": "The Importance of Being Earnest",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 174
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Drama",
+    "gutenberg_id": 132
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Austen, Jane",
+    "genre": "Drama",
+    "gutenberg_id": 1342
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Drama",
+    "gutenberg_id": 768
+  },
+  {
+    "title": "The Prince",
+    "author": "Machiavelli, Niccolò",
+    "genre": "Drama",
+    "gutenberg_id": 121
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "genre": "Drama",
+    "gutenberg_id": 158
+  },
+  {
+    "title": "Jane Eyre: An Autobiography",
+    "author": "Brontë, Charlotte",
+    "genre": "Drama",
+    "gutenberg_id": 1260
+  },
+  {
+    "title": "The Awakening",
+    "author": "Chopin, Kate",
+    "genre": "Drama",
+    "gutenberg_id": 17435
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 105
+  },
+  {
+    "title": "Moby Dick; Or, The Whale",
+    "author": "Melville, Herman",
+    "genre": "Drama",
+    "gutenberg_id": 849
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Drama",
+    "gutenberg_id": 1232
+  },
+  {
+    "title": "Dubliners",
+    "author": "Joyce, James",
+    "genre": "Drama",
+    "gutenberg_id": 144
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Kafka, Franz",
+    "genre": "Drama",
+    "gutenberg_id": 996
+  },
+  {
+    "title": "A Doll's House",
+    "author": "Ibsen, Henrik",
+    "genre": "Drama",
+    "gutenberg_id": 14107
+  },
+  {
+    "title": "Ulysses",
+    "author": "Joyce, James",
+    "genre": "Drama",
+    "gutenberg_id": 16389
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "James, Henry",
+    "genre": "Drama",
+    "gutenberg_id": 14179
+  },
+  {
+    "title": "The Yellow Wallpaper",
+    "author": "Gilman, Charlotte Perkins",
+    "genre": "Drama",
+    "gutenberg_id": 14180
+  },
+  {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Irving, Washington",
+    "genre": "Drama",
+    "gutenberg_id": 14181
+  },
+  {
+    "title": "The Time Machine",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Drama",
+    "gutenberg_id": 14182
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Conrad, Joseph",
+    "genre": "Drama",
+    "gutenberg_id": 14183
+  },
+  {
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "author": "Shelley, Mary Wollstonecraft",
+    "genre": "Drama",
+    "gutenberg_id": 14184
+  },
+  {
+    "title": "A Modest Proposal",
+    "author": "Swift, Jonathan",
+    "genre": "Drama",
+    "gutenberg_id": 122
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Drama",
+    "gutenberg_id": 123
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 124
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 125
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 126
+  },
+  {
+    "title": "The Sign of the Four",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 127
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 128
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 129
+  },
+  {
+    "title": "His Last Bow: An Epilogue of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 130
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Drama",
+    "gutenberg_id": 131
+  },
+  {
+    "title": "The Prophet",
+    "author": "Gibran, Kahlil",
+    "genre": "Drama",
+    "gutenberg_id": 133
+  },
+  {
+    "title": "Thus Spake Zarathustra: A Book for All and None",
+    "author": "Nietzsche, Friedrich Wilhelm",
+    "genre": "Drama",
+    "gutenberg_id": 134
+  },
+  {
+    "title": "Beyond Good and Evil",
+    "author": "Nietzsche, Friedrich Wilhelm",
+    "genre": "Drama",
+    "gutenberg_id": 135
+  },
+  {
+    "title": "The Antichrist",
+    "author": "Nietzsche, Friedrich Wilhelm",
+    "genre": "Drama",
+    "gutenberg_id": 136
+  },
+  {
+    "title": "The Happy Prince, and Other Tales",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 138
+  },
+  {
+    "title": "The Canterville Ghost",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 139
+  },
+  {
+    "title": "The Soul of Man",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 140
+  },
+  {
+    "title": "De Profundis",
+    "author": "Wilde, Oscar",
+    "genre": "Drama",
+    "gutenberg_id": 141
+  },
+  {
+    "title": "Essays by Ralph Waldo Emerson",
+    "author": "Emerson, Ralph Waldo",
+    "genre": "Drama",
+    "gutenberg_id": 142
+  },
+  {
+    "title": "Walden, and On The Duty Of Civil Disobedience",
+    "author": "Thoreau, Henry David",
+    "genre": "Drama",
+    "gutenberg_id": 143
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Whitman, Walt",
+    "genre": "Drama",
+    "gutenberg_id": 145
+  },
+  {
+    "title": "The Raven",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 146
+  },
+  {
+    "title": "The Masque of the Red Death",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 147
+  },
+  {
+    "title": "The Fall of the House of Usher",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 148
+  },
+  {
+    "title": "The Cask of Amontillado",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 149
+  },
+  {
+    "title": "The Pit and the Pendulum",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 150
+  },
+  {
+    "title": "The Murders in the Rue Morgue",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 151
+  },
+  {
+    "title": "The Tell-Tale Heart",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 152
+  },
+  {
+    "title": "The Black Cat",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 153
+  },
+  {
+    "title": "The Gold-Bug",
+    "author": "Poe, Edgar Allan",
+    "genre": "Drama",
+    "gutenberg_id": 154
+  },
+  {
+    "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+    "author": "Douglass, Frederick",
+    "genre": "Drama",
+    "gutenberg_id": 155
+  },
+  {
+    "title": "Incidents in the Life of a Slave Girl, Written by Herself",
+    "author": "Jacobs, Harriet A. (Harriet Ann)",
+    "genre": "Drama",
+    "gutenberg_id": 156
+  },
+  {
+    "title": "The Souls of Black Folk",
+    "author": "Du Bois, W. E. B. (William Edward Burghardt)",
+    "genre": "Drama",
+    "gutenberg_id": 157
+  },
+  {
+    "title": "Common Sense",
+    "author": "Paine, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 159
+  },
+  {
+    "title": "The Federalist Papers",
+    "author": "Hamilton, Alexander",
+    "genre": "Drama",
+    "gutenberg_id": 160
+  },
+  {
+    "title": "The Communist Manifesto",
+    "author": "Marx, Karl",
+    "genre": "Drama",
+    "gutenberg_id": 161
+  },
+  {
+    "title": "Leviathan",
+    "author": "Hobbes, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 162
+  },
+  {
+    "title": "The Social Contract & Discourses",
+    "author": "Rousseau, Jean-Jacques",
+    "genre": "Drama",
+    "gutenberg_id": 163
+  },
+  {
+    "title": "Second Treatise of Government",
+    "author": "Locke, John",
+    "genre": "Drama",
+    "gutenberg_id": 164
+  },
+  {
+    "title": "An Enquiry Concerning Human Understanding",
+    "author": "Hume, David",
+    "genre": "Drama",
+    "gutenberg_id": 165
+  },
+  {
+    "title": "The Critique of Pure Reason",
+    "author": "Kant, Immanuel",
+    "genre": "Drama",
+    "gutenberg_id": 166
+  },
+  {
+    "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+    "author": "Descartes, René",
+    "genre": "Drama",
+    "gutenberg_id": 167
+  },
+  {
+    "title": "On the Duty of Civil Disobedience",
+    "author": "Thoreau, Henry David",
+    "genre": "Drama",
+    "gutenberg_id": 170
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sunzi, active 6th century B.C.",
+    "genre": "Drama",
+    "gutenberg_id": 171
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 172
+  },
+  {
+    "title": "The Autobiography of Benjamin Franklin",
+    "author": "Franklin, Benjamin",
+    "genre": "Drama",
+    "gutenberg_id": 173
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 175
+  },
+  {
+    "title": "The Marvelous Land of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 176
+  },
+  {
+    "title": "Ozma of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 177
+  },
+  {
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 178
+  },
+  {
+    "title": "The Road to Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 179
+  },
+  {
+    "title": "The Emerald City of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 180
+  },
+  {
+    "title": "The Patchwork Girl of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 181
+  },
+  {
+    "title": "Tik-Tok of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 182
+  },
+  {
+    "title": "The Scarecrow of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 183
+  },
+  {
+    "title": "Rinkitink in Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 184
+  },
+  {
+    "title": "The Lost Princess of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 185
+  },
+  {
+    "title": "The Tin Woodman of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 186
+  },
+  {
+    "title": "The Magic of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 187
+  },
+  {
+    "title": "Glinda of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 188
+  },
+  {
+    "title": "The Royal Book of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 189
+  },
+  {
+    "title": "Kabumpo in Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 190
+  },
+  {
+    "title": "The Cowardly Lion of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 191
+  },
+  {
+    "title": "Grampa in Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 192
+  },
+  {
+    "title": "The Lost King of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 193
+  },
+  {
+    "title": "The Hungry Tiger of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 194
+  },
+  {
+    "title": "The Gnome King of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 195
+  },
+  {
+    "title": "The Giant Horse of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 196
+  },
+  {
+    "title": "Jack Pumpkinhead of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 197
+  },
+  {
+    "title": "The Yellow Knight of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 198
+  },
+  {
+    "title": "Pirates in Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 199
+  },
+  {
+    "title": "The Purple Prince of Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 200
+  },
+  {
+    "title": "Ojo in Oz",
+    "author": "Thompson, Ruth Plumly",
+    "genre": "Drama",
+    "gutenberg_id": 201
+  },
+  {
+    "title": "The Life and Adventures of Santa Claus",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 862
+  },
+  {
+    "title": "American Fairy Tales",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 863
+  },
+  {
+    "title": "The Master Key: An Electrical Fairy Tale Founded Upon the Mysteries of Electricity",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 864
+  },
+  {
+    "title": "The Sea Fairies",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 865
+  },
+  {
+    "title": "The Enchanted Island of Yew",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 866
+  },
+  {
+    "title": "Sky Island: being the further exciting adventures of Trot and Cap'n Bill after their visit to the sea fairies",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 867
+  },
+  {
+    "title": "The Surprising Adventures of the Magical Monarch of Mo and His People",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 868
+  },
+  {
+    "title": "A Kidnapped Santa Claus",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "genre": "Drama",
+    "gutenberg_id": 869
+  },
+  {
+    "title": "Aunt Jane's Nieces",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 870
+  },
+  {
+    "title": "Aunt Jane's Nieces Abroad",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 871
+  },
+  {
+    "title": "Aunt Jane's Nieces at Millville",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 873
+  },
+  {
+    "title": "The Innocents Abroad",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 203
+  },
+  {
+    "title": "Roughing It",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 204
+  },
+  {
+    "title": "A Tramp Abroad",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 205
+  },
+  {
+    "title": "Following the Equator: A Journey Around the World",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 206
+  },
+  {
+    "title": "Life on the Mississippi",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 207
+  },
+  {
+    "title": "The Gilded Age: A Tale of Today",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 208
+  },
+  {
+    "title": "The American Claimant",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 209
+  },
+  {
+    "title": "Tom Sawyer Abroad",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 210
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 211
+  },
+  {
+    "title": "Pudd'nhead Wilson",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 212
+  },
+  {
+    "title": "Personal Recollections of Joan of Arc",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 213
+  },
+  {
+    "title": "The Man That Corrupted Hadleyburg",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 214
+  },
+  {
+    "title": "A Dog's Tale",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 215
+  },
+  {
+    "title": "Eve's Diary, Complete",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 216
+  },
+  {
+    "title": "The Mysterious Stranger",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 217
+  },
+  {
+    "title": "The $30,000 Bequest, and Other Stories",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 219
+  },
+  {
+    "title": "Mark Twain's Speeches",
+    "author": "Twain, Mark",
+    "genre": "Drama",
+    "gutenberg_id": 221
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 844
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 845
+  },
+  {
+    "title": "The Blithedale Romance",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 846
+  },
+  {
+    "title": "The Marble Faun; Or, The Romance of Monte Beni",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 847
+  },
+  {
+    "title": "Twice-Told Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 848
+  },
+  {
+    "title": "Mosses from an Old Manse",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 850
+  },
+  {
+    "title": "The Snow-Image: A Childish Miracle",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 851
+  },
+  {
+    "title": "A Wonder-Book for Girls and Boys",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 852
+  },
+  {
+    "title": "Tanglewood Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 853
+  },
+  {
+    "title": "The Whole-Family: a Novel by Twelve Authors",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 854
+  },
+  {
+    "title": "The Grandfather's Chair",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 855
+  },
+  {
+    "title": "Biographical Stories",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Drama",
+    "gutenberg_id": 856
+  },
+  {
+    "title": "A Select Collection of Old English Plays, Volume 01",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 857
+  },
+  {
+    "title": "A Select Collection of Old English Plays, Volume 02",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 858
+  },
+  {
+    "title": "A Select Collection of Old English Plays, Volume 03",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 859
+  },
+  {
+    "title": "A Select Collection of Old English Plays, Volume 04",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 860
+  },
+  {
+    "title": "A Select Collection of Old English Plays, Volume 05",
+    "author": "Various",
+    "genre": "Drama",
+    "gutenberg_id": 861
+  },
+  {
+    "title": "Aunt Jane's Nieces at Work",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 874
+  },
+  {
+    "title": "Aunt Jane's Nieces in Society",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 875
+  },
+  {
+    "title": "Aunt Jane's Nieces and Uncle John",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 876
+  },
+  {
+    "title": "Aunt Jane's Nieces on Vacation",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 877
+  },
+  {
+    "title": "Aunt Jane's Nieces on the Ranch",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 878
+  },
+  {
+    "title": "Aunt Jane's Nieces out West",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 879
+  },
+  {
+    "title": "Aunt Jane's Nieces in the Red Cross",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 880
+  },
+  {
+    "title": "Mary Louise",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 881
+  },
+  {
+    "title": "Mary Louise in the Country",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 882
+  },
+  {
+    "title": "Mary Louise Solves a Mystery",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 883
+  },
+  {
+    "title": "Mary Louise and the Liberty Girls",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 884
+  },
+  {
+    "title": "Mary Louise Adopts a Soldier",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 885
+  },
+  {
+    "title": "The Flying Girl",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 886
+  },
+  {
+    "title": "The Flying Girl and Her Chum",
+    "author": "Van Dyne, Edith",
+    "genre": "Drama",
+    "gutenberg_id": 887
+  },
+  {
+    "title": "The Bluebird for Children",
+    "author": "Maeterlinck, Maurice",
+    "genre": "Drama",
+    "gutenberg_id": 888
+  },
+  {
+    "title": "The Girl Aviators' Sky Cruise",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 889
+  },
+  {
+    "title": "The Girl Aviators' Motor Butterfly",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 890
+  },
+  {
+    "title": "The Girl Aviators on Golden Wings",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 891
+  },
+  {
+    "title": "The Girl Aviators' Motor-Cycle",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 892
+  },
+  {
+    "title": "The Girl Aviators' Wardrobe",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 893
+  },
+  {
+    "title": "The Girl Aviators and the Phantom Airship",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 894
+  },
+  {
+    "title": "The Girl Aviators' Treasure Quest; Or, The Search for the Lost Mine",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 895
+  },
+  {
+    "title": "The Girl Aviators' Motor-Boat",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 896
+  },
+  {
+    "title": "The Girl Aviators' Sky-Writer",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 897
+  },
+  {
+    "title": "The Girl Aviators' Highest Flight",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 898
+  },
+  {
+    "title": "The Girl Aviators' Trip to Hawaii",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 899
+  },
+  {
+    "title": "The Girl Aviators' Romantic Adventure",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 900
+  },
+  {
+    "title": "The Flying Girl's Brother; Or, The Search for the Lost Airship",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 901
+  },
+  {
+    "title": "The Flying Girl's Cruise",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 902
+  },
+  {
+    "title": "The Flying Girl's Triumph",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 903
+  },
+  {
+    "title": "The Flying Girl's Mission",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 904
+  },
+  {
+    "title": "The Flying Girl's Rival; Or, The Young Inventor's Secret",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 905
+  },
+  {
+    "title": "The Flying Girl's Conquest",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 906
+  },
+  {
+    "title": "The Flying Girl's Vengeance; Or, The Gold of the Aztecs",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 907
+  },
+  {
+    "title": "The Flying Girl's Love Story",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 908
+  },
+  {
+    "title": "The Flying Girl's Mystery",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 909
+  },
+  {
+    "title": "The Flying Girl's Peril",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 910
+  },
+  {
+    "title": "The Flying Girl's Escape",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 911
+  },
+  {
+    "title": "The Flying Girl's Wooing",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 912
+  },
+  {
+    "title": "The Flying Girl's Victory",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 913
+  },
+  {
+    "title": "The Flying Girl's Expedition",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 914
+  },
+  {
+    "title": "The Flying Girl's Test",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 915
+  },
+  {
+    "title": "The Flying Girl's Venture",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 916
+  },
+  {
+    "title": "The Flying Girl's Cruise for the President's Cup",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 917
+  },
+  {
+    "title": "The Flying Girl's Prize",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 918
+  },
+  {
+    "title": "The Flying Girl's Triumph; Or, The Search for the Lost Airship",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 919
+  },
+  {
+    "title": "The Flying Girl's Secret",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 920
+  },
+  {
+    "title": "The Flying Girl's Stratagem; Or, The Wireless Message and the Treasure of the Aztecs",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 921
+  },
+  {
+    "title": "The Flying Girl's Flight; Or, The Quest of the Golden Eagle",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 922
+  },
+  {
+    "title": "The Flying Girl's Island",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 923
+  },
+  {
+    "title": "The Flying Girl's Brother",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 924
+  },
+  {
+    "title": "The Flying Girl's Fortune",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 925
+  },
+  {
+    "title": "The Flying Girl's Romance",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 926
+  },
+  {
+    "title": "The Flying Girl's Trip to the Stars",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 927
+  },
+  {
+    "title": "The Flying Girl's Test; Or, The Secret of the Flying Limousine",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 928
+  },
+  {
+    "title": "The Flying Girl's Rescue",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 929
+  },
+  {
+    "title": "The Flying Girl's Enterprise",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 930
+  },
+  {
+    "title": "The Flying Girl's Brother's Secret; Or, The Lost Airship",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 931
+  },
+  {
+    "title": "The Flying Girl's Triumph; Or, The Mill of the Andes",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 932
+  },
+  {
+    "title": "The Flying Girl's Fortune; Or, The Treasure of the Aztecs",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 933
+  },
+  {
+    "title": "The Flying Girl's Test; Or, The Wireless Message",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 934
+  },
+  {
+    "title": "The Flying Girl's Secret; Or, The Smugglers of the Air",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 935
+  },
+  {
+    "title": "The Flying Girl's Stratagem; Or, The Mill of the Andes",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 936
+  },
+  {
+    "title": "The Flying Girl's Triumph; Or, The Treasure of the Aztecs",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 937
+  },
+  {
+    "title": "The Flying Girl's Secret; Or, The Wireless Message",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 938
+  },
+  {
+    "title": "The Flying Girl's Test; Or, The Smugglers of the Air",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 939
+  },
+  {
+    "title": "The Flying Girl's Stratagem; Or, The Treasure of the Aztecs",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 940
+  },
+  {
+    "title": "The Flying Girl's Triumph; Or, The Wireless Message",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 941
+  },
+  {
+    "title": "The Flying Girl's Secret; Or, The Mill of the Andes",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 942
+  },
+  {
+    "title": "The Flying Girl's Test; Or, The Treasure of the Aztecs",
+    "author": "Talcott, Margaret",
+    "genre": "Drama",
+    "gutenberg_id": 943
+  },
+  {
+    "title": "King Henry VI, Part 1",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1510
+  },
+  {
+    "title": "King Henry VI, Part 2",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1511
+  },
+  {
+    "title": "King Henry VI, Part 3",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1512
+  },
+  {
+    "title": "Love's Labour's Lost",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1514
+  },
+  {
+    "title": "All's Well That Ends Well",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1515
+  },
+  {
+    "title": "Coriolanus",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1516
+  },
+  {
+    "title": "Cymbeline",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1517
+  },
+  {
+    "title": "King John",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1518
+  },
+  {
+    "title": "Measure for Measure",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1519
+  },
+  {
+    "title": "Titus Andronicus",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1520
+  },
+  {
+    "title": "Timon of Athens",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1523
+  },
+  {
+    "title": "Troilus and Cressida",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1529
+  },
+  {
+    "title": "King Richard II",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1531
+  },
+  {
+    "title": "King Henry IV, Part 1",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1532
+  },
+  {
+    "title": "King Henry IV, Part 2",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1534
+  },
+  {
+    "title": "King Henry VIII",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1535
+  },
+  {
+    "title": "Pericles, Prince of Tyre",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1536
+  },
+  {
+    "title": "The Rape of Lucrece",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1537
+  },
+  {
+    "title": "The Passionate Pilgrim",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1538
+  },
+  {
+    "title": "The Phoenix and the Turtle",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1539
+  },
+  {
+    "title": "A Lover's Complaint",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1540
+  },
+  {
+    "title": "Sonnets to Sundry Notes of Music",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1541
+  },
+  {
+    "title": "The Complete Works of William Shakespeare",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1542
+  },
+  {
+    "title": "Shakespeare's Sonnets",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1543
+  },
+  {
+    "title": "Venus and Adonis",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1544
+  },
+  {
+    "title": "The Two Noble Kinsmen",
+    "author": "Shakespeare, William",
+    "genre": "Drama",
+    "gutenberg_id": 1545
+  },
+  {
+    "title": "The Spanish Tragedie",
+    "author": "Kyd, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1546
+  },
+  {
+    "title": "The Jew of Malta",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1547
+  },
+  {
+    "title": "Edward the Second",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1548
+  },
+  {
+    "title": "The Tragical History of Doctor Faustus",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1549
+  },
+  {
+    "title": "Tamburlaine the Great, Part 1",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1550
+  },
+  {
+    "title": "Tamburlaine the Great, Part 2",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1551
+  },
+  {
+    "title": "The Massacre at Paris",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1552
+  },
+  {
+    "title": "Dido, Queen of Carthage",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1553
+  },
+  {
+    "title": "Hero and Leander",
+    "author": "Marlowe, Christopher",
+    "genre": "Drama",
+    "gutenberg_id": 1554
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1555
+  },
+  {
+    "title": "Volpone; Or, The Fox",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1556
+  },
+  {
+    "title": "Every Man in His Humour",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1557
+  },
+  {
+    "title": "Bartholomew Fair",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1558
+  },
+  {
+    "title": "The Poetaster",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1559
+  },
+  {
+    "title": "The Silent Woman",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1560
+  },
+  {
+    "title": "Cynthia's Revels",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1561
+  },
+  {
+    "title": "The Staple of News",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1562
+  },
+  {
+    "title": "The New Inn",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1563
+  },
+  {
+    "title": "The Magnetic Lady",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1564
+  },
+  {
+    "title": "The Case is Altered",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1565
+  },
+  {
+    "title": "Every Man out of His Humour",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1566
+  },
+  {
+    "title": "The Sad Shepherd",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1567
+  },
+  {
+    "title": "A Tale of a Tub",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1568
+  },
+  {
+    "title": "The Devil is an Ass",
+    "author": "Jonson, Ben",
+    "genre": "Drama",
+    "gutenberg_id": 1569
+  },
+  {
+    "title": "The Duchess of Malfi",
+    "author": "Webster, John",
+    "genre": "Drama",
+    "gutenberg_id": 1570
+  },
+  {
+    "title": "The White Devil",
+    "author": "Webster, John",
+    "genre": "Drama",
+    "gutenberg_id": 1571
+  },
+  {
+    "title": "The Changeling",
+    "author": "Middleton, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1572
+  },
+  {
+    "title": "A Trick to Catch the Old One",
+    "author": "Middleton, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1573
+  },
+  {
+    "title": "The Revenger's Tragedy",
+    "author": "Tourneur, Cyril",
+    "genre": "Drama",
+    "gutenberg_id": 1574
+  },
+  {
+    "title": "A Woman Killed with Kindness",
+    "author": "Heywood, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1575
+  },
+  {
+    "title": "The Shoemaker's Holiday",
+    "author": "Dekker, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1576
+  },
+  {
+    "title": "The Honest Whore (Part 1)",
+    "author": "Dekker, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1577
+  },
+  {
+    "title": "The Honest Whore (Part 2)",
+    "author": "Dekker, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1578
+  },
+  {
+    "title": "'Tis Pity She's a Whore",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1579
+  },
+  {
+    "title": "The Broken Heart",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1580
+  },
+  {
+    "title": "Love's Sacrifice",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1581
+  },
+  {
+    "title": "The Fancies Chaste and Noble",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1582
+  },
+  {
+    "title": "The Lady's Trial",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1583
+  },
+  {
+    "title": "The Lover's Melancholy",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1584
+  },
+  {
+    "title": "Perkin Warbeck",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1585
+  },
+  {
+    "title": "The Witch of Edmonton",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1586
+  },
+  {
+    "title": "The Sun's Darling",
+    "author": "Ford, John",
+    "genre": "Drama",
+    "gutenberg_id": 1587
+  },
+  {
+    "title": "The Spanish Gipsy",
+    "author": "Middleton, Thomas",
+    "genre": "Drama",
+    "gutenberg_id": 1588
+  },
+  {
+    "title": "The Cardinal",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1589
+  },
+  {
+    "title": "The Lady of Pleasure",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1590
+  },
+  {
+    "title": "The Traitor",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1591
+  },
+  {
+    "title": "Hyde Park",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1592
+  },
+  {
+    "title": "The Gamester",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1593
+  },
+  {
+    "title": "The Example",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1594
+  },
+  {
+    "title": "The Opportunity",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1595
+  },
+  {
+    "title": "The Coronation",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1596
+  },
+  {
+    "title": "The Constant Maid",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1597
+  },
+  {
+    "title": "The Humorous Courtier",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1598
+  },
+  {
+    "title": "The Imposture",
+    "author": "Shirley, James",
+    "genre": "Drama",
+    "gutenberg_id": 1599
+  }
+]
