@@ -1745,8 +1745,7 @@
   "genre": "Romance",
   "gutenberg_id": 15913
 },
-[
-  {
+{
     "title": "A Room with a View",
     "author": "Forster, E. M.",
     "genre": "Romance",
@@ -2358,5 +2357,4 @@
     "genre": "Romance",
     "gutenberg_id": 9455
   }
-]
 ]
