@@ -2333,5 +2333,599 @@
     "author": "Edgeworth, Maria",
     "genre": "Romance",
     "gutenberg_id": 9455
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Orczy, Baroness Emmuska",
+    "genre": "Romance",
+    "gutenberg_id": 60
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "author": "Hope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 95
+  },
+  {
+    "title": "Daddy-Long-Legs",
+    "author": "Webster, Jean",
+    "genre": "Romance",
+    "gutenberg_id": 157
+  },
+  {
+    "title": "The Four Horsemen of the Apocalypse",
+    "author": "Blasco Ibáñez, Vicente",
+    "genre": "Romance",
+    "gutenberg_id": 1484
+  },
+  {
+    "title": "Laddie",
+    "author": "Porter, Gene Stratton",
+    "genre": "Romance",
+    "gutenberg_id": 2303
+  },
+  {
+    "title": "A Girl of the Limberlost",
+    "author": "Porter, Gene Stratton",
+    "genre": "Romance",
+    "gutenberg_id": 2311
+  },
+  {
+    "title": "The Harvester",
+    "author": "Porter, Gene Stratton",
+    "genre": "Romance",
+    "gutenberg_id": 3997
+  },
+  {
+    "title": "Freckles",
+    "author": "Porter, Gene Stratton",
+    "genre": "Romance",
+    "gutenberg_id": 4028
+  },
+  {
+    "title": "At the Back of the North Wind",
+    "author": "MacDonald, George",
+    "genre": "Romance",
+    "gutenberg_id": 225
+  },
+  {
+    "title": "The Princess and the Goblin",
+    "author": "MacDonald, George",
+    "genre": "Romance",
+    "gutenberg_id": 708
+  },
+  {
+    "title": "The Princess and Curdie",
+    "author": "MacDonald, George",
+    "genre": "Romance",
+    "gutenberg_id": 709
+  },
+  {
+    "title": "Phantastes",
+    "author": "MacDonald, George",
+    "genre": "Romance",
+    "gutenberg_id": 325
+  },
+  {
+    "title": "Dear Enemy",
+    "author": "Webster, Jean",
+    "genre": "Romance",
+    "gutenberg_id": 1562
+  },
+  {
+    "title": "When Patty Went to College",
+    "author": "Webster, Jean",
+    "genre": "Romance",
+    "gutenberg_id": 3285
+  },
+  {
+    "title": "Rupert of Hentzau",
+    "author": "Hope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 96
+  },
+  {
+    "title": "The Enchanted April",
+    "author": "Von Arnim, Elizabeth",
+    "genre": "Romance",
+    "gutenberg_id": 16389
+  },
+  {
+    "title": "Elizabeth and Her German Garden",
+    "author": "Von Arnim, Elizabeth",
+    "genre": "Romance",
+    "gutenberg_id": 10976
+  },
+  {
+    "title": "The Solitary Farm",
+    "author": "Hume, Fergus",
+    "genre": "Romance",
+    "gutenberg_id": 3691
+  },
+  {
+    "title": "The Mystery of a Hansom Cab",
+    "author": "Hume, Fergus",
+    "genre": "Romance",
+    "gutenberg_id": 4365
+  },
+  {
+    "title": "Miss Ludington's Sister",
+    "author": "Bellamy, Edward",
+    "genre": "Romance",
+    "gutenberg_id": 2721
+  },
+  {
+    "title": "The Duke's Children",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 3394
+  },
+  {
+    "title": "The Small House at Allington",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 619
+  },
+  {
+    "title": "The Last Chronicle of Barset",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 617
+  },
+  {
+    "title": "Doctor Thorne",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 613
+  },
+  {
+    "title": "Framley Parsonage",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 618
+  },
+  {
+    "title": "The Warden",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 619
+  },
+  {
+    "title": "Phineas Finn",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6133
+  },
+  {
+    "title": "Phineas Redux",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6324
+  },
+  {
+    "title": "The Prime Minister",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6113
+  },
+  {
+    "title": "Is He Popenjoy?",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6143
+  },
+  {
+    "title": "The Belton Estate",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6153
+  },
+  {
+    "title": "The Claverings",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6163
+  },
+  {
+    "title": "He Knew He Was Right",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6173
+  },
+  {
+    "title": "The Vicar of Bullhampton",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6183
+  },
+  {
+    "title": "Lady Anna",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6193
+  },
+  {
+    "title": "The Golden Lion of Granpere",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6203
+  },
+  {
+    "title": "Rachel Ray",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6213
+  },
+  {
+    "title": "The Struggles of Brown, Jones, and Robinson",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6223
+  },
+  {
+    "title": "The Three Clerks",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6233
+  },
+  {
+    "title": "Castle Richmond",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6243
+  },
+  {
+    "title": "The Bertrams",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6253
+  },
+  {
+    "title": "The Macdermots of Ballycloran",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6263
+  },
+  {
+    "title": "The Kellys and the O'Kellys",
+    "author": "Trollope, Anthony",
+    "genre": "Romance",
+    "gutenberg_id": 6273
+  },
+  {
+    "title": "La Vendetta",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 1390
+  },
+  {
+    "title": "The Magic Skin",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 1398
+  },
+  {
+    "title": "Eugenie Grandet",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 1409
+  },
+  {
+    "title": "Father Goriot",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 1237
+  },
+  {
+    "title": "Cousin Bette",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 1374
+  },
+  {
+    "title": "Lost Illusions",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 8600
+  },
+  {
+    "title": "The Country Doctor",
+    "author": "Balzac, Honoré de",
+    "genre": "Romance",
+    "gutenberg_id": 1959
+  },
+  {
+    "title": "The Quest of the Silver Fleece",
+    "author": "Du Bois, W. E. B.",
+    "genre": "Romance",
+    "gutenberg_id": 15265
+  },
+  {
+    "title": "The Spy",
+    "author": "Cooper, James Fenimore",
+    "genre": "Romance",
+    "gutenberg_id": 821
+  },
+  {
+    "title": "The Pathfinder",
+    "author": "Cooper, James Fenimore",
+    "genre": "Romance",
+    "gutenberg_id": 1407
+  },
+  {
+    "title": "The Deerslayer",
+    "author": "Cooper, James Fenimore",
+    "genre": "Romance",
+    "gutenberg_id": 3285
+  },
+  {
+    "title": "The Prairie",
+    "author": "Cooper, James Fenimore",
+    "genre": "Romance",
+    "gutenberg_id": 6450
+  },
+  {
+    "title": "The Pioneers",
+    "author": "Cooper, James Fenimore",
+    "genre": "Romance",
+    "gutenberg_id": 1701
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "author": "Cooper, James Fenimore",
+    "genre": "Romance",
+    "gutenberg_id": 27
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "author": "Crane, Stephen",
+    "genre": "Romance",
+    "gutenberg_id": 73
+  },
+  {
+    "title": "Maggie: A Girl of the Streets",
+    "author": "Crane, Stephen",
+    "genre": "Romance",
+    "gutenberg_id": 447
+  },
+  {
+    "title": "Ben-Hur: A Tale of the Christ",
+    "author": "Wallace, Lew",
+    "genre": "Romance",
+    "gutenberg_id": 2456
+  },
+  {
+    "title": "The Fair God",
+    "author": "Wallace, Lew",
+    "genre": "Romance",
+    "gutenberg_id": 6068
+  },
+  {
+    "title": "The Prince of India",
+    "author": "Wallace, Lew",
+    "genre": "Romance",
+    "gutenberg_id": 5506
+  },
+  {
+    "title": "Ramona",
+    "author": "Jackson, Helen Hunt",
+    "genre": "Romance",
+    "gutenberg_id": 338
+  },
+  {
+    "title": "The Circular Staircase",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 1032
+  },
+  {
+    "title": "The Man in Lower Ten",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 5842
+  },
+  {
+    "title": "K",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 5863
+  },
+  {
+    "title": "The Window at the White Cat",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 5891
+  },
+  {
+    "title": "The Amazing Interlude",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 5908
+  },
+  {
+    "title": "Bab: A Sub-Deb",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 6789
+  },
+  {
+    "title": "The Street of Seven Stars",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 6812
+  },
+  {
+    "title": "When a Man Marries",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 6821
+  },
+  {
+    "title": "Tish",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 6834
+  },
+  {
+    "title": "Love Stories",
+    "author": "Rinehart, Mary Roberts",
+    "genre": "Romance",
+    "gutenberg_id": 6856
+  },
+  {
+    "title": "The Reef",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 187
+  },
+  {
+    "title": "Summer",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 166
+  },
+  {
+    "title": "The Touchstone",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 2642
+  },
+  {
+    "title": "Madame de Treymes",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 4377
+  },
+  {
+    "title": "The Fruit of the Tree",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 5976
+  },
+  {
+    "title": "The Valley of Decision",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 6106
+  },
+  {
+    "title": "Sanctuary",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 6117
+  },
+  {
+    "title": "The Hermit and the Wild Woman",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 6128
+  },
+  {
+    "title": "The Glimpses of the Moon",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 6152
+  },
+  {
+    "title": "A Son at the Front",
+    "author": "Wharton, Edith",
+    "genre": "Romance",
+    "gutenberg_id": 6163
+  },
+  {
+    "title": "The Lifted Veil",
+    "author": "Eliot, George",
+    "genre": "Romance",
+    "gutenberg_id": 2165
+  },
+  {
+    "title": "Brother Jacob",
+    "author": "Eliot, George",
+    "genre": "Romance",
+    "gutenberg_id": 4343
+  },
+  {
+    "title": "Romola",
+    "author": "Eliot, George",
+    "genre": "Romance",
+    "gutenberg_id": 24020
+  },
+  {
+    "title": "Felix Holt, the Radical",
+    "author": "Eliot, George",
+    "genre": "Romance",
+    "gutenberg_id": 28569
+  },
+  {
+    "title": "Scenes of Clerical Life",
+    "author": "Eliot, George",
+    "genre": "Romance",
+    "gutenberg_id": 4525
+  },
+  {
+    "title": "Mary Barton",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 2153
+  },
+  {
+    "title": "Ruth",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4275
+  },
+  {
+    "title": "Sylvia's Lovers",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4511
+  },
+  {
+    "title": "Cousin Phillis",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4268
+  },
+  {
+    "title": "A Dark Night's Work",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4269
+  },
+  {
+    "title": "My Lady Ludlow",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4270
+  },
+  {
+    "title": "The Moorland Cottage",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4271
+  },
+  {
+    "title": "Mr. Harrison's Confessions",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4272
+  },
+  {
+    "title": "The Grey Woman and Other Tales",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4273
+  },
+  {
+    "title": "Lizzie Leigh",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4277
+  },
+  {
+    "title": "Round the Sofa",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "genre": "Romance",
+    "gutenberg_id": 4278
   }
 ]
