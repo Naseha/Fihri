@@ -1,0 +1,1448 @@
+[
+  {
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "author": "Shelley, Mary Wollstonecraft",
+    "genre": "Science Fiction",
+    "gutenberg_id": 84
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 62
+  },
+  {
+    "title": "The Time Machine",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 35
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 36
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 5230
+  },
+  {
+    "title": "The Island of Doctor Moreau",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 159
+  },
+  {
+    "title": "Journey to the Center of the Earth",
+    "author": "Verne, Jules",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18857
+  },
+  {
+    "title": "Twenty Thousand Leagues under the Sea",
+    "author": "Verne, Jules",
+    "genre": "Science Fiction",
+    "gutenberg_id": 164
+  },
+  {
+    "title": "From the Earth to the Moon",
+    "author": "Verne, Jules",
+    "genre": "Science Fiction",
+    "gutenberg_id": 83
+  },
+  {
+    "title": "Flatland: A Romance of Many Dimensions",
+    "author": "Abbott, Edwin Abbott",
+    "genre": "Science Fiction",
+    "gutenberg_id": 97
+  },
+  {
+    "title": "The Lost World",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Science Fiction",
+    "gutenberg_id": 139
+  },
+  {
+    "title": "The Gods of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 64
+  },
+  {
+    "title": "The Warlord of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 68
+  },
+  {
+    "title": "Thuvia, Maid of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20
+  },
+  {
+    "title": "The Chessmen of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21
+  },
+  {
+    "title": "The Master Mind of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22
+  },
+  {
+    "title": "A Fighting Man of Mars",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 23
+  },
+  {
+    "title": "The First Men in the Moon",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 1013
+  },
+  {
+    "title": "The Sleeper Awakes",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 1218
+  },
+  {
+    "title": "In the Days of the Comet",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 1451
+  },
+  {
+    "title": "The Food of the Gods and How It Came to Earth",
+    "author": "Wells, H. G. (Herbert George)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 736
+  },
+  {
+    "title": "At the Earth's Core",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 96
+  },
+  {
+    "title": "Pellucidar",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 100
+  },
+  {
+    "title": "The Land That Time Forgot",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 102
+  },
+  {
+    "title": "The People That Time Forgot",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 319
+  },
+  {
+    "title": "Out of Time's Abyss",
+    "author": "Burroughs, Edgar Rice",
+    "genre": "Science Fiction",
+    "gutenberg_id": 320
+  },
+  {
+    "title": "The Poison Belt",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Science Fiction",
+    "gutenberg_id": 324
+  },
+  {
+    "title": "The Coming of the Terrans",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 67098
+  },
+  {
+    "title": "The Variable Man",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28767
+  },
+  {
+    "title": "Second Variety",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32032
+  },
+  {
+    "title": "The Defenders",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28698
+  },
+  {
+    "title": "Mr. Spaceship",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32155
+  },
+  {
+    "title": "Piper in the Woods",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32512
+  },
+  {
+    "title": "The Gun",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31516
+  },
+  {
+    "title": "The Crystal Crypt",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32104
+  },
+  {
+    "title": "The Eyes Have It",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31518
+  },
+  {
+    "title": "Beyond Lies the Wub",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28643
+  },
+  {
+    "title": "The World Jones Made",
+    "author": "Dick, Philip K.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 67104
+  },
+  {
+    "title": "Little Fuzzy",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18137
+  },
+  {
+    "title": "Space Viking",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20728
+  },
+  {
+    "title": "The Cosmic Computer",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18451
+  },
+  {
+    "title": "Four-Day Planet",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19403
+  },
+  {
+    "title": "Uller Uprising",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18882
+  },
+  {
+    "title": "Naudsonce",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20173
+  },
+  {
+    "title": "Omnilingual",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19445
+  },
+  {
+    "title": "The Time Traders",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18131
+  },
+  {
+    "title": "Star Born",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18457
+  },
+  {
+    "title": "The Defiant Agents",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18301
+  },
+  {
+    "title": "Key Out of Time",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19427
+  },
+  {
+    "title": "The Crossroads of Time",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 30732
+  },
+  {
+    "title": "Storm Over Warlock",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28604
+  },
+  {
+    "title": "Star Hunter",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20912
+  },
+  {
+    "title": "The Last Planet",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 27365
+  },
+  {
+    "title": "The People of the Crater",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 55198
+  },
+  {
+    "title": "The Gifts of Asti",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 56006
+  },
+  {
+    "title": "All Cats Are Gray",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 29613
+  },
+  {
+    "title": "Armageddon—2419 A.D.",
+    "author": "Nowlan, Philip Francis",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32530
+  },
+  {
+    "title": "The Skylark of Space",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20869
+  },
+  {
+    "title": "Skylark Three",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21051
+  },
+  {
+    "title": "The Galaxy Primes",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 27725
+  },
+  {
+    "title": "The Wailing Asteroid",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18161
+  },
+  {
+    "title": "The Forgotten Planet",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18833
+  },
+  {
+    "title": "The Mad Planet",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20462
+  },
+  {
+    "title": "Med Ship Man",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 29424
+  },
+  {
+    "title": "The Pirates of Ersatz",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28540
+  },
+  {
+    "title": "This World Is Taboo",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20119
+  },
+  {
+    "title": "Talents, Incorporated",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21332
+  },
+  {
+    "title": "The Aliens",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21180
+  },
+  {
+    "title": "A Martian Odyssey",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22972
+  },
+  {
+    "title": "The Black Star Passes",
+    "author": "Campbell, John W. (John Wood)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20971
+  },
+  {
+    "title": "Islands of Space",
+    "author": "Campbell, John W. (John Wood)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20982
+  },
+  {
+    "title": "Invaders from the Infinite",
+    "author": "Campbell, John W. (John Wood)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21160
+  },
+  {
+    "title": "City",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22218
+  },
+  {
+    "title": "The Marching Morons",
+    "author": "Kornbluth, C. M. (Cyril M.)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 51233
+  },
+  {
+    "title": "The Syndic",
+    "author": "Kornbluth, C. M. (Cyril M.)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18843
+  },
+  {
+    "title": "The Space Merchants",
+    "author": "Pohl, Frederik",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31765
+  },
+  {
+    "title": "The Hated",
+    "author": "Pohl, Frederik",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31920
+  },
+  {
+    "title": "The Big Time",
+    "author": "Leiber, Fritz",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22168
+  },
+  {
+    "title": "A Specter is Haunting Texas",
+    "author": "Leiber, Fritz",
+    "genre": "Science Fiction",
+    "gutenberg_id": 66896
+  },
+  {
+    "title": "The Creature from Cleveland Depths",
+    "author": "Leiber, Fritz",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22295
+  },
+  {
+    "title": "The Mind Spider and Other Stories",
+    "author": "Leiber, Fritz",
+    "genre": "Science Fiction",
+    "gutenberg_id": 29603
+  },
+  {
+    "title": "2 B R 0 2 B",
+    "author": "Vonnegut, Kurt",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21279
+  },
+  {
+    "title": "The Report on Unidentified Flying Objects",
+    "author": "Ruppelt, Edward J.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 17346
+  },
+  {
+    "title": "The Humanoids",
+    "author": "Williamson, Jack",
+    "genre": "Science Fiction",
+    "gutenberg_id": 23730
+  },
+  {
+    "title": "The Green Odyssey",
+    "author": "Vance, Jack",
+    "genre": "Science Fiction",
+    "gutenberg_id": 29457
+  },
+  {
+    "title": "The Languages of Pao",
+    "author": "Vance, Jack",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18873
+  },
+  {
+    "title": "The Star-Sent Knaves",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22687
+  },
+  {
+    "title": "Greylorn",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24204
+  },
+  {
+    "title": "The Planet Strappers",
+    "author": "Gallun, Raymond Z.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20448
+  },
+  {
+    "title": "Sargasso of Space",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 27151
+  },
+  {
+    "title": "Plague Ship",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18183
+  },
+  {
+    "title": "Voodoo Planet",
+    "author": "Norton, Andre",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18880
+  },
+  {
+    "title": "This Immortal",
+    "author": "Zelazny, Roger",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21102
+  },
+  {
+    "title": "The Doors of His Face, The Lamps of His Mouth, and Other Stories",
+    "author": "Zelazny, Roger",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21101
+  },
+  {
+    "title": "The Metal Monster",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 2221
+  },
+  {
+    "title": "The Moon Pool",
+    "author": "Merritt, A. (Abraham)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 1248
+  },
+  {
+    "title": "The Man Who Evolved",
+    "author": "Hamilton, Edmond",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22442
+  },
+  {
+    "title": "The Stars, My Brothers",
+    "author": "Hamilton, Edmond",
+    "genre": "Science Fiction",
+    "gutenberg_id": 30441
+  },
+  {
+    "title": "The Star of Life",
+    "author": "Hamilton, Edmond",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28659
+  },
+  {
+    "title": "The World with a Thousand Moons",
+    "author": "Hamilton, Edmond",
+    "genre": "Science Fiction",
+    "gutenberg_id": 65634
+  },
+  {
+    "title": "The Ego Machine",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22896
+  },
+  {
+    "title": "The Time Axis",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 23632
+  },
+  {
+    "title": "Happy Ending",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31923
+  },
+  {
+    "title": "Shambleau",
+    "author": "Moore, C. L. (Catherine Lucile)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32263
+  },
+  {
+    "title": "Black God's Kiss",
+    "author": "Moore, C. L. (Catherine Lucile)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 43505
+  },
+  {
+    "title": "Judgment Night",
+    "author": "Moore, C. L. (Catherine Lucile)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22818
+  },
+  {
+    "title": "The Voyage of the Space Beagle",
+    "author": "van Vogt, A. E. (Alfred Elton)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28547
+  },
+  {
+    "title": "The World of Null-A",
+    "author": "van Vogt, A. E. (Alfred Elton)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32448
+  },
+  {
+    "title": "Galactic Patrol",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26861
+  },
+  {
+    "title": "Gray Lensman",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26862
+  },
+  {
+    "title": "Second Stage Lensman",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26863
+  },
+  {
+    "title": "Children of the Lens",
+    "author": "Smith, E. E. (Edward Elmer)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26864
+  },
+  {
+    "title": "The Drums of Tapajos",
+    "author": "Meek, S. P. (Sterner St. Paul)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28148
+  },
+  {
+    "title": "The Radio Planet",
+    "author": "Mott, Ralph Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24278
+  },
+  {
+    "title": "The Red Dust",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21852
+  },
+  {
+    "title": "The Fifth-Dimension Tube",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 23605
+  },
+  {
+    "title": "The Runaway Skyscraper",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28615
+  },
+  {
+    "title": "The Thing from the Lake",
+    "author": "Ingram, Eleanor M. (Eleanor Marie)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31952
+  },
+  {
+    "title": "Edison's Conquest of Mars",
+    "author": "Serviss, Garrett Putman",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19141
+  },
+  {
+    "title": "A Columbus of Space",
+    "author": "Serviss, Garrett Putman",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24883
+  },
+  {
+    "title": "The Second Deluge",
+    "author": "Serviss, Garrett Putman",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28867
+  },
+  {
+    "title": "Gladiator",
+    "author": "Wylie, Philip",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20412
+  },
+  {
+    "title": "The Man Who Rocked the Earth",
+    "author": "Train, Arthur",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21490
+  },
+  {
+    "title": "Doomsday Eve",
+    "author": "Williams, Robert Moore",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20297
+  },
+  {
+    "title": "The Blue Tower",
+    "author": "Friend, Oscar J.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20300
+  },
+  {
+    "title": "The Finding of Haldgren",
+    "author": "Winter, Charles E.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20302
+  },
+  {
+    "title": "Wandl the Invader",
+    "author": "Cummings, Ray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20303
+  },
+  {
+    "title": "The Girl in the Golden Atom",
+    "author": "Cummings, Ray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21105
+  },
+  {
+    "title": "The Moon Is Hell!",
+    "author": "Campbell, John W. (John Wood)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21255
+  },
+  {
+    "title": "The Ultimate Weapon",
+    "author": "Campbell, John W. (John Wood)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21461
+  },
+  {
+    "title": "When Worlds Collide",
+    "author": "Balmer, Edwin",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21469
+  },
+  {
+    "title": "The Death of Iron",
+    "author": "Graham, S. S.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21473
+  },
+  {
+    "title": "The Lost Continent",
+    "author": "Hyne, C. J. Cutcliffe",
+    "genre": "Science Fiction",
+    "gutenberg_id": 2154
+  },
+  {
+    "title": "The Struggle for Empire: A Story of the Year 2236",
+    "author": "Cole, Robert W.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21629
+  },
+  {
+    "title": "The Flying Legion",
+    "author": "England, George Allan",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21634
+  },
+  {
+    "title": "The Air Trust",
+    "author": "England, George Allan",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21635
+  },
+  {
+    "title": "The World Peril of 1910",
+    "author": "Pocock, Roger",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21727
+  },
+  {
+    "title": "Star of India",
+    "author": "Sabia, Jones",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21731
+  },
+  {
+    "title": "Beyond the Vanishing Point",
+    "author": "Gallun, Raymond Z.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21764
+  },
+  {
+    "title": "The Planetoid of Doom",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21851
+  },
+  {
+    "title": "The Challenge of the Unknown",
+    "author": "Bell, Eric Temple",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21959
+  },
+  {
+    "title": "The Eternal Wall",
+    "author": "Gallun, Raymond Z.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22107
+  },
+  {
+    "title": "The Lost Comet",
+    "author": "Jones, Stanton A.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22152
+  },
+  {
+    "title": "Project Mastodon",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22217
+  },
+  {
+    "title": "The Alien",
+    "author": "Gallun, Raymond Z.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22294
+  },
+  {
+    "title": "The Day of the Klesh",
+    "author": "Gallun, Raymond Z.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22296
+  },
+  {
+    "title": "The Fourth-Dimensional Demonstrator",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22409
+  },
+  {
+    "title": "Planet of the Damned",
+    "author": "Harrison, Harry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19821
+  },
+  {
+    "title": "The Ethical Engineer",
+    "author": "Harrison, Harry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19822
+  },
+  {
+    "title": "The K-Factor",
+    "author": "Harrison, Harry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31980
+  },
+  {
+    "title": "Deathworld",
+    "author": "Harrison, Harry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28628
+  },
+  {
+    "title": "The Misplaced Battleship",
+    "author": "Harrison, Harry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 30887
+  },
+  {
+    "title": "The Repairman",
+    "author": "Harrison, Harry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31842
+  },
+  {
+    "title": "The World Beyond",
+    "author": "Bradbury, Ray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24819
+  },
+  {
+    "title": "The Hour of the Dragon",
+    "author": "Howard, Robert E. (Robert Ervin)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 42230
+  },
+  {
+    "title": "Almuric",
+    "author": "Howard, Robert E. (Robert Ervin)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 32172
+  },
+  {
+    "title": "The Call of Cthulhu",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 65243
+  },
+  {
+    "title": "The Shadow Over Innsmouth",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 55845
+  },
+  {
+    "title": "The Colour Out of Space",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 38253
+  },
+  {
+    "title": "At the Mountains of Madness",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31542
+  },
+  {
+    "title": "The Dunwich Horror",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 50133
+  },
+  {
+    "title": "The Whisperer in Darkness",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 55850
+  },
+  {
+    "title": "The Dreams in the Witch House",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 55854
+  },
+  {
+    "title": "The Shadow Out of Time",
+    "author": "Lovecraft, H. P. (Howard Phillips)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 55855
+  },
+  {
+    "title": "He Who Shrank",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 31758
+  },
+  {
+    "title": "The Dark World",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22920
+  },
+  {
+    "title": "The Proud Robot",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 22941
+  },
+  {
+    "title": "The Time Trap",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 23604
+  },
+  {
+    "title": "Don't Look Now",
+    "author": "Kuttner, Henry",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24203
+  },
+  {
+    "title": "The Old Martians",
+    "author": "Gallun, Raymond Z.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24410
+  },
+  {
+    "title": "A World by the Tale",
+    "author": "Coblentz, Stanton A. (Stanton Arthur)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24816
+  },
+  {
+    "title": "Flight Through Tomorrow",
+    "author": "Coblentz, Stanton A. (Stanton Arthur)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24823
+  },
+  {
+    "title": "The Sunken World",
+    "author": "Coblentz, Stanton A. (Stanton Arthur)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24824
+  },
+  {
+    "title": "The World of the Red Sun",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24831
+  },
+  {
+    "title": "Empire",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24832
+  },
+  {
+    "title": "Hell's Pavement",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24833
+  },
+  {
+    "title": "Ring Around the Sun",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24834
+  },
+  {
+    "title": "Time and Again",
+    "author": "Simak, Clifford D.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24835
+  },
+  {
+    "title": "Worlds of the Imperium",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18182
+  },
+  {
+    "title": "A Trace of Memory",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18239
+  },
+  {
+    "title": "The Other Side of Time",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18341
+  },
+  {
+    "title": "The Time Bender",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19430
+  },
+  {
+    "title": "Assignment in Nowhere",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19932
+  },
+  {
+    "title": "A Plague of Demons",
+    "author": "Laumer, Keith",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20496
+  },
+  {
+    "title": "The House from Nowhere",
+    "author": "Gann, Elbie",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24874
+  },
+  {
+    "title": "Lighter Than You Think",
+    "author": "Bond, Nelson S.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24891
+  },
+  {
+    "title": "The Ultimate Salient",
+    "author": "Bond, Nelson S.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24893
+  },
+  {
+    "title": "Unborn Tomorrow",
+    "author": "Franke, Herbert W.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25211
+  },
+  {
+    "title": "Black Amazon of Mars",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25244
+  },
+  {
+    "title": "The Jewel of Bas",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25245
+  },
+  {
+    "title": "The Sword of Rhiannon",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25247
+  },
+  {
+    "title": "The Starmen",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25248
+  },
+  {
+    "title": "The Big Jump",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25249
+  },
+  {
+    "title": "The Halfling and Other Stories",
+    "author": "Brackett, Leigh",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25250
+  },
+  {
+    "title": "The Carnivore",
+    "author": "Phillips, G. A.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25345
+  },
+  {
+    "title": "The Man the Martians Made",
+    "author": "Long, Frank Belknap",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25348
+  },
+  {
+    "title": "The Brain-Stealers of Mars",
+    "author": "Long, Frank Belknap",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25349
+  },
+  {
+    "title": "A Difficult Border",
+    "author": "Anvil, Christopher",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25458
+  },
+  {
+    "title": "The Trouble with Telstar",
+    "author": "Anvil, Christopher",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25526
+  },
+  {
+    "title": "The Golden Judge",
+    "author": "Gordon, Nathaniel",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25547
+  },
+  {
+    "title": "Revolt on the Painted Planet",
+    "author": "Gordon, Charles",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25548
+  },
+  {
+    "title": "And All the Stars a Stage",
+    "author": "Blish, James",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25550
+  },
+  {
+    "title": "The Judas Bug",
+    "author": "Blish, James",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25551
+  },
+  {
+    "title": "The Hour of the Horde",
+    "author": "Gordon, Ursus V.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25553
+  },
+  {
+    "title": "The Plague",
+    "author": "Keller, Teddy",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25777
+  },
+  {
+    "title": "The Thing in the Attick",
+    "author": "Blish, James",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25779
+  },
+  {
+    "title": "One Against the Moon",
+    "author": "Wollheim, Donald A.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25983
+  },
+  {
+    "title": "The Secret of the Ninth Planet",
+    "author": "Wollheim, Donald A.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 25984
+  },
+  {
+    "title": "The Ambassador",
+    "author": "Merwin, Sam, Jr.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26038
+  },
+  {
+    "title": "The Final Figure",
+    "author": "Merwin, Sam, Jr.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26040
+  },
+  {
+    "title": "Judas Ram",
+    "author": "Merwin, Sam, Jr.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26041
+  },
+  {
+    "title": "It's a Small Solar System",
+    "author": "Howard, Allan",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26162
+  },
+  {
+    "title": "Lancelot Biggs: Spaceman",
+    "author": "Bond, Nelson S.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 26233
+  },
+  {
+    "title": "Colonial Survey",
+    "author": "Leinster, Murray",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28629
+  },
+  {
+    "title": "The Last Enemy",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 18331
+  },
+  {
+    "title": "A Slave is a Slave",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19747
+  },
+  {
+    "title": "Ministry of Disturbance",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19999
+  },
+  {
+    "title": "Time Crime",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20120
+  },
+  {
+    "title": "Temple Trouble",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20121
+  },
+  {
+    "title": "The Mercenaries",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20727
+  },
+  {
+    "title": "The Return",
+    "author": "Piper, H. Beam",
+    "genre": "Science Fiction",
+    "gutenberg_id": 24220
+  },
+  {
+    "title": "Police Your Planet",
+    "author": "del Rey, Lester",
+    "genre": "Science Fiction",
+    "gutenberg_id": 19049
+  },
+  {
+    "title": "The Sky Is Falling",
+    "author": "del Rey, Lester",
+    "genre": "Science Fiction",
+    "gutenberg_id": 20459
+  },
+  {
+    "title": "Badge of Infamy",
+    "author": "del Rey, Lester",
+    "genre": "Science Fiction",
+    "gutenberg_id": 21857
+  },
+  {
+    "title": "The Unwilling Professor",
+    "author": "Neville, Kris",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28688
+  },
+  {
+    "title": "General Max Shorter",
+    "author": "Neville, Kris",
+    "genre": "Science Fiction",
+    "gutenberg_id": 30349
+  },
+  {
+    "title": "The First",
+    "author": "Neville, Kris",
+    "genre": "Science Fiction",
+    "gutenberg_id": 30364
+  },
+  {
+    "title": "Hunt the Hunter",
+    "author": "Neville, Kris",
+    "genre": "Science Fiction",
+    "gutenberg_id": 30384
+  },
+  {
+    "title": "The Embassy",
+    "author": "Schachner, Nat",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28723
+  },
+  {
+    "title": "Past, Present, and Future",
+    "author": "Schachner, Nat",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28724
+  },
+  {
+    "title": "The Memory of the Atoms",
+    "author": "Starzl, R. F. (Roman Frederick)",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28775
+  },
+  {
+    "title": "Master of the Moondog",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28882
+  },
+  {
+    "title": "The Planet of Doubt",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28883
+  },
+  {
+    "title": "The Adaptive Ultimate",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28884
+  },
+  {
+    "title": "The Point of View",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28885
+  },
+  {
+    "title": "Smothered Seas",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28886
+  },
+  {
+    "title": "The Worlds of If",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28887
+  },
+  {
+    "title": "Ideal",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28888
+  },
+  {
+    "title": "Redemption Cairn",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28889
+  },
+  {
+    "title": "Valley of Dreams",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28890
+  },
+  {
+    "title": "The Mad Moon",
+    "author": "Weinbaum, Stanley G.",
+    "genre": "Science Fiction",
+    "gutenberg_id": 28891
+  }
+]
