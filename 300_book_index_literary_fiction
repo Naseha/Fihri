@@ -1,0 +1,1172 @@
+[
+  {
+    "title": "Ulysses",
+    "author": "Joyce, James",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 4300
+  },
+  {
+    "title": "Dubliners",
+    "author": "Joyce, James",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2814
+  },
+  {
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "Joyce, James",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 4217
+  },
+  {
+    "title": "Swann's Way",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 7178
+  },
+  {
+    "title": "Within a Budding Grove",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 7179
+  },
+  {
+    "title": "The Guermantes Way",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 6543
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Kafka, Franz",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5200
+  },
+  {
+    "title": "The Trial",
+    "author": "Kafka, Franz",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 7849
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Woolf, Virginia",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 3792
+  },
+  {
+    "title": "Mrs Dalloway",
+    "author": "Woolf, Virginia",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1433
+  },
+  {
+    "title": "The Waves",
+    "author": "Woolf, Virginia",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1434
+  },
+  {
+    "title": "Jacob's Room",
+    "author": "Woolf, Virginia",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5831
+  },
+  {
+    "title": "Night and Day",
+    "author": "Woolf, Virginia",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1056
+  },
+  {
+    "title": "The Voyage Out",
+    "author": "Woolf, Virginia",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1435
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "Faulkner, William",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5100
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "Faulkner, William",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5101
+  },
+  {
+    "title": "Light in August",
+    "author": "Faulkner, William",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5102
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "author": "Faulkner, William",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5103
+  },
+  {
+    "title": "This Side of Paradise",
+    "author": "Fitzgerald, F. Scott (Francis Scott)",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 805
+  },
+  {
+    "title": "The Beautiful and Damned",
+    "author": "Fitzgerald, F. Scott (Francis Scott)",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 204
+  },
+  {
+    "title": "Tender Is the Night",
+    "author": "Fitzgerald, F. Scott (Francis Scott)",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 219
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Hemingway, Ernest",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 67138
+  },
+  {
+    "title": "The Torrents of Spring",
+    "author": "Hemingway, Ernest",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 67139
+  },
+  {
+    "title": "The Magic Mountain",
+    "author": "Mann, Thomas",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 8942
+  },
+  {
+    "title": "Buddenbrooks",
+    "author": "Mann, Thomas",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 3110
+  },
+  {
+    "title": "Death in Venice",
+    "author": "Mann, Thomas",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 8943
+  },
+  {
+    "title": "Steppenwolf",
+    "author": "Hesse, Hermann",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1133
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hesse, Hermann",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2500
+  },
+  {
+    "title": "Demian",
+    "author": "Hesse, Hermann",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1132
+  },
+  {
+    "title": "The Stranger",
+    "author": "Camus, Albert",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 20800
+  },
+  {
+    "title": "The Plague",
+    "author": "Camus, Albert",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 20801
+  },
+  {
+    "title": "Nausea",
+    "author": "Sartre, Jean-Paul",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 20802
+  },
+  {
+    "title": "Notes from Underground",
+    "author": "Dostoyevsky, Fyodor",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 600
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Dostoyevsky, Fyodor",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 28054
+  },
+  {
+    "title": "The Idiot",
+    "author": "Dostoyevsky, Fyodor",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2638
+  },
+  {
+    "title": "Demons",
+    "author": "Dostoyevsky, Fyodor",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 8117
+  },
+  {
+    "title": "The Gambler",
+    "author": "Dostoyevsky, Fyodor",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2302
+  },
+  {
+    "title": "The Death of Ivan Ilych",
+    "author": "Tolstoy, Leo",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 243
+  },
+  {
+    "title": "The Kreutzer Sonata",
+    "author": "Tolstoy, Leo",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 689
+  },
+  {
+    "title": "Fathers and Sons",
+    "author": "Turgenev, Ivan",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2463
+  },
+  {
+    "title": "A Sportsman's Sketches",
+    "author": "Turgenev, Ivan",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2464
+  },
+  {
+    "title": "Dead Souls",
+    "author": "Gogol, Nikolai",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1278
+  },
+  {
+    "title": "The Overcoat",
+    "author": "Gogol, Nikolai",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1282
+  },
+  {
+    "title": "The Lady with the Dog and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1341
+  },
+  {
+    "title": "The Darling and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1340
+  },
+  {
+    "title": "The Grasshopper and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1339
+  },
+  {
+    "title": "The Wife, and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1338
+  },
+  {
+    "title": "The Witch, and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1337
+  },
+  {
+    "title": "The Cook's Wedding and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1336
+  },
+  {
+    "title": "The Schoolmistress and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1335
+  },
+  {
+    "title": "The Chorus Girl and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1334
+  },
+  {
+    "title": "The Bishop and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1333
+  },
+  {
+    "title": "The Bet, and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1332
+  },
+  {
+    "title": "The Party and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1331
+  },
+  {
+    "title": "The Horse-Stealers and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1330
+  },
+  {
+    "title": "The Duel and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1329
+  },
+  {
+    "title": "The Schoolmaster and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1328
+  },
+  {
+    "title": "The House with the Mezzanine and Other Stories",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1327
+  },
+  {
+    "title": "The Lady with the Dog",
+    "author": "Chekhov, Anton",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1341
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Flaubert, Gustave",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2413
+  },
+  {
+    "title": "Sentimental Education",
+    "author": "Flaubert, Gustave",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5675
+  },
+  {
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 798
+  },
+  {
+    "title": "The Charterhouse of Parma",
+    "author": "Stendhal",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1265
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 19942
+  },
+  {
+    "title": "Dangerous Liaisons",
+    "author": "Laclos, Choderlos de",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 48
+  },
+  {
+    "title": "Manon Lescaut",
+    "author": "Prévost, Abbé",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5792
+  },
+  {
+    "title": "The Sorrows of Young Werther",
+    "author": "Goethe, Johann Wolfgang von",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2527
+  },
+  {
+    "title": "Wilhelm Meister's Apprenticeship",
+    "author": "Goethe, Johann Wolfgang von",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 4352
+  },
+  {
+    "title": "Elective Affinities",
+    "author": "Goethe, Johann Wolfgang von",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 4353
+  },
+  {
+    "title": "The Satyricon",
+    "author": "Petronius Arbiter",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 5225
+  },
+  {
+    "title": "The Golden Asse",
+    "author": "Apuleius",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1666
+  },
+  {
+    "title": "Tristram Shandy",
+    "author": "Sterne, Laurence",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1079
+  },
+  {
+    "title": "A Sentimental Journey Through France and Italy",
+    "author": "Sterne, Laurence",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1404
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Cervantes Saavedra, Miguel de",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 996
+  },
+  {
+    "title": "The Decameron",
+    "author": "Boccaccio, Giovanni",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 23700
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Chaucer, Geoffrey",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2383
+  },
+  {
+    "title": "Gargantua and Pantagruel",
+    "author": "Rabelais, François",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1200
+  },
+  {
+    "title": "The Confidence-Man",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 218
+  },
+  {
+    "title": "Billy Budd, Sailor",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1237
+  },
+  {
+    "title": "Typee",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1900
+  },
+  {
+    "title": "Omoo",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1901
+  },
+  {
+    "title": "Mardi",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1902
+  },
+  {
+    "title": "Redburn",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1903
+  },
+  {
+    "title": "White-Jacket",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1904
+  },
+  {
+    "title": "Pierre; or, The Ambiguities",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 3497
+  },
+  {
+    "title": "Israel Potter",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1905
+  },
+  {
+    "title": "The Piazza Tales",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1906
+  },
+  {
+    "title": "The Confidence-Man",
+    "author": "Melville, Herman",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 218
+  },
+  {
+    "title": "Walden",
+    "author": "Thoreau, Henry David",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 205
+  },
+  {
+    "title": "The Blithedale Romance",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 846
+  },
+  {
+    "title": "The Marble Faun",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 847
+  },
+  {
+    "title": "Twice-Told Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 512
+  },
+  {
+    "title": "Mosses from an Old Manse",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 513
+  },
+  {
+    "title": "The Snow-Image, and Other Twice-Told Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 514
+  },
+  {
+    "title": "A Wonder-Book for Girls and Boys",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 321
+  },
+  {
+    "title": "Tanglewood Tales",
+    "author": "Hawthorne, Nathaniel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1678
+  },
+  {
+    "title": "Main Street",
+    "author": "Lewis, Sinclair",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1156
+  },
+  {
+    "title": "Babbitt",
+    "author": "Lewis, Sinclair",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1157
+  },
+  {
+    "title": "Arrowsmith",
+    "author": "Lewis, Sinclair",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1158
+  },
+  {
+    "title": "Elmer Gantry",
+    "author": "Lewis, Sinclair",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1159
+  },
+  {
+    "title": "Dodsworth",
+    "author": "Lewis, Sinclair",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1160
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "Steinbeck, John",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1161
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "Steinbeck, John",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 1162
+  },
+  {
+    "title": "The Age of Reason",
+    "author": "Sartre, Jean-Paul",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 20803
+  },
+  {
+    "title": "The Reprieve",
+    "author": "Sartre, Jean-Paul",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 20804
+  },
+  {
+    "title": "Iron in the Soul",
+    "author": "Sartre, Jean-Paul",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 20805
+  },
+  {
+    "title": "Swann's Way",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 7178
+  },
+  {
+    "title": "Within a Budding Grove",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 7179
+  },
+  {
+    "title": "The Guermantes Way",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 6543
+  },
+  {
+    "title": "Sodom and Gomorrah",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 6544
+  },
+  {
+    "title": "The Captive",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 6545
+  },
+  {
+    "title": "The Sweet Cheat Gone",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 6546
+  },
+  {
+    "title": "Time Regained",
+    "author": "Proust, Marcel",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 6547
+  },
+  {
+    "title": "The American",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2831
+  },
+  {
+    "title": "The Europeans",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2832
+  },
+  {
+    "title": "The Bostonians",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2834
+  },
+  {
+    "title": "The Princess Casamassima",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2835
+  },
+  {
+    "title": "The Tragic Muse",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2836
+  },
+  {
+    "title": "The Awkward Age",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2837
+  },
+  {
+    "title": "The Spoils of Poynton",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2838
+  },
+  {
+    "title": "What Maisie Knew",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2839
+  },
+  {
+    "title": "The Sacred Fount",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2840
+  },
+  {
+    "title": "The Ambassadors",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2841
+  },
+  {
+    "title": "The Golden Bowl",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 7368
+  },
+  {
+    "title": "The Wings of the Dove",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 30059
+  },
+  {
+    "title": "Roderick Hudson",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2830
+  },
+  {
+    "title": "The Outcry",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2842
+  },
+  {
+    "title": "The Ivory Tower",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2843
+  },
+  {
+    "title": "The Sense of the Past",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2844
+  },
+  {
+    "title": "A Passionate Pilgrim and Other Tales",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2845
+  },
+  {
+    "title": "The Real Thing and Other Tales",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2846
+  },
+  {
+    "title": "The Lesson of the Master",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2847
+  },
+  {
+    "title": "The Altar of the Dead",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2848
+  },
+  {
+    "title": "The Beast in the Jungle",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2849
+  },
+  {
+    "title": "The Jolly Corner",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2850
+  },
+  {
+    "title": "The Aspern Papers",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2851
+  },
+  {
+    "title": "The Spoils of Poynton",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2852
+  },
+  {
+    "title": "The American Scene",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2853
+  },
+  {
+    "title": "A Little Tour in France",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2854
+  },
+  {
+    "title": "English Hours",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2855
+  },
+  {
+    "title": "Italian Hours",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2856
+  },
+  {
+    "title": "Transatlantic Sketches",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2857
+  },
+  {
+    "title": "Portraits of Places",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2858
+  },
+  {
+    "title": "The Reverberator",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2859
+  },
+  {
+    "title": "The Tragic Muse",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2860
+  },
+  {
+    "title": "The Awkward Age",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2861
+  },
+  {
+    "title": "What Maisie Knew",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2862
+  },
+  {
+    "title": "The Sacred Fount",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2863
+  },
+  {
+    "title": "The Ambassadors",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2864
+  },
+  {
+    "title": "The Golden Bowl",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2865
+  },
+  {
+    "title": "The Wings of the Dove",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2866
+  },
+  {
+    "title": "Roderick Hudson",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2867
+  },
+  {
+    "title": "The Outcry",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2868
+  },
+  {
+    "title": "The Ivory Tower",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2869
+  },
+  {
+    "title": "The Sense of the Past",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2870
+  },
+  {
+    "title": "A Passionate Pilgrim and Other Tales",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2871
+  },
+  {
+    "title": "The Real Thing and Other Tales",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2872
+  },
+  {
+    "title": "The Lesson of the Master",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2873
+  },
+  {
+    "title": "The Altar of the Dead",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2874
+  },
+  {
+    "title": "The Beast in the Jungle",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2875
+  },
+  {
+    "title": "The Jolly Corner",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2876
+  },
+  {
+    "title": "The Aspern Papers",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2877
+  },
+  {
+    "title": "The Spoils of Poynton",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2878
+  },
+  {
+    "title": "The American Scene",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2879
+  },
+  {
+    "title": "A Little Tour in France",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2880
+  },
+  {
+    "title": "English Hours",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2881
+  },
+  {
+    "title": "Italian Hours",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2882
+  },
+  {
+    "title": "Transatlantic Sketches",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2883
+  },
+  {
+    "title": "Portraits of Places",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2884
+  },
+  {
+    "title": "The Reverberator",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2885
+  },
+  {
+    "title": "The Tragic Muse",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2886
+  },
+  {
+    "title": "The Awkward Age",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2887
+  },
+  {
+    "title": "What Maisie Knew",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2888
+  },
+  {
+    "title": "The Sacred Fount",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2889
+  },
+  {
+    "title": "The Ambassadors",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2890
+  },
+  {
+    "title": "The Golden Bowl",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2891
+  },
+  {
+    "title": "The Wings of the Dove",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2892
+  },
+  {
+    "title": "Roderick Hudson",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2893
+  },
+  {
+    "title": "The Outcry",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2894
+  },
+  {
+    "title": "The Ivory Tower",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2895
+  },
+  {
+    "title": "The Sense of the Past",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2896
+  },
+  {
+    "title": "A Passionate Pilgrim and Other Tales",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2897
+  },
+  {
+    "title": "The Real Thing and Other Tales",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2898
+  },
+  {
+    "title": "The Lesson of the Master",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2899
+  },
+  {
+    "title": "The Altar of the Dead",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2900
+  },
+  {
+    "title": "The Beast in the Jungle",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2901
+  },
+  {
+    "title": "The Jolly Corner",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2902
+  },
+  {
+    "title": "The Aspern Papers",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2903
+  },
+  {
+    "title": "The Spoils of Poynton",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2904
+  },
+  {
+    "title": "The American Scene",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2905
+  },
+  {
+    "title": "A Little Tour in France",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2906
+  },
+  {
+    "title": "English Hours",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2907
+  },
+  {
+    "title": "Italian Hours",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2908
+  },
+  {
+    "title": "Transatlantic Sketches",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2909
+  },
+  {
+    "title": "Portraits of Places",
+    "author": "James, Henry",
+    "genre": "Literary Fiction",
+    "gutenberg_id": 2910
+  }
+]
