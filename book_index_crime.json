@@ -372,1389 +372,1161 @@
     "gutenberg_id": 20184
   },
   {
-  "title": "The Mystery of Edwin Drood",
-  "author": "Dickens, Charles",
-  "genre": "Crime",
-  "gutenberg_id": 564
-},
-{
-  "title": "Lady Audley's Secret",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 8994
-},
-{
-  "title": "The Moonstone",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 155
-},
-{
-  "title": "The Haunted Hotel: A Mystery of Modern Venice",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1621
-},
-{
-  "title": "The Law and the Lady",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1622
-},
-{
-  "title": "Armadale",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1623
-},
-{
-  "title": "No Name",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1624
-},
-{
-  "title": "The Dead Secret",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1625
-},
-{
-  "title": "The Black Robe",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1626
-},
-{
-  "title": "Blind Love",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1627
-},
-{
-  "title": "The Guilty River",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1628
-},
-{
-  "title": "I Say No",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1629
-},
-{
-  "title": "The Evil Genius",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1630
-},
-{
-  "title": "My Lady's Money",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1631
-},
-{
-  "title": "The Legacy of Cain",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1632
-},
-{
-  "title": "Jezebel's Daughter",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1633
-},
-{
-  "title": "Heart and Science",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1634
-},
-{
-  "title": "The Fallen Leaves",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1635
-},
-{
-  "title": "The New Magdalen",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1636
-},
-{
-  "title": "Man and Wife",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1637
-},
-{
-  "title": "Basil",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1638
-},
-{
-  "title": "Hide and Seek",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1639
-},
-{
-  "title": "Antonina; Or, The Fall of Rome",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1640
-},
-{
-  "title": "After Dark",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1641
-},
-{
-  "title": "The Two Destinies",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1642
-},
-{
-  "title": "The Frozen Deep",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1643
-},
-{
-  "title": "A Rogue's Life",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1644
-},
-{
-  "title": "The Queen of Hearts",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1645
-},
-{
-  "title": "Miss or Mrs?",
-  "author": "Collins, Wilkie",
-  "genre": "Crime",
-  "gutenberg_id": 1646
-},
-{
-  "title": "The Haunted House",
-  "author": "Dickens, Charles",
-  "genre": "Crime",
-  "gutenberg_id": 1416
-},
-{
-  "title": "The Mystery of the Yellow Room",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1738
-},
-{
-  "title": "The Secret of the Night",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1740
-},
-{
-  "title": "The Phantom of the Opera",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 175
-},
-{
-  "title": "The Mystery of the Boule Cabinet",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1741
-},
-{
-  "title": "The Man with the Black Feather",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1742
-},
-{
-  "title": "The Double Four",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1743
-},
-{
-  "title": "The Avenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1744
-},
-{
-  "title": "The Great Impersonation",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1745
-},
-{
-  "title": "The Yellow House",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1746
-},
-{
-  "title": "The Postmaster's Daughter",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1747
-},
-{
-  "title": "The Evil Shepherd",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1748
-},
-{
-  "title": "The Double Traitor",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1749
-},
-{
-  "title": "The Vanished Messenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1750
-},
-{
-  "title": "The Mischief Maker",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1751
-},
-{
-  "title": "The Great Secret",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1752
-},
-{
-  "title": "The Tempting of Tavernake",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1753
-},
-{
-  "title": "The Yellow Clown",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1754
-},
-{
-  "title": "The Betrayal",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1755
-},
-{
-  "title": "The Great Awakening",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1756
-},
-{
-  "title": "The Spy Paramount",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1757
-},
-{
-  "title": "The Lion and the Lamb",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1758
-},
-{
-  "title": "The Treasure House of Martin Hews",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1759
-},
-{
-  "title": "The Illustrious Prince",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1760
-},
-{
-  "title": "The Lighted Way",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1761
-},
-{
-  "title": "The Kingdom of the Blind",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1762
-},
-{
-  "title": "The Malefactor",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1763
-},
-{
-  "title": "The Double Life of Mr. Alfred Burton",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1764
-},
-{
-  "title": "The Avenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1765
-},
-{
-  "title": "The Great Impersonation",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1766
-},
-{
-  "title": "The Box with Broken Seals",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1767
-},
-{
-  "title": "The Devil's Paw",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1768
-},
-{
-  "title": "The Zeppelin's Passenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1769
-},
-{
-  "title": "The Profiteers",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1770
-},
-{
-  "title": "The Pawns Count",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1771
-},
-{
-  "title": "The Mischief Maker",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1772
-},
-{
-  "title": "The Great Secret",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1773
-},
-{
-  "title": "The Evil Shepherd",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1774
-},
-{
-  "title": "The Double Traitor",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1775
-},
-{
-  "title": "The Vanished Messenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1776
-},
-{
-  "title": "The Tempting of Tavernake",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1777
-},
-{
-  "title": "The Betrayal",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1778
-},
-{
-  "title": "The Spy Paramount",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1779
-},
-{
-  "title": "The Lion and the Lamb",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1780
-},
-{
-  "title": "The Treasure House of Martin Hews",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1781
-},
-{
-  "title": "The Yellow House",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1782
-},
-{
-  "title": "The Postmaster's Daughter",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1783
-},
-{
-  "title": "The Double Four",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1784
-},
-{
-  "title": "The Mystery of the Boule Cabinet",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1785
-},
-{
-  "title": "The Man with the Black Feather",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1786
-},
-{
-  "title": "The Secret of the Night",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1787
-},
-{
-  "title": "The Mystery of the Yellow Room",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1788
-},
-{
-  "title": "The Phantom of the Opera",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1789
-},
-{
-  "title": "The Man Who Was Thursday",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1790
-},
-{
-  "title": "The Club of Queer Trades",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1791
-},
-{
-  "title": "The Innocence of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1792
-},
-{
-  "title": "The Wisdom of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1793
-},
-{
-  "title": "The Incredulity of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1794
-},
-{
-  "title": "The Secret of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1795
-},
-{
-  "title": "The Scandal of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1796
-},
-{
-  "title": "The Man Who Knew Too Much",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1797
-},
-{
-  "title": "The Paradoxes of Mr. Pond",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1798
-},
-{
-  "title": "The Trees of Pride",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1799
-},
-{
-  "title": "The Trees of Pride",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1799
-},
-{
-  "title": "The Flying Inn",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1800
-},
-{
-  "title": "The Ballad of the White Horse",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1801
-},
-{
-  "title": "The Napoleon of Notting Hill",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1802
-},
-{
-  "title": "Magic",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1803
-},
-{
-  "title": "The Victorian Age in Literature",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1804
-},
-{
-  "title": "A Short History of England",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1805
-},
-{
-  "title": "The Crimes of England",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1806
-},
-{
-  "title": "The New Jerusalem",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1807
-},
-{
-  "title": "What I Saw in America",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1808
-},
-{
-  "title": "Heretics",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1809
-},
-{
-  "title": "Orthodoxy",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1810
-},
-{
-  "title": "The Everlasting Man",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1811
-},
-{
-  "title": "What's Wrong with the World",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1812
-},
-{
-  "title": "Eugenics and Other Evils",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1813
-},
-{
-  "title": "All Things Considered",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1814
-},
-{
-  "title": "Tremendous Trifles",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1815
-},
-{
-  "title": "Alarms and Discursions",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1816
-},
-{
-  "title": "A Miscellany of Men",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1817
-},
-{
-  "title": "The Uses of Diversity",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1818
-},
-{
-  "title": "Fancies Versus Fads",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1819
-},
-{
-  "title": "The Defendant",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1820
-},
-{
-  "title": "A Chesterton Calendar",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1821
-},
-{
-  "title": "Charles Dickens",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1822
-},
-{
-  "title": "Appreciations and Criticisms of the Works of Charles Dickens",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1823
-},
-{
-  "title": "George Bernard Shaw",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1824
-},
-{
-  "title": "Robert Browning",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1825
-},
-{
-  "title": "The Appetite of Tyranny",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1826
-},
-{
-  "title": "Utopia of Usurers",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1827
-},
-{
-  "title": "Wine, Water, and Song",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1828
-},
-{
-  "title": "The Wild Knight and Other Poems",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1829
-},
-{
-  "title": "Poems",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1830
-},
-{
-  "title": "Greybeards at Play",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1831
-},
-{
-  "title": "G. F. Watts",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1832
-},
-{
-  "title": "Thomas Carlyle",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1833
-},
-{
-  "title": "Lord Kitchener",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1834
-},
-{
-  "title": "The Barbarism of Berlin",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1835
-},
-{
-  "title": "Culture and the Coming Peril",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1836
-},
-{
-  "title": "The Superstition of Divorce",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1837
-},
-{
-  "title": "Irish Impressions",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1838
-},
-{
-  "title": "The End of the Armistice",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1839
-},
-{
-  "title": "The Ball and the Cross",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1840
-},
-{
-  "title": "Manalive",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1841
-},
-{
-  "title": "The Return of Don Quixote",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1842
-},
-{
-  "title": "The Man Who Was Thursday: A Nightmare",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1843
-},
-{
-  "title": "The Crimes of England",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1844
-},
-{
-  "title": "The Wisdom of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1845
-},
-{
-  "title": "The Incredulity of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1846
-},
-{
-  "title": "The Secret of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1847
-},
-{
-  "title": "The Scandal of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1848
-},
-{
-  "title": "The Innocence of Father Brown",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1849
-},
-{
-  "title": "The Man Who Knew Too Much",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1850
-},
-{
-  "title": "The Paradoxes of Mr. Pond",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1851
-},
-{
-  "title": "The Club of Queer Trades",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1852
-},
-{
-  "title": "The Man Who Was Thursday",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1853
-},
-{
-  "title": "The Trees of Pride",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1854
-},
-{
-  "title": "The Flying Inn",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1855
-},
-{
-  "title": "The Ballad of the White Horse",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1856
-},
-{
-  "title": "The Napoleon of Notting Hill",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1857
-},
-{
-  "title": "Magic",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1858
-},
-{
-  "title": "The Victorian Age in Literature",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1859
-},
-{
-  "title": "A Short History of England",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1860
-},
-{
-  "title": "The Crimes of England",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1861
-},
-{
-  "title": "The New Jerusalem",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1862
-},
-{
-  "title": "What I Saw in America",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1863
-},
-{
-  "title": "Heretics",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1864
-},
-{
-  "title": "Orthodoxy",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1865
-},
-{
-  "title": "The Everlasting Man",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1866
-},
-{
-  "title": "What's Wrong with the World",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1867
-},
-{
-  "title": "Eugenics and Other Evils",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1868
-},
-{
-  "title": "All Things Considered",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1869
-},
-{
-  "title": "Tremendous Trifles",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1870
-},
-{
-  "title": "Alarms and Discursions",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1871
-},
-{
-  "title": "A Miscellany of Men",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1872
-},
-{
-  "title": "The Uses of Diversity",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1873
-},
-{
-  "title": "Fancies Versus Fads",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1874
-},
-{
-  "title": "The Defendant",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1875
-},
-{
-  "title": "A Chesterton Calendar",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1876
-},
-{
-  "title": "Charles Dickens",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1877
-},
-{
-  "title": "Appreciations and Criticisms of the Works of Charles Dickens",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1878
-},
-{
-  "title": "George Bernard Shaw",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1879
-},
-{
-  "title": "Robert Browning",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1880
-},
-{
-  "title": "The Appetite of Tyranny",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1881
-},
-{
-  "title": "Utopia of Usurers",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1882
-},
-{
-  "title": "Wine, Water, and Song",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1883
-},
-{
-  "title": "The Wild Knight and Other Poems",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1884
-},
-{
-  "title": "Poems",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1885
-},
-{
-  "title": "Greybeards at Play",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1886
-},
-{
-  "title": "G. F. Watts",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1887
-},
-{
-  "title": "Thomas Carlyle",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1888
-},
-{
-  "title": "Lord Kitchener",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1889
-},
-{
-  "title": "The Barbarism of Berlin",
-  "author": "Chesterton, G. K.",
-  "genre": "Crime",
-  "gutenberg_id": 1890
-},
-{
-  "title": "The Mystery of the Four Fingers",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1891
-},
-{
-  "title": "The Yellow House",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1892
-},
-{
-  "title": "The Postmaster's Daughter",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1893
-},
-{
-  "title": "The Double Four",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1894
-},
-{
-  "title": "The Avenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1895
-},
-{
-  "title": "The Great Impersonation",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1896
-},
-{
-  "title": "The Box with Broken Seals",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1897
-},
-{
-  "title": "The Devil's Paw",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1898
-},
-{
-  "title": "The Zeppelin's Passenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1899
-},
-{
-  "title": "The Profiteers",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1900
-},
-{
-  "title": "The Pawns Count",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1901
-},
-{
-  "title": "The Mischief Maker",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1902
-},
-{
-  "title": "The Great Secret",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1903
-},
-{
-  "title": "The Evil Shepherd",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1904
-},
-{
-  "title": "The Double Traitor",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1905
-},
-{
-  "title": "The Vanished Messenger",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1906
-},
-{
-  "title": "The Tempting of Tavernake",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1907
-},
-{
-  "title": "The Betrayal",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1908
-},
-{
-  "title": "The Spy Paramount",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1909
-},
-{
-  "title": "The Lion and the Lamb",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1910
-},
-{
-  "title": "The Treasure House of Martin Hews",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1911
-},
-{
-  "title": "The Illustrious Prince",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1912
-},
-{
-  "title": "The Lighted Way",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1913
-},
-{
-  "title": "The Kingdom of the Blind",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1914
-},
-{
-  "title": "The Malefactor",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1915
-},
-{
-  "title": "The Double Life of Mr. Alfred Burton",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1916
-},
-{
-  "title": "The Yellow Clown",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1917
-},
-{
-  "title": "The Great Awakening",
-  "author": "Oppenheim, E. Phillips",
-  "genre": "Crime",
-  "gutenberg_id": 1918
-},
-{
-  "title": "The Mystery of the Boule Cabinet",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1919
-},
-{
-  "title": "The Man with the Black Feather",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1920
-},
-{
-  "title": "The Secret of the Night",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1921
-},
-{
-  "title": "The Mystery of the Yellow Room",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1922
-},
-{
-  "title": "The Phantom of the Opera",
-  "author": "Leroux, Gaston",
-  "genre": "Crime",
-  "gutenberg_id": 1923
-},
-{
-  "title": "Lady Audley's Secret",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1924
-},
-{
-  "title": "The Trail of the Serpent",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1925
-},
-{
-  "title": "Aurora Floyd",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1926
-},
-{
-  "title": "John Marchmont's Legacy",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1927
-},
-{
-  "title": "Birds of Prey",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1928
-},
-{
-  "title": "Charlotte's Inheritance",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1929
-},
-{
-  "title": "Run to Earth",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1930
-},
-{
-  "title": "The Cloven Foot",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1931
-},
-{
-  "title": "The Lovels of Arden",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1932
-},
-{
-  "title": "Vixen",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1933
-},
-{
-  "title": "Mount Royal",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1934
-},
-{
-  "title": "The Golden Calf",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1935
-},
-{
-  "title": "The Infidel",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1936
-},
-{
-  "title": "Mohawks",
-  "author": "Braddon, Mary Elizabeth",
-  "genre": "Crime",
-  "gutenberg_id": 1937
-}
+    "title": "The Big Sleep",
+    "author": "Chandler, Raymond",
+    "genre": "Crime",
+    "gutenberg_id": 2801
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Hammett, Dashiell",
+    "genre": "Crime",
+    "gutenberg_id": 2702
+  },
+  {
+    "title": "Red Harvest",
+    "author": "Hammett, Dashiell",
+    "genre": "Crime",
+    "gutenberg_id": 2705
+  },
+  {
+    "title": "The Glass Key",
+    "author": "Hammett, Dashiell",
+    "genre": "Crime",
+    "gutenberg_id": 2703
+  },
+  {
+    "title": "The Dain Curse",
+    "author": "Hammett, Dashiell",
+    "genre": "Crime",
+    "gutenberg_id": 2701
+  },
+  {
+    "title": "The Thin Man",
+    "author": "Hammett, Dashiell",
+    "genre": "Crime",
+    "gutenberg_id": 2704
+  },
+  {
+    "title": "Farewell, My Lovely",
+    "author": "Chandler, Raymond",
+    "genre": "Crime",
+    "gutenberg_id": 2802
+  },
+  {
+    "title": "The High Window",
+    "author": "Chandler, Raymond",
+    "genre": "Crime",
+    "gutenberg_id": 2803
+  },
+  {
+    "title": "The Lady in the Lake",
+    "author": "Chandler, Raymond",
+    "genre": "Crime",
+    "gutenberg_id": 2804
+  },
+  {
+    "title": "The Little Sister",
+    "author": "Chandler, Raymond",
+    "genre": "Crime",
+    "gutenberg_id": 2805
+  },
+  {
+    "title": "The Postman Always Rings Twice",
+    "author": "Cain, James M.",
+    "genre": "Crime",
+    "gutenberg_id": 2901
+  },
+  {
+    "title": "Double Indemnity",
+    "author": "Cain, James M.",
+    "genre": "Crime",
+    "gutenberg_id": 2902
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Conrad, Joseph",
+    "genre": "Crime",
+    "gutenberg_id": 974
+  },
+  {
+    "title": "Raffles: The Amateur Cracksman",
+    "author": "Hornung, E. W.",
+    "genre": "Crime",
+    "gutenberg_id": 979
+  },
+  {
+    "title": "The Black Mask",
+    "author": "Hornung, E. W.",
+    "genre": "Crime",
+    "gutenberg_id": 980
+  },
+  {
+    "title": "A Thief in the Night",
+    "author": "Hornung, E. W.",
+    "genre": "Crime",
+    "gutenberg_id": 981
+  },
+  {
+    "title": "Mr. Justice Raffles",
+    "author": "Hornung, E. W.",
+    "genre": "Crime",
+    "gutenberg_id": 982
+  },
+  {
+    "title": "The Crime Doctor",
+    "author": "Hornung, E. W.",
+    "genre": "Crime",
+    "gutenberg_id": 983
+  },
+  {
+    "title": "The Angel of Terror",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2054
+  },
+  {
+    "title": "The Clue of the Twisted Candle",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2053
+  },
+  {
+    "title": "The Daffodil Mystery",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2052
+  },
+  {
+    "title": "The Four Just Men",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2051
+  },
+  {
+    "title": "The Green Rust",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2057
+  },
+  {
+    "title": "The Man Who Knew",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2055
+  },
+  {
+    "title": "The Secret House",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2056
+  },
+  {
+    "title": "The Nine Bears",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2059
+  },
+  {
+    "title": "The Mind of Mr. J. G. Reeder",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2060
+  },
+  {
+    "title": "The Man Who Bought London",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2061
+  },
+  {
+    "title": "The Just Men of Cordova",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2062
+  },
+  {
+    "title": "The Law of the Four Just Men",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2063
+  },
+  {
+    "title": "The Clue of the New Pin",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2064
+  },
+  {
+    "title": "The Valley of Ghosts",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2065
+  },
+  {
+    "title": "The Strange Countess",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2066
+  },
+  {
+    "title": "The Door with Seven Locks",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2068
+  },
+  {
+    "title": "The Ringer",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2069
+  },
+  {
+    "title": "The Terrible People",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2070
+  },
+  {
+    "title": "The Avenger",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2071
+  },
+  {
+    "title": "The Squeaker",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2072
+  },
+  {
+    "title": "The Crimson Circle",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2073
+  },
+  {
+    "title": "The Gaunt Stranger",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2074
+  },
+  {
+    "title": "The Day of Uniting",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2075
+  },
+  {
+    "title": "The Fellowship of the Frog",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2076
+  },
+  {
+    "title": "The Dark Eyes of London",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2077
+  },
+  {
+    "title": "The Sinister Man",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2078
+  },
+  {
+    "title": "The Black Abbot",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2079
+  },
+  {
+    "title": "The Forger",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2080
+  },
+  {
+    "title": "The Traitor's Gate",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2081
+  },
+  {
+    "title": "The Lone House Mystery",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2082
+  },
+  {
+    "title": "The Man from Morocco",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2083
+  },
+  {
+    "title": "The Orator",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2084
+  },
+  {
+    "title": "The India-Rubber Men",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2085
+  },
+  {
+    "title": "The Flying Squad",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2086
+  },
+  {
+    "title": "The Twister",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2087
+  },
+  {
+    "title": "The Gunner",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2088
+  },
+  {
+    "title": "The Terror",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2089
+  },
+  {
+    "title": "The Square Emerald",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2090
+  },
+  {
+    "title": "The Northern Light",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2091
+  },
+  {
+    "title": "The Golden Hades",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2092
+  },
+  {
+    "title": "The Coat of Arms",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2093
+  },
+  {
+    "title": "On the Spot",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2094
+  },
+  {
+    "title": "When the Gangs Came to London",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2095
+  },
+  {
+    "title": "The Mouthpiece",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2096
+  },
+  {
+    "title": "Smoky Cell",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2097
+  },
+  {
+    "title": "The Calendar",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2098
+  },
+  {
+    "title": "The Green Archer",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2099
+  },
+  {
+    "title": "The Clue of the Silver Key",
+    "author": "Wallace, Edgar",
+    "genre": "Crime",
+    "gutenberg_id": 2100
+  },
+  {
+    "title": "Bulldog Drummond",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3101
+  },
+  {
+    "title": "The Black Gang",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3102
+  },
+  {
+    "title": "The Third Round",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3103
+  },
+  {
+    "title": "The Final Count",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3104
+  },
+  {
+    "title": "The Female of the Species",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3105
+  },
+  {
+    "title": "Temple Tower",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3106
+  },
+  {
+    "title": "The Return of Bulldog Drummond",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3107
+  },
+  {
+    "title": "Knock-Out",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3108
+  },
+  {
+    "title": "Bulldog Drummond at Bay",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3109
+  },
+  {
+    "title": "Challenge",
+    "author": "Sapper",
+    "genre": "Crime",
+    "gutenberg_id": 3110
+  },
+  {
+    "title": "Arsène Lupin, Gentleman-Burglar",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6133
+  },
+  {
+    "title": "Arsène Lupin versus Herlock Sholmes",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6134
+  },
+  {
+    "title": "The Hollow Needle",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6135
+  },
+  {
+    "title": "813",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6136
+  },
+  {
+    "title": "The Crystal Stopper",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6137
+  },
+  {
+    "title": "The Confessions of Arsène Lupin",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6138
+  },
+  {
+    "title": "The Teeth of the Tiger",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6139
+  },
+  {
+    "title": "The Woman of Mystery",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6140
+  },
+  {
+    "title": "The Golden Triangle",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6141
+  },
+  {
+    "title": "The Secret of Sarek",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6142
+  },
+  {
+    "title": "The Eight Strokes of the Clock",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6143
+  },
+  {
+    "title": "The Countess of Cagliostro",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6144
+  },
+  {
+    "title": "The Melamare Mystery",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6145
+  },
+  {
+    "title": "The Return of Arsène Lupin",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6146
+  },
+  {
+    "title": "The Secret Tomb",
+    "author": "Leblanc, Maurice",
+    "genre": "Crime",
+    "gutenberg_id": 6147
+  },
+  {
+    "title": "Fantômas",
+    "author": "Allain, Marcel and Souvestre, Pierre",
+    "genre": "Crime",
+    "gutenberg_id": 6150
+  },
+  {
+    "title": "The Exploits of Juve",
+    "author": "Allain, Marcel and Souvestre, Pierre",
+    "genre": "Crime",
+    "gutenberg_id": 6151
+  },
+  {
+    "title": "Messengers of Evil",
+    "author": "Allain, Marcel and Souvestre, Pierre",
+    "genre": "Crime",
+    "gutenberg_id": 6152
+  },
+  {
+    "title": "A Royal Prisoner",
+    "author": "Allain, Marcel and Souvestre, Pierre",
+    "genre": "Crime",
+    "gutenberg_id": 6153
+  },
+  {
+    "title": "A Nest of Spies",
+    "author": "Allain, Marcel and Souvestre, Pierre",
+    "genre": "Crime",
+    "gutenberg_id": 6154
+  },
+  {
+    "title": "The Geste of Duke Jocelyn",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6155
+  },
+  {
+    "title": "The Broad Highway",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 14389
+  },
+  {
+    "title": "The Money Moon",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6156
+  },
+  {
+    "title": "The Amateur Gentleman",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6157
+  },
+  {
+    "title": "The Honourable Mr. Tawnish",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6158
+  },
+  {
+    "title": "Beltane the Smith",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6159
+  },
+  {
+    "title": "The Definite Object",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6160
+  },
+  {
+    "title": "Our Admirable Betty",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6161
+  },
+  {
+    "title": "Black Bartlemy's Treasure",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6162
+  },
+  {
+    "title": "Martin Conisby's Vengeance",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6163
+  },
+  {
+    "title": "Peregrine's Progress",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6164
+  },
+  {
+    "title": "The Loring Mystery",
+    "author": "Farnol, Jeffery",
+    "genre": "Crime",
+    "gutenberg_id": 6165
+  },
+  {
+    "title": "The Quest of the Sacred Slipper",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6166
+  },
+  {
+    "title": "The Green Eyes of Bâst",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6167
+  },
+  {
+    "title": "The Golden Scorpion",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6168
+  },
+  {
+    "title": "Dope",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6169
+  },
+  {
+    "title": "The Yellow Claw",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6170
+  },
+  {
+    "title": "The Devil Doctor",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6171
+  },
+  {
+    "title": "The Si-Fan Mysteries",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6172
+  },
+  {
+    "title": "The Hand of Fu-Manchu",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6173
+  },
+  {
+    "title": "The Return of Dr. Fu-Manchu",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6174
+  },
+  {
+    "title": "The Insidious Dr. Fu-Manchu",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6175
+  },
+  {
+    "title": "Bat Wing",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6176
+  },
+  {
+    "title": "Fire-Tongue",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6177
+  },
+  {
+    "title": "The Sins of Séverac Bablon",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6178
+  },
+  {
+    "title": "Tales of Chinatown",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6179
+  },
+  {
+    "title": "The Exploits of Captain O'Hagan",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6180
+  },
+  {
+    "title": "The Quest of the Sacred Slipper",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6181
+  },
+  {
+    "title": "The Orchard of Tears",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6182
+  },
+  {
+    "title": "Brood of the Witch-Queen",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6183
+  },
+  {
+    "title": "The Dream-Detective",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6184
+  },
+  {
+    "title": "The Gray Face",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6185
+  },
+  {
+    "title": "The Day the World Ended",
+    "author": "Rohmer, Sax",
+    "genre": "Crime",
+    "gutenberg_id": 6186
+  },
+  {
+    "title": "The Trail of the White Wolf",
+    "author": "Brand, Max",
+    "genre": "Crime",
+    "gutenberg_id": 6187
+  },
+  {
+    "title": "The Untamed",
+    "author": "Brand, Max",
+    "genre": "Crime",
+    "gutenberg_id": 6188
+  },
+  {
+    "title": "The Night Horseman",
+    "author": "Brand, Max",
+    "genre": "Crime",
+    "gutenberg_id": 6189
+  },
+  {
+    "title": "The Seventh Man",
+    "author": "Brand, Max",
+    "genre": "Crime",
+    "gutenberg_id": 6190
+  },
+  {
+    "title": "The Ridin' Kid from Powder River",
+    "author": "Knibbs, Henry Herbert",
+    "genre": "Crime",
+    "gutenberg_id": 6191
+  },
+  {
+    "title": "Partners of Chance",
+    "author": "Knibbs, Henry Herbert",
+    "genre": "Crime",
+    "gutenberg_id": 6192
+  },
+  {
+    "title": "Sundown Slim",
+    "author": "Knibbs, Henry Herbert",
+    "genre": "Crime",
+    "gutenberg_id": 6193
+  },
+  {
+    "title": "The Man from the Bitter Roots",
+    "author": "Lockhart, Caroline",
+    "genre": "Crime",
+    "gutenberg_id": 6194
+  },
+  {
+    "title": "The Fighting Shepherdess",
+    "author": "Lockhart, Caroline",
+    "genre": "Crime",
+    "gutenberg_id": 6195
+  },
+  {
+    "title": "The Lady Doc",
+    "author": "Lockhart, Caroline",
+    "genre": "Crime",
+    "gutenberg_id": 6196
+  },
+  {
+    "title": "The Real Man",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6197
+  },
+  {
+    "title": "The Taming of Red Butte Western",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6198
+  },
+  {
+    "title": "The Price",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6199
+  },
+  {
+    "title": "The Honorable Senator Sage-Brush",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6200
+  },
+  {
+    "title": "The Grafters",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6201
+  },
+  {
+    "title": "A Fool for Love",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6202
+  },
+  {
+    "title": "The Quickening",
+    "author": "Lynde, Francis",
+    "genre": "Crime",
+    "gutenberg_id": 6203
+  },
+  {
+    "title": "The Master of the Strong Hearts",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6204
+  },
+  {
+    "title": "In Leisler's Times",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6205
+  },
+  {
+    "title": "The Story of the American Indian",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6206
+  },
+  {
+    "title": "The Story of the American Sailor",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6207
+  },
+  {
+    "title": "The Story of the American Soldier",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6208
+  },
+  {
+    "title": "The Century Book of the American Colonies",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6209
+  },
+  {
+    "title": "The Century Book of the American Revolution",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6210
+  },
+  {
+    "title": "The Century Book for Young Americans",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6211
+  },
+  {
+    "title": "Historic Boys",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6212
+  },
+  {
+    "title": "Historic Girls",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6213
+  },
+  {
+    "title": "The True Story of Christopher Columbus",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6214
+  },
+  {
+    "title": "The True Story of George Washington",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6215
+  },
+  {
+    "title": "The True Story of Abraham Lincoln",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6216
+  },
+  {
+    "title": "The True Story of Benjamin Franklin",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6217
+  },
+  {
+    "title": "The True Story of the United States of America",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6218
+  },
+  {
+    "title": "The True Story of Lafayette",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6219
+  },
+  {
+    "title": "The True Story of U. S. Grant",
+    "author": "Brooks, Elbridge S.",
+    "genre": "Crime",
+    "gutenberg_id": 6220
+  },
+  {
+    "title": "The Long Lane's Turning",
+    "author": "Rives, Hallie Erminie",
+    "genre": "Crime",
+    "gutenberg_id": 6221
+  },
+  {
+    "title": "The Valiants of Virginia",
+    "author": "Rives, Hallie Erminie",
+    "genre": "Crime",
+    "gutenberg_id": 6222
+  },
+  {
+    "title": "Hearts Courageous",
+    "author": "Rives, Hallie Erminie",
+    "genre": "Crime",
+    "gutenberg_id": 6223
+  },
+  {
+    "title": "The Castaway",
+    "author": "Rives, Hallie Erminie",
+    "genre": "Crime",
+    "gutenberg_id": 6224
+  },
+  {
+    "title": "Satan Sanderson",
+    "author": "Rives, Hallie Erminie",
+    "genre": "Crime",
+    "gutenberg_id": 6225
+  },
+  {
+    "title": "The Kingdom of Slender Swords",
+    "author": "Rives, Hallie Erminie",
+    "genre": "Crime",
+    "gutenberg_id": 6226
+  },
+  {
+    "title": "The Singing Wires",
+    "author": "Miller, Alice Duer",
+    "genre": "Crime",
+    "gutenberg_id": 6227
+  },
+  {
+    "title": "The Charm School",
+    "author": "Miller, Alice Duer",
+    "genre": "Crime",
+    "gutenberg_id": 6228
+  },
+  {
+    "title": "Come Out of the Kitchen!",
+    "author": "Miller, Alice Duer",
+    "genre": "Crime",
+    "gutenberg_id": 6229
+  },
+  {
+    "title": "The Burglar and the Blizzard",
+    "author": "Miller, Alice Duer",
+    "genre": "Crime",
+    "gutenberg_id": 6230
+  },
+  {
+    "title": "The Beauty and the Bolshevist",
+    "author": "Miller, Alice Duer",
+    "genre": "Crime",
+    "gutenberg_id": 6231
+  },
+  {
+    "title": "Manslaughter",
+    "author": "Miller, Alice Duer",
+    "genre": "Crime",
+    "gutenberg_id": 6232
+  },
+  {
+    "title": "The Inevitable Millionaires",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6233
+  },
+  {
+    "title": "The Black Box",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6234
+  },
+  {
+    "title": "The Survivor",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6235
+  },
+  {
+    "title": "The Traitors",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6236
+  },
+  {
+    "title": "A Prince of Sinners",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6237
+  },
+  {
+    "title": "The Master Mummer",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6238
+  },
+  {
+    "title": "The Missioner",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6239
+  },
+  {
+    "title": "The Governors",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6240
+  },
+  {
+    "title": "A Maker of History",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6241
+  },
+  {
+    "title": "The Long Arm of Mannister",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6242
+  },
+  {
+    "title": "The Moving Finger",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6243
+  },
+  {
+    "title": "Havoc",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6244
+  },
+  {
+    "title": "The Hillman",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6245
+  },
+  {
+    "title": "The Wicked Marquis",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6246
+  },
+  {
+    "title": "Jacob's Ladder",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6247
+  },
+  {
+    "title": "Nobody's Man",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6248
+  },
+  {
+    "title": "The Inevitable Millionaires",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6249
+  },
+  {
+    "title": "The Black Box",
+    "author": "Oppenheim, E. Phillips",
+    "genre": "Crime",
+    "gutenberg_id": 6250
+  }
 ]
