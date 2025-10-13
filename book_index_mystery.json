@@ -940,5 +940,797 @@
     "author": "Anna Katharine Green",
     "genre": "Mystery",
     "gutenberg_id": 19953
+  },
+  {
+    "title": "Trent's Last Case",
+    "author": "Bentley, E. C. (Edmund Clerihew)",
+    "genre": "Mystery",
+    "gutenberg_id": 569
+  },
+  {
+    "title": "The Old Man in the Corner",
+    "author": "Orczy, Emmuska",
+    "genre": "Mystery",
+    "gutenberg_id": 1397
+  },
+  {
+    "title": "The Case of the Golden Bullet",
+    "author": "Bonner, Geraldine",
+    "genre": "Mystery",
+    "gutenberg_id": 1589
+  },
+  {
+    "title": "The Middle Temple Murder",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1699
+  },
+  {
+    "title": "The Paradise Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1700
+  },
+  {
+    "title": "The Talleyrand Maxim",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1701
+  },
+  {
+    "title": "The Chestermarke Instinct",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1702
+  },
+  {
+    "title": "The Borough Treasurer",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1703
+  },
+  {
+    "title": "The Herapath Property",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1704
+  },
+  {
+    "title": "Dead Men's Money",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1705
+  },
+  {
+    "title": "The Charing Cross Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1706
+  },
+  {
+    "title": "The Markenmore Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1707
+  },
+  {
+    "title": "The Rayner-Slade Amalgamation",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1708
+  },
+  {
+    "title": "In the Mayor's Parlour",
+    "author": "Fletcher, J. S. (Joseph Smith)",
+    "genre": "Mystery",
+    "gutenberg_id": 1709
+  },
+  {
+    "title": "The Cask",
+    "author": "Crofts, Freeman Wills",
+    "genre": "Mystery",
+    "gutenberg_id": 1753
+  },
+  {
+    "title": "The Ponson Case",
+    "author": "Crofts, Freeman Wills",
+    "genre": "Mystery",
+    "gutenberg_id": 1754
+  },
+  {
+    "title": "Inspector French's Greatest Case",
+    "author": "Crofts, Freeman Wills",
+    "genre": "Mystery",
+    "gutenberg_id": 1755
+  },
+  {
+    "title": "The Starvel Hollow Tragedy",
+    "author": "Crofts, Freeman Wills",
+    "genre": "Mystery",
+    "gutenberg_id": 1756
+  },
+  {
+    "title": "The Pit-Prop Syndicate",
+    "author": "Crofts, Freeman Wills",
+    "genre": "Mystery",
+    "gutenberg_id": 1757
+  },
+  {
+    "title": "The Red Redmaynes",
+    "author": "Phillpotts, Eden",
+    "genre": "Mystery",
+    "gutenberg_id": 2022
+  },
+  {
+    "title": "The Grey Room",
+    "author": "Phillpotts, Eden",
+    "genre": "Mystery",
+    "gutenberg_id": 2023
+  },
+  {
+    "title": "A Voice from the Dark",
+    "author": "Phillpotts, Eden",
+    "genre": "Mystery",
+    "gutenberg_id": 2024
+  },
+  {
+    "title": "The Shrieking Pit",
+    "author": "Rees, Arthur J.",
+    "genre": "Mystery",
+    "gutenberg_id": 2041
+  },
+  {
+    "title": "The Hand in the Dark",
+    "author": "Rees, Arthur J.",
+    "genre": "Mystery",
+    "gutenberg_id": 2042
+  },
+  {
+    "title": "The Moon Rock",
+    "author": "Rees, Arthur J.",
+    "genre": "Mystery",
+    "gutenberg_id": 2043
+  },
+  {
+    "title": "The Hampstead Mystery",
+    "author": "Rees, Arthur J. and Watson, J. R.",
+    "genre": "Mystery",
+    "gutenberg_id": 2044
+  },
+  {
+    "title": "The Rasp",
+    "author": "MacDonald, Philip",
+    "genre": "Mystery",
+    "gutenberg_id": 2050
+  },
+  {
+    "title": "The Layton Court Mystery",
+    "author": "Berkeley, Anthony",
+    "genre": "Mystery",
+    "gutenberg_id": 2101
+  },
+  {
+    "title": "The Wychford Poisoning Case",
+    "author": "Berkeley, Anthony",
+    "genre": "Mystery",
+    "gutenberg_id": 2102
+  },
+  {
+    "title": "The Silk Stocking Murders",
+    "author": "Berkeley, Anthony",
+    "genre": "Mystery",
+    "gutenberg_id": 2103
+  },
+  {
+    "title": "The Poisoned Chocolates Case",
+    "author": "Berkeley, Anthony",
+    "genre": "Mystery",
+    "gutenberg_id": 2104
+  },
+  {
+    "title": "The Second Shot",
+    "author": "Berkeley, Anthony",
+    "genre": "Mystery",
+    "gutenberg_id": 2105
+  },
+  {
+    "title": "The Documents in the Case",
+    "author": "Sayers, Dorothy L. and Eustace, Robert",
+    "genre": "Mystery",
+    "gutenberg_id": 2201
+  },
+  {
+    "title": "Whose Body?",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2202
+  },
+  {
+    "title": "Clouds of Witness",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2203
+  },
+  {
+    "title": "Unnatural Death",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2204
+  },
+  {
+    "title": "The Unpleasantness at the Bellona Club",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2205
+  },
+  {
+    "title": "Strong Poison",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2206
+  },
+  {
+    "title": "The Five Red Herrings",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2207
+  },
+  {
+    "title": "Have His Carcase",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2208
+  },
+  {
+    "title": "Murder Must Advertise",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2209
+  },
+  {
+    "title": "The Nine Tailors",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2210
+  },
+  {
+    "title": "Gaudy Night",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2211
+  },
+  {
+    "title": "Busman's Honeymoon",
+    "author": "Sayers, Dorothy L.",
+    "genre": "Mystery",
+    "gutenberg_id": 2212
+  },
+  {
+    "title": "The Benson Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2301
+  },
+  {
+    "title": "The Canary Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2302
+  },
+  {
+    "title": "The Greene Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2303
+  },
+  {
+    "title": "The Bishop Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2304
+  },
+  {
+    "title": "The Scarab Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2305
+  },
+  {
+    "title": "The Kennel Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2306
+  },
+  {
+    "title": "The Dragon Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2307
+  },
+  {
+    "title": "The Casino Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2308
+  },
+  {
+    "title": "The Garden Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2309
+  },
+  {
+    "title": "The Kidnap Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2310
+  },
+  {
+    "title": "The Gracie Allen Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2311
+  },
+  {
+    "title": "The Winter Murder Case",
+    "author": "Van Dine, S. S.",
+    "genre": "Mystery",
+    "gutenberg_id": 2312
+  },
+  {
+    "title": "The Roman Hat Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2401
+  },
+  {
+    "title": "The French Powder Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2402
+  },
+  {
+    "title": "The Dutch Shoe Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2403
+  },
+  {
+    "title": "The Greek Coffin Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2404
+  },
+  {
+    "title": "The Egyptian Cross Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2405
+  },
+  {
+    "title": "The American Gun Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2406
+  },
+  {
+    "title": "The Siamese Twin Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2407
+  },
+  {
+    "title": "The Chinese Orange Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2408
+  },
+  {
+    "title": "The Spanish Cape Mystery",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2409
+  },
+  {
+    "title": "The Tragedy of X",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2410
+  },
+  {
+    "title": "The Tragedy of Y",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2411
+  },
+  {
+    "title": "The Tragedy of Z",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2412
+  },
+  {
+    "title": "The Adventures of Ellery Queen",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2413
+  },
+  {
+    "title": "The New Adventures of Ellery Queen",
+    "author": "Queen, Ellery",
+    "genre": "Mystery",
+    "gutenberg_id": 2414
+  },
+  {
+    "title": "Fer-de-Lance",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2501
+  },
+  {
+    "title": "The League of Frightened Men",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2502
+  },
+  {
+    "title": "The Rubber Band",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2503
+  },
+  {
+    "title": "The Red Box",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2504
+  },
+  {
+    "title": "Too Many Cooks",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2505
+  },
+  {
+    "title": "Some Buried Caesar",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2506
+  },
+  {
+    "title": "Over My Dead Body",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2507
+  },
+  {
+    "title": "Where There's a Will",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2508
+  },
+  {
+    "title": "Black Orchids",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2509
+  },
+  {
+    "title": "Not Quite Dead Enough",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2510
+  },
+  {
+    "title": "The Silent Speaker",
+    "author": "Stout, Rex",
+    "genre": "Mystery",
+    "gutenberg_id": 2511
+  },
+  {
+    "title": "The Thinking Machine",
+    "author": "Futrelle, Jacques",
+    "genre": "Mystery",
+    "gutenberg_id": 2601
+  },
+  {
+    "title": "The Problem of Cell 13",
+    "author": "Futrelle, Jacques",
+    "genre": "Mystery",
+    "gutenberg_id": 2602
+  },
+  {
+    "title": "The Chase of the Golden Plate",
+    "author": "Futrelle, Jacques",
+    "genre": "Mystery",
+    "gutenberg_id": 2603
+  },
+  {
+    "title": "The Diamond Master",
+    "author": "Futrelle, Jacques",
+    "genre": "Mystery",
+    "gutenberg_id": 2604
+  },
+  {
+    "title": "My Lady's Garter",
+    "author": "Futrelle, Jacques",
+    "genre": "Mystery",
+    "gutenberg_id": 2605
+  },
+  {
+    "title": "The Dain Curse",
+    "author": "Hammett, Dashiell",
+    "genre": "Mystery",
+    "gutenberg_id": 2701
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Hammett, Dashiell",
+    "genre": "Mystery",
+    "gutenberg_id": 2702
+  },
+  {
+    "title": "The Glass Key",
+    "author": "Hammett, Dashiell",
+    "genre": "Mystery",
+    "gutenberg_id": 2703
+  },
+  {
+    "title": "The Thin Man",
+    "author": "Hammett, Dashiell",
+    "genre": "Mystery",
+    "gutenberg_id": 2704
+  },
+  {
+    "title": "Red Harvest",
+    "author": "Hammett, Dashiell",
+    "genre": "Mystery",
+    "gutenberg_id": 2705
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2801
+  },
+  {
+    "title": "Farewell, My Lovely",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2802
+  },
+  {
+    "title": "The High Window",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2803
+  },
+  {
+    "title": "The Lady in the Lake",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2804
+  },
+  {
+    "title": "The Little Sister",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2805
+  },
+  {
+    "title": "The Long Goodbye",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2806
+  },
+  {
+    "title": "Playback",
+    "author": "Chandler, Raymond",
+    "genre": "Mystery",
+    "gutenberg_id": 2807
+  },
+  {
+    "title": "The Postman Always Rings Twice",
+    "author": "Cain, James M.",
+    "genre": "Mystery",
+    "gutenberg_id": 2901
+  },
+  {
+    "title": "Double Indemnity",
+    "author": "Cain, James M.",
+    "genre": "Mystery",
+    "gutenberg_id": 2902
+  },
+  {
+    "title": "The Daughter of Time",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3001
+  },
+  {
+    "title": "The Franchise Affair",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3002
+  },
+  {
+    "title": "Brat Farrar",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3003
+  },
+  {
+    "title": "The Singing Sands",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3004
+  },
+  {
+    "title": "A Shilling for Candles",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3005
+  },
+  {
+    "title": "To Love and Be Wise",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3006
+  },
+  {
+    "title": "The Man in the Queue",
+    "author": "Tey, Josephine",
+    "genre": "Mystery",
+    "gutenberg_id": 3007
+  },
+  {
+    "title": "A Coffin for Dimitrios",
+    "author": "Ambler, Eric",
+    "genre": "Mystery",
+    "gutenberg_id": 3101
+  },
+  {
+    "title": "Journey into Fear",
+    "author": "Ambler, Eric",
+    "genre": "Mystery",
+    "gutenberg_id": 3102
+  },
+  {
+    "title": "Epitaph for a Spy",
+    "author": "Ambler, Eric",
+    "genre": "Mystery",
+    "gutenberg_id": 3103
+  },
+  {
+    "title": "Cause for Alarm",
+    "author": "Ambler, Eric",
+    "genre": "Mystery",
+    "gutenberg_id": 3104
+  },
+  {
+    "title": "Background to Danger",
+    "author": "Ambler, Eric",
+    "genre": "Mystery",
+    "gutenberg_id": 3105
+  },
+  {
+    "title": "The Mask of Dimitrios",
+    "author": "Ambler, Eric",
+    "genre": "Mystery",
+    "gutenberg_id": 3106
+  },
+  {
+    "title": "The Moving Toyshop",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3201
+  },
+  {
+    "title": "Holy Disorders",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3202
+  },
+  {
+    "title": "Swan Song",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3203
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3204
+  },
+  {
+    "title": "Buried for Pleasure",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3205
+  },
+  {
+    "title": "Frequent Hearses",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3206
+  },
+  {
+    "title": "The Long Divorce",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3207
+  },
+  {
+    "title": "The Glimpses of the Moon",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3208
+  },
+  {
+    "title": "The Case of the Gilded Fly",
+    "author": "Crispin, Edmund",
+    "genre": "Mystery",
+    "gutenberg_id": 3209
+  },
+  {
+    "title": "Death at the President's Lodging",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3301
+  },
+  {
+    "title": "Hamlet, Revenge!",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3302
+  },
+  {
+    "title": "Lament for a Maker",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3303
+  },
+  {
+    "title": "Stop Press",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3304
+  },
+  {
+    "title": "The Secret Vanguard",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3305
+  },
+  {
+    "title": "From London Far",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3306
+  },
+  {
+    "title": "What Happened at Hazelwood?",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3307
+  },
+  {
+    "title": "The Journeying Boy",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3308
+  },
+  {
+    "title": "Operation Pax",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3309
+  },
+  {
+    "title": "A Private View",
+    "author": "Innes, Michael",
+    "genre": "Mystery",
+    "gutenberg_id": 3310
   }
 ]
