@@ -1,0 +1,944 @@
+[
+  {
+    "title": "The Red Thumb Mark",
+    "author": "R. Austin Freeman",
+    "genre": "Mystery",
+    "gutenberg_id": 2026
+  },
+  {
+    "title": "The Eye of Osiris",
+    "author": "R. Austin Freeman",
+    "genre": "Mystery",
+    "gutenberg_id": 2027
+  },
+  {
+    "title": "The Mystery of 31 New Inn",
+    "author": "R. Austin Freeman",
+    "genre": "Mystery",
+    "gutenberg_id": 2028
+  },
+  {
+    "title": "The Vanishing Man",
+    "author": "R. Austin Freeman",
+    "genre": "Mystery",
+    "gutenberg_id": 2029
+  },
+  {
+    "title": "The Uttermost Farthing",
+    "author": "R. Austin Freeman",
+    "genre": "Mystery",
+    "gutenberg_id": 2030
+  },
+  {
+    "title": "The Cat and the Cherub",
+    "author": "Chester Bailey Fernald",
+    "genre": "Mystery",
+    "gutenberg_id": 2031
+  },
+  {
+    "title": "That Affair Next Door",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2032
+  },
+  {
+    "title": "The Filigree Ball",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2033
+  },
+  {
+    "title": "The Millionaire Baby",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2034
+  },
+  {
+    "title": "The Woman in the Alcove",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2035
+  },
+  {
+    "title": "The Mayor's Wife",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2036
+  },
+  {
+    "title": "The Golden Slipper",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2037
+  },
+  {
+    "title": "The Clue",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2038
+  },
+  {
+    "title": "The Gold Bag",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2039
+  },
+  {
+    "title": "The Maxwell Mystery",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2040
+  },
+  {
+    "title": "The Diamond Pin",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2044
+  },
+  {
+    "title": "The Mystery Girl",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2045
+  },
+  {
+    "title": "The Curved Blades",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2046
+  },
+  {
+    "title": "The Mark of Cain",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2047
+  },
+  {
+    "title": "The Room with the Tassels",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2048
+  },
+  {
+    "title": "The White Alley",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2049
+  },
+  {
+    "title": "The Four Just Men",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2051
+  },
+  {
+    "title": "The Daffodil Mystery",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2052
+  },
+  {
+    "title": "The Clue of the Twisted Candle",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2053
+  },
+  {
+    "title": "The Angel of Terror",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2054
+  },
+  {
+    "title": "The Man Who Knew",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2055
+  },
+  {
+    "title": "The Secret House",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2056
+  },
+  {
+    "title": "The Green Rust",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2057
+  },
+  {
+    "title": "The Keepers of the King's Peace",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2058
+  },
+  {
+    "title": "The Nine Bears",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2059
+  },
+  {
+    "title": "The Mind of Mr. J.G. Reeder",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2060
+  },
+  {
+    "title": "The Man Who Bought London",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2061
+  },
+  {
+    "title": "The Just Men of Cordova",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2062
+  },
+  {
+    "title": "The Law of the Four Just Men",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2063
+  },
+  {
+    "title": "The Clue of the New Pin",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2064
+  },
+  {
+    "title": "The Valley of Ghosts",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2065
+  },
+  {
+    "title": "The Strange Countess",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2066
+  },
+  {
+    "title": "The Clue of the Silver Key",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2067
+  },
+  {
+    "title": "The Door with Seven Locks",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2068
+  },
+  {
+    "title": "The Ringer",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2069
+  },
+  {
+    "title": "The Terrible People",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2070
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 2852
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Mystery",
+    "gutenberg_id": 345
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 1661
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 863
+  },
+  {
+    "title": "The Moonstone",
+    "author": "Wilkie Collins",
+    "genre": "Mystery",
+    "gutenberg_id": 155
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "genre": "Mystery",
+    "gutenberg_id": 583
+  },
+  {
+    "title": "The Mystery of Edwin Drood",
+    "author": "Charles Dickens",
+    "genre": "Mystery",
+    "gutenberg_id": 564
+  },
+  {
+    "title": "The Secret Agent: A Simple Tale",
+    "author": "Joseph Conrad",
+    "genre": "Mystery",
+    "gutenberg_id": 5230
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "author": "John Buchan",
+    "genre": "Mystery",
+    "gutenberg_id": 558
+  },
+  {
+    "title": "The Beetle: A Mystery",
+    "author": "Richard Marsh",
+    "genre": "Mystery",
+    "gutenberg_id": 20232
+  },
+  {
+    "title": "The Circular Staircase",
+    "author": "Mary Roberts Rinehart",
+    "genre": "Mystery",
+    "gutenberg_id": 1128
+  },
+  {
+    "title": "The Mystery of the Yellow Room",
+    "author": "Gaston Leroux",
+    "genre": "Mystery",
+    "gutenberg_id": 1738
+  },
+  {
+    "title": "The Man Who Was Thursday",
+    "author": "G. K. Chesterton",
+    "genre": "Mystery",
+    "gutenberg_id": 1695
+  },
+  {
+    "title": "The Lodger",
+    "author": "Marie Belloc Lowndes",
+    "genre": "Mystery",
+    "gutenberg_id": 2040
+  },
+  {
+    "title": "The House of the Whispering Pines",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2041
+  },
+  {
+    "title": "The Mystery of the Sea",
+    "author": "Bram Stoker",
+    "genre": "Mystery",
+    "gutenberg_id": 2021
+  },
+  {
+    "title": "The House of the Arrow",
+    "author": "A. E. W. Mason",
+    "genre": "Mystery",
+    "gutenberg_id": 2042
+  },
+  {
+    "title": "The Red House Mystery",
+    "author": "A. A. Milne",
+    "genre": "Mystery",
+    "gutenberg_id": 1872
+  },
+  {
+    "title": "The Haunted Bookshop",
+    "author": "Christopher Morley",
+    "genre": "Mystery",
+    "gutenberg_id": 2043
+  },
+  {
+    "title": "The Mystery of the Four Fingers",
+    "author": "Fred M. White",
+    "genre": "Mystery",
+    "gutenberg_id": 2044
+  },
+  {
+    "title": "The Mystery of the Sintra Road",
+    "author": "José Maria de Eça de Queirós",
+    "genre": "Mystery",
+    "gutenberg_id": 2045
+  },
+  {
+    "title": "The Mystery of the Boule Cabinet",
+    "author": "Burton Egbert Stevenson",
+    "genre": "Mystery",
+    "gutenberg_id": 2046
+  },
+  {
+    "title": "The Mystery of the Fires",
+    "author": "Edith Nesbit",
+    "genre": "Mystery",
+    "gutenberg_id": 2047
+  },
+  {
+    "title": "The Mystery of the Sycamore",
+    "author": "Carolyn Wells",
+    "genre": "Mystery",
+    "gutenberg_id": 2048
+  },
+  {
+    "title": "The Mystery of the Hasty Arrow",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 2049
+  },
+  {
+    "title": "The Mystery of the Locks",
+    "author": "E. W. Howe",
+    "genre": "Mystery",
+    "gutenberg_id": 2050
+  },
+  {
+    "title": "The Mystery of the Hidden Room",
+    "author": "Marion Harvey",
+    "genre": "Mystery",
+    "gutenberg_id": 2051
+  },
+  {
+    "title": "The Mystery of the Grave-Yard",
+    "author": "Anonymous",
+    "genre": "Mystery",
+    "gutenberg_id": 2053
+  },
+  {
+    "title": "The Mystery of the Green Ray",
+    "author": "William Le Queux",
+    "genre": "Mystery",
+    "gutenberg_id": 2054
+  },
+  {
+    "title": "The Mystery of the Silver Dagger",
+    "author": "Randall Parrish",
+    "genre": "Mystery",
+    "gutenberg_id": 2055
+  },
+  {
+    "title": "The Mystery of the Hidden House",
+    "author": "Anonymous",
+    "genre": "Mystery",
+    "gutenberg_id": 2056
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2057
+  },
+  {
+    "title": "The Mystery of the Red Triangle",
+    "author": "Arthur Rees",
+    "genre": "Mystery",
+    "gutenberg_id": 2058
+  },
+  {
+    "title": "The Mystery of the Third Lucretia",
+    "author": "Susan Runholt",
+    "genre": "Mystery",
+    "gutenberg_id": 2059
+  },
+  {
+    "title": "The Mystery of the Burnt Cottage",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2060
+  },
+  {
+    "title": "The Mystery of the Strange Bundle",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2061
+  },
+  {
+    "title": "The Mystery of the Disappearing Cat",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2062
+  },
+  {
+    "title": "The Mystery of the Spiteful Letters",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2063
+  },
+  {
+    "title": "The Mystery of the Missing Necklace",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2064
+  },
+  {
+    "title": "The Mystery of the Hidden House",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2065
+  },
+  {
+    "title": "The Mystery of the Pantomime Cat",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2066
+  },
+  {
+    "title": "The Mystery of the Invisible Thief",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2067
+  },
+  {
+    "title": "The Mystery of the Vanished Prince",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2068
+  },
+  {
+    "title": "The Mystery of the Strange Messages",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2069
+  },
+  {
+    "title": "The Mystery of Banshee Towers",
+    "author": "Enid Blyton",
+    "genre": "Mystery",
+    "gutenberg_id": 2070
+  },
+  {
+    "title": "The Avenger",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2071
+  },
+  {
+    "title": "The Clue of the Second Murder",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2072
+  },
+  {
+    "title": "The Man Who Was Nobody",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2073
+  },
+  {
+    "title": "The Three Oak Mystery",
+    "author": "Edgar Wallace",
+    "genre": "Mystery",
+    "gutenberg_id": 2074
+  },
+  {
+    "title": "The Strange Case of Mortimer Fenley",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2075
+  },
+  {
+    "title": "The Postmaster's Daughter",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2076
+  },
+  {
+    "title": "The Wings of the Morning",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2077
+  },
+  {
+    "title": "The Pillar of Light",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2078
+  },
+  {
+    "title": "The Captain of the Kansas",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2079
+  },
+  {
+    "title": "The Stowaway Girl",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2080
+  },
+  {
+    "title": "The Silent Barrier",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2081
+  },
+  {
+    "title": "The Message",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2082
+  },
+  {
+    "title": "The Red Year",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2083
+  },
+  {
+    "title": "The Strange Adventure of Mr. Andrew Hawthorn",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2084
+  },
+  {
+    "title": "The Day of Wrath",
+    "author": "Louis Tracy",
+    "genre": "Mystery",
+    "gutenberg_id": 2085
+  },
+  {
+    "title": "The Big Bow Mystery",
+    "author": "Israel Zangwill",
+    "genre": "Mystery",
+    "gutenberg_id": 2086
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2102
+  },
+  {
+    "title": "The Murder on the Links",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2103
+  },
+  {
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2104
+  },
+  {
+    "title": "The Secret of Chimneys",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2105
+  },
+  {
+    "title": "The Seven Dials Mystery",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2106
+  },
+  {
+    "title": "The Big Four",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2107
+  },
+  {
+    "title": "The Sittaford Mystery",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2109
+  },
+  {
+    "title": "Peril at End House",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2110
+  },
+  {
+    "title": "Lord Edgware Dies",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2111
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2112
+  },
+  {
+    "title": "Three Act Tragedy",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2113
+  },
+  {
+    "title": "Death in the Clouds",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2114
+  },
+  {
+    "title": "The A.B.C. Murders",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2115
+  },
+  {
+    "title": "Murder in Mesopotamia",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2116
+  },
+  {
+    "title": "Cards on the Table",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2117
+  },
+  {
+    "title": "Dumb Witness",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2118
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2119
+  },
+  {
+    "title": "Appointment with Death",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2120
+  },
+  {
+    "title": "Hercule Poirot's Christmas",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2121
+  },
+  {
+    "title": "Sad Cypress",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2122
+  },
+  {
+    "title": "One, Two, Buckle My Shoe",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2123
+  },
+  {
+    "title": "Evil Under the Sun",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2124
+  },
+  {
+    "title": "Five Little Pigs",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2125
+  },
+  {
+    "title": "The Hollow",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2126
+  },
+  {
+    "title": "Taken at the Flood",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2127
+  },
+  {
+    "title": "Mrs McGinty's Dead",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2128
+  },
+  {
+    "title": "After the Funeral",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2129
+  },
+  {
+    "title": "Hickory Dickory Dock",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2130
+  },
+  {
+    "title": "Dead Man's Folly",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2131
+  },
+  {
+    "title": "Cat Among the Pigeons",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2132
+  },
+  {
+    "title": "The Adventure of the Christmas Pudding",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2133
+  },
+  {
+    "title": "The Clocks",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2134
+  },
+  {
+    "title": "Third Girl",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2135
+  },
+  {
+    "title": "Hallowe'en Party",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2136
+  },
+  {
+    "title": "Elephants Can Remember",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2137
+  },
+  {
+    "title": "Curtain: Poirot's Last Case",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2138
+  },
+  {
+    "title": "The Labours of Hercules",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2139
+  },
+  {
+    "title": "The Mysterious Mr. Quin",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "gutenberg_id": 2140
+  },
+  {
+    "title": "The Secret of the Old Mill",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2141
+  },
+  {
+    "title": "The Tower Treasure",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2142
+  },
+  {
+    "title": "The House on the Cliff",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2143
+  },
+  {
+    "title": "The Missing Chums",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2144
+  },
+  {
+    "title": "Hunting for Hidden Gold",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2145
+  },
+  {
+    "title": "The Shore Road Mystery",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2146
+  },
+  {
+    "title": "The Secret of the Caves",
+    "author": "Franklin W. Dixon",
+    "genre": "Mystery",
+    "gutenberg_id": 2147
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 244
+  },
+  {
+    "title": "The Sign of the Four",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 2097
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 3289
+  },
+  {
+    "title": "His Last Bow",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 221
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 221
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 834
+  },
+  {
+    "title": "The Case-Book of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "gutenberg_id": 221
+  },
+  {
+    "title": "The Leavenworth Case",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 19951
+  },
+  {
+    "title": "The Forsaken Inn",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 19952
+  },
+  {
+    "title": "Initials Only",
+    "author": "Anna Katharine Green",
+    "genre": "Mystery",
+    "gutenberg_id": 19953
+  }
+]
