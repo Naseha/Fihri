@@ -1,0 +1,1664 @@
+[
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Dickens, Charles",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 98
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Orczy, Emmuska",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 60
+  },
+  {
+    "title": "The Three Musketeers",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1257
+  },
+  {
+    "title": "Ivanhoe",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 82
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1184
+  },
+  {
+    "title": "War and Peace",
+    "author": "Tolstoy, Leo",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2600
+  },
+  {
+    "title": "Ben-Hur: A Tale of the Christ",
+    "author": "Wallace, Lew",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2456
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "author": "Crane, Stephen",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 73
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Twain, Mark",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 86
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "author": "Cooper, James Fenimore",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 940
+  },
+  {
+    "title": "Quo Vadis: A Narrative of the Time of Nero",
+    "author": "Sienkiewicz, Henryk",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2853
+  },
+  {
+    "title": "The Black Arrow: A Tale of the Two Roses",
+    "author": "Stevenson, Robert Louis",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 639
+  },
+  {
+    "title": "Scaramouche",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 190
+  },
+  {
+    "title": "Captain Blood",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 191
+  },
+  {
+    "title": "The Sea-Hawk",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2357
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "author": "Hugo, Victor",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2610
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Hugo, Victor",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 135
+  },
+  {
+    "title": "The Man Who Laughs",
+    "author": "Hugo, Victor",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 12587
+  },
+  {
+    "title": "The Decline and Fall of the Roman Empire",
+    "author": "Gibbon, Edward",
+    "genre": "History",
+    "gutenberg_id": 25717
+  },
+  {
+    "title": "The Histories",
+    "author": "Herodotus",
+    "genre": "History",
+    "gutenberg_id": 2707
+  },
+  {
+    "title": "History of the Peloponnesian War",
+    "author": "Thucydides",
+    "genre": "History",
+    "gutenberg_id": 7142
+  },
+  {
+    "title": "The Prince",
+    "author": "Machiavelli, Niccolò",
+    "genre": "History",
+    "gutenberg_id": 1232
+  },
+  {
+    "title": "The Annals",
+    "author": "Tacitus, Cornelius",
+    "genre": "History",
+    "gutenberg_id": 8140
+  },
+  {
+    "title": "Plutarch's Lives",
+    "author": "Plutarch",
+    "genre": "History",
+    "gutenberg_id": 674
+  },
+  {
+    "title": "The Gallic Wars",
+    "author": "Caesar, Julius",
+    "genre": "History",
+    "gutenberg_id": 10657
+  },
+  {
+    "title": "The White Company",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 903
+  },
+  {
+    "title": "Sir Nigel",
+    "author": "Doyle, Arthur Conan",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1672
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "author": "Hope, Anthony",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 95
+  },
+  {
+    "title": "Rupert of Hentzau",
+    "author": "Hope, Anthony",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 96
+  },
+  {
+    "title": "The Personal Memoirs of U. S. Grant",
+    "author": "Grant, Ulysses S.",
+    "genre": "History",
+    "gutenberg_id": 4367
+  },
+  {
+    "title": "Twenty Years After",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1259
+  },
+  {
+    "title": "The Vicomte de Bragelonne",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1261
+  },
+  {
+    "title": "Louise de la Valliere",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2682
+  },
+  {
+    "title": "The Man in the Iron Mask",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2759
+  },
+  {
+    "title": "Marguerite de Valois",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2752
+  },
+  {
+    "title": "Chicot the Jester",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2753
+  },
+  {
+    "title": "The Forty-Five Guardsmen",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2754
+  },
+  {
+    "title": "The Queen's Necklace",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2772
+  },
+  {
+    "title": "Joseph Balsamo",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2771
+  },
+  {
+    "title": "The Taking of the Bastile",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3051
+  },
+  {
+    "title": "The Countess de Charny",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3052
+  },
+  {
+    "title": "Le Chevalier de Maison-Rouge",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3053
+  },
+  {
+    "title": "Rob Roy",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7025
+  },
+  {
+    "title": "Waverley",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5998
+  },
+  {
+    "title": "The Heart of Mid-Lothian",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6944
+  },
+  {
+    "title": "The Bride of Lammermoor",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 471
+  },
+  {
+    "title": "Kenilworth",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1396
+  },
+  {
+    "title": "The Talisman",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1377
+  },
+  {
+    "title": "Quentin Durward",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7026
+  },
+  {
+    "title": "Old Mortality",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6943
+  },
+  {
+    "title": "The Antiquary",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7024
+  },
+  {
+    "title": "Guy Mannering",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5945
+  },
+  {
+    "title": "The Fair Maid of Perth",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7027
+  },
+  {
+    "title": "Woodstock; or, the Cavalier",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6945
+  },
+  {
+    "title": "The Abbot",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6941
+  },
+  {
+    "title": "The Monastery",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6942
+  },
+  {
+    "title": "Peveril of the Peak",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7028
+  },
+  {
+    "title": "The Fortunes of Nigel",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7029
+  },
+  {
+    "title": "The Pirate",
+    "author": "Scott, Walter",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7030
+  },
+  {
+    "title": "The Cloister and the Hearth",
+    "author": "Reade, Charles",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5218
+  },
+  {
+    "title": "The Last Days of Pompeii",
+    "author": "Bulwer-Lytton, Edward",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 978
+  },
+  {
+    "title": "Rienzi, the Last of the Roman Tribunes",
+    "author": "Bulwer-Lytton, Edward",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 792
+  },
+  {
+    "title": "The History of the Conquest of Mexico",
+    "author": "Prescott, William H.",
+    "genre": "History",
+    "gutenberg_id": 4810
+  },
+  {
+    "title": "The History of the Conquest of Peru",
+    "author": "Prescott, William H.",
+    "genre": "History",
+    "gutenberg_id": 4910
+  },
+  {
+    "title": "History of the Reign of Ferdinand and Isabella, The Catholic",
+    "author": "Prescott, William H.",
+    "genre": "History",
+    "gutenberg_id": 5133
+  },
+  {
+    "title": "The Rise of the Dutch Republic",
+    "author": "Motley, John Lothrop",
+    "genre": "History",
+    "gutenberg_id": 4820
+  },
+  {
+    "title": "The French Revolution: A History",
+    "author": "Carlyle, Thomas",
+    "genre": "History",
+    "gutenberg_id": 1301
+  },
+  {
+    "title": "On Heroes, Hero-Worship, and the Heroic in History",
+    "author": "Carlyle, Thomas",
+    "genre": "History",
+    "gutenberg_id": 1091
+  },
+  {
+    "title": "A Short History of the World",
+    "author": "Wells, H. G.",
+    "genre": "History",
+    "gutenberg_id": 35381
+  },
+  {
+    "title": "The Outline of History",
+    "author": "Wells, H. G.",
+    "genre": "History",
+    "gutenberg_id": 45347
+  },
+  {
+    "title": "For the Temple: A Tale of the Fall of Jerusalem",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1492
+  },
+  {
+    "title": "The Cat of Bubastes: A Tale of Ancient Egypt",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1493
+  },
+  {
+    "title": "The Young Carthaginian: A Story of the Times of Hannibal",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1494
+  },
+  {
+    "title": "Beric the Briton: A Story of the Roman Invasion",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1495
+  },
+  {
+    "title": "In Freedom's Cause: A Story of Wallace and Bruce",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1496
+  },
+  {
+    "title": "By Pike and Dyke: A Tale of the Rise of the Dutch Republic",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1497
+  },
+  {
+    "title": "With Clive in India",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1498
+  },
+  {
+    "title": "The Dragon and the Raven; Or, The Days of King Alfred",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1499
+  },
+  {
+    "title": "Under Drake's Flag: A Tale of the Spanish Main",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1500
+  },
+  {
+    "title": "With Wolfe in Canada",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1501
+  },
+  {
+    "title": "The Lion of the North: A Tale of the Times of Gustavus Adolphus",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1502
+  },
+  {
+    "title": "Wulf the Saxon: A Story of the Norman Conquest",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1503
+  },
+  {
+    "title": "When London Burned",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1504
+  },
+  {
+    "title": "By England's Aid, or The Freeing of the Netherlands",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1505
+  },
+  {
+    "title": "A Knight of the White Cross: A Tale of the Siege of Rhodes",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1506
+  },
+  {
+    "title": "With Lee in Virginia",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1507
+  },
+  {
+    "title": "The Lion of St. Mark: A Story of Venice in the Fourteenth Century",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1508
+  },
+  {
+    "title": "St. George for England: A Tale of Cressy and Poitiers",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1509
+  },
+  {
+    "title": "True to the Old Flag: A Tale of the American War of Independence",
+    "author": "Henty, G. A.",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1510
+  },
+  {
+    "title": "Hypatia; or, New Foes with an Old Face",
+    "author": "Kingsley, Charles",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5012
+  },
+  {
+    "title": "Westward Ho!",
+    "author": "Kingsley, Charles",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 622
+  },
+  {
+    "title": "Hereward the Wake",
+    "author": "Kingsley, Charles",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5192
+  },
+  {
+    "title": "The Conspirators",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2755
+  },
+  {
+    "title": "The Regent's Daughter",
+    "author": "Dumas, Alexandre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2756
+  },
+  {
+    "title": "The Privateersman",
+    "author": "Marryat, Frederick",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3157
+  },
+  {
+    "title": "Mr. Midshipman Easy",
+    "author": "Marryat, Frederick",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3156
+  },
+  {
+    "title": "Peter Simple",
+    "author": "Marryat, Frederick",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3158
+  },
+  {
+    "title": "The Children of the New Forest",
+    "author": "Marryat, Frederick",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3159
+  },
+  {
+    "title": "Bardelys the Magnificent",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2358
+  },
+  {
+    "title": "The Strolling Saint",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2359
+  },
+  {
+    "title": "The Shame of Motley",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2360
+  },
+  {
+    "title": "The Trampling of the Lilies",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2361
+  },
+  {
+    "title": "The Lion's Skin",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2362
+  },
+  {
+    "title": "The Justice of the Duke",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2363
+  },
+  {
+    "title": "The Snare",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2364
+  },
+  {
+    "title": "The Banner of the Bull",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2365
+  },
+  {
+    "title": "Fortune's Fool",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2366
+  },
+  {
+    "title": "The Carolinian",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2367
+  },
+  {
+    "title": "Bellarion the Fortunate",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2368
+  },
+  {
+    "title": "The Hounds of God",
+    "author": "Sabatini, Rafael",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2369
+  },
+  {
+    "title": "The Life of Horatio Lord Nelson",
+    "author": "Southey, Robert",
+    "genre": "History",
+    "gutenberg_id": 966
+  },
+  {
+    "title": "The Life of Columbus",
+    "author": "Helps, Arthur",
+    "genre": "History",
+    "gutenberg_id": 1424
+  },
+  {
+    "title": "A History of the Four Georges and of William IV",
+    "author": "McCarthy, Justin",
+    "genre": "History",
+    "gutenberg_id": 3317
+  },
+  {
+    "title": "The History of England, from the Accession of James II",
+    "author": "Macaulay, Thomas Babington",
+    "genre": "History",
+    "gutenberg_id": 1459
+  },
+  {
+    "title": "The Fifteen Decisive Battles of the World",
+    "author": "Creasy, Edward Shepherd",
+    "genre": "History",
+    "gutenberg_id": 4061
+  },
+  {
+    "title": "The Rise and Fall of the Confederate Government",
+    "author": "Davis, Jefferson",
+    "genre": "History",
+    "gutenberg_id": 19830
+  },
+  {
+    "title": "The Conquest of Granada",
+    "author": "Irving, Washington",
+    "genre": "History",
+    "gutenberg_id": 3822
+  },
+  {
+    "title": "A History of the Peninsular War",
+    "author": "Oman, Charles",
+    "genre": "History",
+    "gutenberg_id": 20496
+  },
+  {
+    "title": "The History of The Decline and Fall of the Roman Empire",
+    "author": "Gibbon, Edward",
+    "genre": "History",
+    "gutenberg_id": 731
+  },
+  {
+    "title": "The Story of the Goths",
+    "author": "Bradley, Henry",
+    "genre": "History",
+    "gutenberg_id": 10878
+  },
+  {
+    "title": "The Story of the Normans",
+    "author": "Jewett, Sarah Orne",
+    "genre": "History",
+    "gutenberg_id": 11370
+  },
+  {
+    "title": "The Story of the Saracens",
+    "author": "Gilman, Arthur",
+    "genre": "History",
+    "gutenberg_id": 12154
+  },
+  {
+    "title": "The Story of the Crusades",
+    "author": "Douglas, Amanda M.",
+    "genre": "History",
+    "gutenberg_id": 12489
+  },
+  {
+    "title": "The Story of the Moors in Spain",
+    "author": "Poole, Stanley Lane",
+    "genre": "History",
+    "gutenberg_id": 13351
+  },
+  {
+    "title": "The Story of the Barbary Corsairs",
+    "author": "Poole, Stanley Lane",
+    "genre": "History",
+    "gutenberg_id": 14264
+  },
+  {
+    "title": "The Story of the Byzantine Empire",
+    "author": "Oman, Charles",
+    "genre": "History",
+    "gutenberg_id": 15462
+  },
+  {
+    "title": "The Story of the Middle Ages",
+    "author": "Harding, Samuel Bannister",
+    "genre": "History",
+    "gutenberg_id": 16450
+  },
+  {
+    "title": "The Story of the Renaissance",
+    "author": "Hudson, William Henry",
+    "genre": "History",
+    "gutenberg_id": 17242
+  },
+  {
+    "title": "The Story of the Reformation",
+    "author": "Bett, Henry",
+    "genre": "History",
+    "gutenberg_id": 18032
+  },
+  {
+    "title": "The Story of the Thirty Years' War",
+    "author": "Gardiner, Samuel Rawson",
+    "genre": "History",
+    "gutenberg_id": 19472
+  },
+  {
+    "title": "The Story of the English Parliament",
+    "author": "Smith, Goldwin",
+    "genre": "History",
+    "gutenberg_id": 20389
+  },
+  {
+    "title": "The Story of the Great War",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 21876
+  },
+  {
+    "title": "The Story of the American Revolution",
+    "author": "Lodge, Henry Cabot",
+    "genre": "History",
+    "gutenberg_id": 22476
+  },
+  {
+    "title": "The Story of the Civil War",
+    "author": "Ropes, John Codman",
+    "genre": "History",
+    "gutenberg_id": 23672
+  },
+  {
+    "title": "The Story of the Indian",
+    "author": "Grinnell, George Bird",
+    "genre": "History",
+    "gutenberg_id": 24268
+  },
+  {
+    "title": "The Story of the Cowboy",
+    "author": "Hough, Emerson",
+    "genre": "History",
+    "gutenberg_id": 25160
+  },
+  {
+    "title": "The Story of the Mine",
+    "author": "Shinn, Charles Howard",
+    "genre": "History",
+    "gutenberg_id": 26038
+  },
+  {
+    "title": "The Story of the Railroad",
+    "author": "Warman, Cy",
+    "genre": "History",
+    "gutenberg_id": 27209
+  },
+  {
+    "title": "The Story of the Trapper",
+    "author": "Laut, Agnes C.",
+    "genre": "History",
+    "gutenberg_id": 28167
+  },
+  {
+    "title": "The Story of the Soldier",
+    "author": "Forsyth, George A.",
+    "genre": "History",
+    "gutenberg_id": 29334
+  },
+  {
+    "title": "The Story of the Indian Mutiny",
+    "author": "Henty, G. A.",
+    "genre": "History",
+    "gutenberg_id": 30511
+  },
+  {
+    "title": "The Story of the Filibusters",
+    "author": "Roche, James Jeffrey",
+    "genre": "History",
+    "gutenberg_id": 31393
+  },
+  {
+    "title": "The Story of the Great Fire in St. John, N.B.",
+    "author": "Stewart, George",
+    "genre": "History",
+    "gutenberg_id": 32279
+  },
+  {
+    "title": "The Story of the Lopez Expedition",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 33165
+  },
+  {
+    "title": "The Story of the Khedivate",
+    "author": "Dicey, Edward",
+    "genre": "History",
+    "gutenberg_id": 34051
+  },
+  {
+    "title": "The Story of the Mormons",
+    "author": "Linn, William Alexander",
+    "genre": "History",
+    "gutenberg_id": 34937
+  },
+  {
+    "title": "The Story of the Pony Express",
+    "author": "Bradley, Glenn D.",
+    "genre": "History",
+    "gutenberg_id": 4671
+  },
+  {
+    "title": "The Story of the Telegraph",
+    "author": "Briggs, Charles F.",
+    "genre": "History",
+    "gutenberg_id": 35823
+  },
+  {
+    "title": "The Story of the Atlantic Cable",
+    "author": "Bright, Charles",
+    "genre": "History",
+    "gutenberg_id": 36709
+  },
+  {
+    "title": "The Story of the Submarine",
+    "author": "Fyfe, Herbert C.",
+    "genre": "History",
+    "gutenberg_id": 37595
+  },
+  {
+    "title": "The Story of the Great War, Volume 1",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 38481
+  },
+  {
+    "title": "The Story of the Great War, Volume 2",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 39367
+  },
+  {
+    "title": "The Story of the Great War, Volume 3",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 40253
+  },
+  {
+    "title": "The Story of the Great War, Volume 4",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 41139
+  },
+  {
+    "title": "The Story of the Great War, Volume 5",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 42025
+  },
+  {
+    "title": "The Story of the Great War, Volume 6",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 42911
+  },
+  {
+    "title": "The Story of the Great War, Volume 7",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 43797
+  },
+  {
+    "title": "The Story of the Great War, Volume 8",
+    "author": "Various",
+    "genre": "History",
+    "gutenberg_id": 44683
+  },
+  {
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "author": "Johnson, Samuel",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 662
+  },
+  {
+    "title": "Utopia",
+    "author": "More, Thomas",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2130
+  },
+  {
+    "title": "The History of Don Quixote",
+    "author": "Cervantes Saavedra, Miguel de",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 996
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "author": "Bunyan, John",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 131
+  },
+  {
+    "title": "The History of Tom Jones, a Foundling",
+    "author": "Fielding, Henry",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6593
+  },
+  {
+    "title": "The Expedition of Humphry Clinker",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2160
+  },
+  {
+    "title": "The Vicar of Wakefield",
+    "author": "Goldsmith, Oliver",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 298
+  },
+  {
+    "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+    "author": "Sterne, Laurence",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1079
+  },
+  {
+    "title": "The Adventures of Hajji Baba of Ispahan",
+    "author": "Morier, James",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 204
+  },
+  {
+    "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+    "author": "Poe, Edgar Allan",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2148
+  },
+  {
+    "title": "The Personal History of David Copperfield",
+    "author": "Dickens, Charles",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 766
+  },
+  {
+    "title": "The History of Henry Esmond, Esq.",
+    "author": "Thackeray, William Makepeace",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7173
+  },
+  {
+    "title": "The History of Pendennis",
+    "author": "Thackeray, William Makepeace",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 7174
+  },
+  {
+    "title": "The History of the Life of the late Mr. Jonathan Wild the Great",
+    "author": "Fielding, Henry",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1063
+  },
+  {
+    "title": "The History of Amelia",
+    "author": "Fielding, Henry",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6097
+  },
+  {
+    "title": "Joseph Andrews",
+    "author": "Fielding, Henry",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4353
+  },
+  {
+    "title": "The Adventures of Peregrine Pickle",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4016
+  },
+  {
+    "title": "The Adventures of Roderick Random",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4085
+  },
+  {
+    "title": "The Adventures of Sir Launcelot Greaves",
+    "author": "Smollett, T. (Tobias)",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4381
+  },
+  {
+    "title": "The Woman of the Iron Bracelets",
+    "author": "Conrad, Joseph",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 9568
+  },
+  {
+    "title": "The History of the Valorous and Witty Knight-Errant Don Quixote of the Mancha",
+    "author": "Cervantes, Miguel de",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5946
+  },
+  {
+    "title": "The Adventures of Gil Blas of Santillane",
+    "author": "Le Sage, Alain René",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 6127
+  },
+  {
+    "title": "Salammbô",
+    "author": "Flaubert, Gustave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 140
+  },
+  {
+    "title": "The Chartreuse of Parma",
+    "author": "Stendhal",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1265
+  },
+  {
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 798
+  },
+  {
+    "title": "The Wandering Jew",
+    "author": "Sue, Eugène",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1339
+  },
+  {
+    "title": "The Mysteries of Paris",
+    "author": "Sue, Eugène",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1338
+  },
+  {
+    "title": "Cinq-Mars",
+    "author": "Vigny, Alfred de",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 9857
+  },
+  {
+    "title": "The Betrothed",
+    "author": "Manzoni, Alessandro",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5603
+  },
+  {
+    "title": "The Lion of Flanders",
+    "author": "Conscience, Hendrik",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 9705
+  },
+  {
+    "title": "The Cid",
+    "author": "Corneille, Pierre",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 3583
+  },
+  {
+    "title": "The Story of a Peasant",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 10399
+  },
+  {
+    "title": "The Conscript",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11855
+  },
+  {
+    "title": "Waterloo",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11856
+  },
+  {
+    "title": "The Blockade of Phalsburg",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11857
+  },
+  {
+    "title": "The Invasion of France in 1814",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11858
+  },
+  {
+    "title": "The Polish Jew",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11859
+  },
+  {
+    "title": "A Man of the People",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11860
+  },
+  {
+    "title": "Friend Fritz",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11861
+  },
+  {
+    "title": "The Illustrious Dr. Mathéus",
+    "author": "Erckmann-Chatrian",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 11862
+  },
+  {
+    "title": "The Romance of a Poor Young Man",
+    "author": "Feuillet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4030
+  },
+  {
+    "title": "The Story of an African Farm",
+    "author": "Schreiner, Olive",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 994
+  },
+  {
+    "title": "The Seats of the Mighty",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4905
+  },
+  {
+    "title": "The Right of Way",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5550
+  },
+  {
+    "title": "The Weavers",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5551
+  },
+  {
+    "title": "The Battle of the Strong",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5552
+  },
+  {
+    "title": "The Trail of the Sword",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5553
+  },
+  {
+    "title": "The Trespasser",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5554
+  },
+  {
+    "title": "The Lane That Had No Turning",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5555
+  },
+  {
+    "title": "The Money Master",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5556
+  },
+  {
+    "title": "The World for Sale",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5557
+  },
+  {
+    "title": "Wild Youth, and Another",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5558
+  },
+  {
+    "title": "The Judgment House",
+    "author": "Parker, Gilbert",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5559
+  },
+  {
+    "title": "To Have and to Hold",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5580
+  },
+  {
+    "title": "Audrey",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5581
+  },
+  {
+    "title": "Prisoners of Hope",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5582
+  },
+  {
+    "title": "Lewis Rand",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5583
+  },
+  {
+    "title": "The Long Roll",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5584
+  },
+  {
+    "title": "Cease Firing",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5585
+  },
+  {
+    "title": "The Witch",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5586
+  },
+  {
+    "title": "The Wanderers",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5587
+  },
+  {
+    "title": "1492",
+    "author": "Johnston, Mary",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 5588
+  },
+  {
+    "title": "The Crisis",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 596
+  },
+  {
+    "title": "Richard Carvel",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 597
+  },
+  {
+    "title": "The Crossing",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 598
+  },
+  {
+    "title": "The Dwelling Place of Light",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 599
+  },
+  {
+    "title": "The Inside of the Cup",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 600
+  },
+  {
+    "title": "A Modern Chronicle",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 601
+  },
+  {
+    "title": "Mr. Crewe's Career",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 602
+  },
+  {
+    "title": "Coniston",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 603
+  },
+  {
+    "title": "A Far Country",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 604
+  },
+  {
+    "title": "The Celebrity",
+    "author": "Churchill, Winston",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 605
+  },
+  {
+    "title": "The Virginian",
+    "author": "Wister, Owen",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1464
+  },
+  {
+    "title": "Lin McLean",
+    "author": "Wister, Owen",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1465
+  },
+  {
+    "title": "Lady Baltimore",
+    "author": "Wister, Owen",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1466
+  },
+  {
+    "title": "Members of the Family",
+    "author": "Wister, Owen",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1467
+  },
+  {
+    "title": "Red Men and White",
+    "author": "Wister, Owen",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 1468
+  },
+  {
+    "title": "The Pentecost of Calamity",
+    "author": "Wister, Owen",
+    "genre": "History",
+    "gutenberg_id": 1469
+  },
+  {
+    "title": "The Conqueror",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2581
+  },
+  {
+    "title": "The Splendid Idle Forties",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2582
+  },
+  {
+    "title": "Rezánov",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2583
+  },
+  {
+    "title": "The Californians",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2584
+  },
+  {
+    "title": "The Doomswoman",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2585
+  },
+  {
+    "title": "A Whirl Asunder",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2586
+  },
+  {
+    "title": "The Aristocrats",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2587
+  },
+  {
+    "title": "Tower of Ivory",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2588
+  },
+  {
+    "title": "The Sisters-in-Law",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2589
+  },
+  {
+    "title": "Sleeping Fires",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2590
+  },
+  {
+    "title": "The Gorgeous Isle",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2591
+  },
+  {
+    "title": "Perch of the Devil",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2592
+  },
+  {
+    "title": "Patience Sparhawk and Her Times",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2593
+  },
+  {
+    "title": "The Avalanche",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2594
+  },
+  {
+    "title": "The Bell in the Fog and Other Stories",
+    "author": "Atherton, Gertrude",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 2595
+  },
+  {
+    "title": "The Covered Wagon",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4041
+  },
+  {
+    "title": "The Mississippi Bubble",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4042
+  },
+  {
+    "title": "54-40 or Fight",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4043
+  },
+  {
+    "title": "The Story of the Outlaw",
+    "author": "Hough, Emerson",
+    "genre": "History",
+    "gutenberg_id": 4044
+  },
+  {
+    "title": "The Purchase Price",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4045
+  },
+  {
+    "title": "The Sagebrusher",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4046
+  },
+  {
+    "title": "The Way to the West",
+    "author": "Hough, Emerson",
+    "genre": "History",
+    "gutenberg_id": 4047
+  },
+  {
+    "title": "Heart's Desire",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4048
+  },
+  {
+    "title": "The Girl at the Halfway House",
+    "author": "Hough, Emerson",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4049
+  },
+  {
+    "title": "The Man of the Hour",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4181
+  },
+  {
+    "title": "The Heart of Toil",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4182
+  },
+  {
+    "title": "Stories of a Western Town",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4183
+  },
+  {
+    "title": "Knitters in the Sun",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4184
+  },
+  {
+    "title": "Otto the Knight and Other Trans-Mississippi Stories",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4185
+  },
+  {
+    "title": "A Slave to Duty and Other Women",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4186
+  },
+  {
+    "title": "The Missionary Sheriff",
+    "author": "Thanet, Octave",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4187
+  },
+  {
+    "title": "By the Light of the Soul",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4201
+  },
+  {
+    "title": "Jerome, A Poor Man",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4202
+  },
+  {
+    "title": "The Portion of Labor",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4203
+  },
+  {
+    "title": "The Shoulders of Atlas",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4204
+  },
+  {
+    "title": "The Debtor",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4205
+  },
+  {
+    "title": "The Heart's Highway",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4206
+  },
+  {
+    "title": "A Humble Romance and Other Stories",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4207
+  },
+  {
+    "title": "A New England Nun and Other Stories",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4208
+  },
+  {
+    "title": "The Wind in the Rose-Bush and Other Stories of the Supernatural",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4209
+  },
+  {
+    "title": "The Love of Parson Lord and Other Stories",
+    "author": "Freeman, Mary E. Wilkins",
+    "genre": "Historical Fiction",
+    "gutenberg_id": 4210
+  }
+]
